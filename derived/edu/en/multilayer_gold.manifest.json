@@ -1,0 +1,1050 @@
+{
+  "boundary_inventory": {
+    "path": "derived/boundaries/en_multilayer_gold.tsv",
+    "rows": 680,
+    "sha256": "e42da4c39f8ff30f25c96ed41b88d13068da06d58c85cd41b0f9e3bb554f9dbb"
+  },
+  "collection": "English multilayer gold EDU segmentation",
+  "counts": {
+    "adus": 576,
+    "documents": 112,
+    "english_edus": 680,
+    "internal_boundaries": 104,
+    "refined_documents": 53,
+    "sameunit_documents": 9,
+    "split_adus": 83
+  },
+  "documents": [
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b001",
+      "edu_count": 7,
+      "edu_file_sha256": "12e7d8be9a14474751d868f419dbf5103e03d331edd70d9ef4dccc9446d94104",
+      "path": "derived/edu/en/multilayer_gold/micro_b001.edus",
+      "raw_sha256": "73b3a6b2ba3f9c4d7bd85bfd0a1f3bcaabd5f2a4a6e29a56d2475c86289c8541",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b002",
+      "edu_count": 9,
+      "edu_file_sha256": "cc789a8a3399e905e6ea09cbd72d06af896829f9e7f8402b6998ae0908146b06",
+      "path": "derived/edu/en/multilayer_gold/micro_b002.edus",
+      "raw_sha256": "147fb482669d3fea85750a160e5af75ce10dc8e898349021df65011a18397a3f",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b003",
+      "edu_count": 6,
+      "edu_file_sha256": "3bfc0caebd4a7f321c8b9a0c0af6979cf72e85eb464595c956ec5d354f407cba",
+      "path": "derived/edu/en/multilayer_gold/micro_b003.edus",
+      "raw_sha256": "da9359cebfbfb569417d422e69707f4eca9f03fd9ecaffd2a5cdcdd40f83ac69",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b004",
+      "edu_count": 5,
+      "edu_file_sha256": "0dcc0a9737e261b57c8756853c1bafa9e431ad784f4d779435114966d666df66",
+      "path": "derived/edu/en/multilayer_gold/micro_b004.edus",
+      "raw_sha256": "50134ab171373f02ad4898144bcb4645a27060823049d9c020b40fc291095264",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b005",
+      "edu_count": 5,
+      "edu_file_sha256": "a87f84260835a10584740fbd21372f3eb8ea480eadd5bb46fc58e5a42660b7c1",
+      "path": "derived/edu/en/multilayer_gold/micro_b005.edus",
+      "raw_sha256": "e0660c052285cbb9c9edcad2800be707f0b8787d8343aacca40155231a29ca13",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b006",
+      "edu_count": 5,
+      "edu_file_sha256": "eeb2928a8bded3df2a7e876ab8a43b00cd921c4e17080e104065dc2b1a55039c",
+      "path": "derived/edu/en/multilayer_gold/micro_b006.edus",
+      "raw_sha256": "d9884e524de0e58ef2862d6e0fbf75c25966beb700631bdef53442e675014b13",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b007",
+      "edu_count": 5,
+      "edu_file_sha256": "2e353e37eb524832e0ee59c97295c80152c06442e679f61a696e44262a761a03",
+      "path": "derived/edu/en/multilayer_gold/micro_b007.edus",
+      "raw_sha256": "5c7ba7f19e4b501422a494b41a62020813ce0436af328cc76a089a50dab5a788",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b008",
+      "edu_count": 5,
+      "edu_file_sha256": "9467e0184d3a5ef23e2972dd4b55677c2dd26ce66d2408660f6cf91a31c33979",
+      "path": "derived/edu/en/multilayer_gold/micro_b008.edus",
+      "raw_sha256": "bbb451dd0ab917c969aef983ec26c778a04ae3f740bf8bed1ce9415365756f8d",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 4,
+      "doc_id": "micro_b009",
+      "edu_count": 4,
+      "edu_file_sha256": "f5303787b4ff492c3051cf84869c08082fa0a4ca739693689aa1b004d3cc8de0",
+      "path": "derived/edu/en/multilayer_gold/micro_b009.edus",
+      "raw_sha256": "491f79bf14ed8705422e3269bde3d99fd9c9e210b63ca2c3fd482f09e0a2d9f1",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b010",
+      "edu_count": 5,
+      "edu_file_sha256": "e253d12d277cd35462e5a546d79f1ccca3b123def04cb480f89c55b319960a2f",
+      "path": "derived/edu/en/multilayer_gold/micro_b010.edus",
+      "raw_sha256": "48eeaacc3dfbe52a8cb9a554e5f77188c1957793124cd0f26ab9f8c5cc77f09a",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 3,
+      "doc_id": "micro_b011",
+      "edu_count": 4,
+      "edu_file_sha256": "761aef8a73d5bc8d8e231dda77c1c4a100c89822f4f0222f49529b1a60b85836",
+      "path": "derived/edu/en/multilayer_gold/micro_b011.edus",
+      "raw_sha256": "434551bc642f78a798ba81b648b16f14fade055e4ff138fca0a4b45b629e0f61",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 4,
+      "doc_id": "micro_b012",
+      "edu_count": 5,
+      "edu_file_sha256": "c60d5df96cae69aee747b33ebf610a33d4b2665dd9c03f8179f88de218b483a0",
+      "path": "derived/edu/en/multilayer_gold/micro_b012.edus",
+      "raw_sha256": "ee597ba6f1ce2ffc97f54fb93a9959b34df262a00f2481c452f010a3f063e0ec",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b013",
+      "edu_count": 5,
+      "edu_file_sha256": "8c64c93ee356617450a59bfb3aee85e81c0b520c31c0c5427dd3a84f6a9ac463",
+      "path": "derived/edu/en/multilayer_gold/micro_b013.edus",
+      "raw_sha256": "7554b21df43ec5d9d213fa9f77c0cd8a0e12b9229f427f528df9724dd7e1cd1e",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b014",
+      "edu_count": 6,
+      "edu_file_sha256": "ba96ad1ec3914c22aa3307a9e90f5d57c71fc99fbbc57534e28b776a59cb92c0",
+      "path": "derived/edu/en/multilayer_gold/micro_b014.edus",
+      "raw_sha256": "88c66c459335f300e532451814fd2bd54097b38dcf6240e40c653dcf1fef9458",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b015",
+      "edu_count": 7,
+      "edu_file_sha256": "830d5fa43f0f5006551538dea01cc2ee42637739cf6471fe27445972aa848d62",
+      "path": "derived/edu/en/multilayer_gold/micro_b015.edus",
+      "raw_sha256": "f312d2f0668a5d2846e37c26d6527781b0da1a521f1d05b746380d218c5a71d8",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b016",
+      "edu_count": 8,
+      "edu_file_sha256": "6a2fd89968e8b23ad0f6f8889181846ca0fe07fba8edb5b36775012f027ec20f",
+      "path": "derived/edu/en/multilayer_gold/micro_b016.edus",
+      "raw_sha256": "4e5278a15392591e04b374ad110af4684311f57a94f25882ae1e1d359ca2c944",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b017",
+      "edu_count": 6,
+      "edu_file_sha256": "18cd9f4e31d93bff8677d01ece7d70bbe84fabc189c06ff2c36a2ab5948e166e",
+      "path": "derived/edu/en/multilayer_gold/micro_b017.edus",
+      "raw_sha256": "e4927f1e199d893d2f3949550b342029f89fbe3f47ae5129d26bbffcd42568c2",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b018",
+      "edu_count": 5,
+      "edu_file_sha256": "e1e08c459028976dd9fd024e0e2c59e1b4540e21a28e312d7e72f74b49eca1fe",
+      "path": "derived/edu/en/multilayer_gold/micro_b018.edus",
+      "raw_sha256": "9b2a4c1c6908afd295f2f058f6d3504564c5000f956120707c1a099908bfc8a1",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b019",
+      "edu_count": 6,
+      "edu_file_sha256": "d8949847c3e3d67886816b50dbdc98a9358f4442e568b103e2c517a30a63bb3e",
+      "path": "derived/edu/en/multilayer_gold/micro_b019.edus",
+      "raw_sha256": "e26a5278eaf0e768f1a3daa5bc3696a8b3f952b394f46fb140816ca0548d3a0a",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b020",
+      "edu_count": 6,
+      "edu_file_sha256": "2d44fa1f7b2a3c813fb326138ff4ed56c475bc19e319b0483fb123339ca1d375",
+      "path": "derived/edu/en/multilayer_gold/micro_b020.edus",
+      "raw_sha256": "d920166240918a13ab96fb3443d411916f900b7eb968dcc05c7b48b7b02c4626",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 4,
+      "doc_id": "micro_b021",
+      "edu_count": 4,
+      "edu_file_sha256": "9626837f1c792f1bf697f34f34fe407da566d5fe71ff9aff56265a8d6c6f9ee3",
+      "path": "derived/edu/en/multilayer_gold/micro_b021.edus",
+      "raw_sha256": "f22e9a6dfe5a6f19214299c18152e41bbafc98ef5cdf9abf0c5192203c194d2b",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b022",
+      "edu_count": 5,
+      "edu_file_sha256": "811eda6b26e4dd4ec747331fb3e7a708e66432f6446a7fafd5a9c45985b0b48c",
+      "path": "derived/edu/en/multilayer_gold/micro_b022.edus",
+      "raw_sha256": "238c0a53aa6fc34976af51f3021484b97cc9505f7c0f7769df3fbba784e20add",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b023",
+      "edu_count": 5,
+      "edu_file_sha256": "b07ab51c4f9c243ddc5e963c824a376e8f46a5b4ea28e0d984774d92c56c244a",
+      "path": "derived/edu/en/multilayer_gold/micro_b023.edus",
+      "raw_sha256": "fa347e7b4fb635a6e62d2222820fe60cf43d16a15ae1a33df2b2e052143f4d1a",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b024",
+      "edu_count": 7,
+      "edu_file_sha256": "a257dcd4a22f21bded78e4791921cb598040bbed7e3dd1f534d025cd473de630",
+      "path": "derived/edu/en/multilayer_gold/micro_b024.edus",
+      "raw_sha256": "93fc7cceb35c353f46a7af0f5067506fcd6d473de5f2612bbaa1a52a3f5a2304",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b025",
+      "edu_count": 6,
+      "edu_file_sha256": "98b7d35ad41dbf811120e974141c9d8000be1cb961dfc4bd9ab3c288d01d42cf",
+      "path": "derived/edu/en/multilayer_gold/micro_b025.edus",
+      "raw_sha256": "cd988bdfcf5943ad522fe7ab88f4bef424af571174bf275b67c47fd72118cc2a",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b026",
+      "edu_count": 7,
+      "edu_file_sha256": "f0f636242c5021563e7055707e3adebcd77b92b6416f735c5a35204889a82bfd",
+      "path": "derived/edu/en/multilayer_gold/micro_b026.edus",
+      "raw_sha256": "371704b79c226b13ba5c35fd9f2219ae78f0d0ba25bcf1daf97bf2f2d17f2c84",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b027",
+      "edu_count": 5,
+      "edu_file_sha256": "e511a46a15c02fdcb82942a83b2b264e7e7174c9cff9f2388cffcb9e05423d8c",
+      "path": "derived/edu/en/multilayer_gold/micro_b027.edus",
+      "raw_sha256": "aeac7074ee3d232acbad4d67145bcbdc31d2698f79d86fd3df8642aba646c988",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b028",
+      "edu_count": 5,
+      "edu_file_sha256": "e7153ee4a8e28d7a5924ed34953b46a6ed8f9d8bc83f82c0517136e73e550048",
+      "path": "derived/edu/en/multilayer_gold/micro_b028.edus",
+      "raw_sha256": "b7528d09740da455c45640029b0d3636e4810ddb34a88fc16764671d53a1ccbc",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b029",
+      "edu_count": 5,
+      "edu_file_sha256": "f8b7083f2ace909f907dc910da4a335f464de017f39374ef0075633f46f6974a",
+      "path": "derived/edu/en/multilayer_gold/micro_b029.edus",
+      "raw_sha256": "b812a58ff8703f38826e8d6ef2674b0e96b16ac2043e9781ed3ac0900fafb9ec",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 4,
+      "doc_id": "micro_b030",
+      "edu_count": 4,
+      "edu_file_sha256": "ce7d02fe1fb4a35be57c996a3bb68fc696c014ce00c54f86a2f8f266d6ec3b93",
+      "path": "derived/edu/en/multilayer_gold/micro_b030.edus",
+      "raw_sha256": "b4b16db8c39e620a8daabf6e5c637c62aedd733401d12c6dfe8722cf891e1b7e",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 4,
+      "doc_id": "micro_b031",
+      "edu_count": 4,
+      "edu_file_sha256": "86e0d24c7ff18a58677078dcb0f47e5ecdaf30736a6bbea218b97320929d2364",
+      "path": "derived/edu/en/multilayer_gold/micro_b031.edus",
+      "raw_sha256": "6bab4224c236ef5231d1fe89c034ac4b27e15c9315ecb86870c88b644fa39f41",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 4,
+      "doc_id": "micro_b032",
+      "edu_count": 5,
+      "edu_file_sha256": "7934a28aae041d62e1684fb30ca17bc530cf10297400e7338fd3cedb541acd8a",
+      "path": "derived/edu/en/multilayer_gold/micro_b032.edus",
+      "raw_sha256": "42b57beee4d12609c8405eb8784e9bd15a9ed5d8247b6a35a5398d14b2de437c",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 3,
+      "doc_id": "micro_b033",
+      "edu_count": 3,
+      "edu_file_sha256": "4e9c23019aea7dc587f280b4f2e3e61caef5cd06ebabca9f045c186ac8dc7f7f",
+      "path": "derived/edu/en/multilayer_gold/micro_b033.edus",
+      "raw_sha256": "4920aac62b29a61c851a16f96b25fb2b7d9407f4dc17d3b3a03ee8c1ad8307fc",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b034",
+      "edu_count": 6,
+      "edu_file_sha256": "1a4bf0a79c48e61b22dbd93ef4d42d86ad670eb6d30d720fd6b3727b2ff42b7b",
+      "path": "derived/edu/en/multilayer_gold/micro_b034.edus",
+      "raw_sha256": "4c1ee36ca7d6428d480cdbf8e50c9ba51951be00f89c05bc16c2ee14ebe20f58",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b035",
+      "edu_count": 6,
+      "edu_file_sha256": "b4c1092655141f8fc6dce41dd6030302a48ffd77343eb02e0251cfe75deaf221",
+      "path": "derived/edu/en/multilayer_gold/micro_b035.edus",
+      "raw_sha256": "aa60953b320888f4a62c2ec0f897db6bdee1f8f2792580c59ef1816aa9baa5b5",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b036",
+      "edu_count": 8,
+      "edu_file_sha256": "7caade4887df6dd336ed6418c34c7a6667e7ebf3bcac3dd579a81857cc701a43",
+      "path": "derived/edu/en/multilayer_gold/micro_b036.edus",
+      "raw_sha256": "5856f0cbba1c1ec4d5f488f2384c3ce4f74b03e34447af164bb802d8147c8512",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b037",
+      "edu_count": 5,
+      "edu_file_sha256": "139667edc31a8c44bb676f674fe956cb2eaa52ff4244311c01410883d4171490",
+      "path": "derived/edu/en/multilayer_gold/micro_b037.edus",
+      "raw_sha256": "9ef7686546a53eab8a9f5742c6c74d8b4cc6a9a2225b9ac0afb75ad8f6a062ea",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b038",
+      "edu_count": 8,
+      "edu_file_sha256": "7afd6894f6019241bbef1fa17605fafc7089705b939aa806ae2de674692fa1bf",
+      "path": "derived/edu/en/multilayer_gold/micro_b038.edus",
+      "raw_sha256": "683f42622fd644cd495b2eaa99cb2827d649d698d8ac11dad5e09b12ec811771",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b039",
+      "edu_count": 7,
+      "edu_file_sha256": "ce7993f955878e6275565315de8618f18628f4cf384187fe0329fb65b914ed60",
+      "path": "derived/edu/en/multilayer_gold/micro_b039.edus",
+      "raw_sha256": "e3ec9ae07a441593817ade0239af52d1f23c5dce45fc6065db0f05bedd0f1fd0",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b040",
+      "edu_count": 8,
+      "edu_file_sha256": "38965de4db023a34994b01e836e1c83e6863219d42ba2751a76c8df2f3ad6fdc",
+      "path": "derived/edu/en/multilayer_gold/micro_b040.edus",
+      "raw_sha256": "4fb32b267c094e970387561d88967d4a07a96dd6fe36ea587dc0528e8f0e86cc",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b041",
+      "edu_count": 9,
+      "edu_file_sha256": "0f4e4019b216bd5cd1f53a417f57aa3952604ad47aaae5687e28cfd19697a9c7",
+      "path": "derived/edu/en/multilayer_gold/micro_b041.edus",
+      "raw_sha256": "f69d3946b503f4c5d3999dcaf95df194213423c42d5e3ab6d9d337a61cc5ae70",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b042",
+      "edu_count": 9,
+      "edu_file_sha256": "b0f9f169081d28e9020b7502ef11fd3fe0aba1d7bcf668437924a3159eb37554",
+      "path": "derived/edu/en/multilayer_gold/micro_b042.edus",
+      "raw_sha256": "065500f28c7f0be9e1c3b0f6f46dd51b5909392e96d36fe1d28a1ecca30be341",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b044",
+      "edu_count": 6,
+      "edu_file_sha256": "913fad8787f2fb4d7c943a00508c2990114dee2a92ba2f1cc76a6efc8ac0ca6e",
+      "path": "derived/edu/en/multilayer_gold/micro_b044.edus",
+      "raw_sha256": "b1c617f8e88536422220e3554ec1dc68b455fed83d4c5a6d87bdbb2ee69742ef",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b045",
+      "edu_count": 9,
+      "edu_file_sha256": "ae0ee303bb4b64dc9e1e1e682ad278c5c97233205fd5d5b9a02eca41d408298b",
+      "path": "derived/edu/en/multilayer_gold/micro_b045.edus",
+      "raw_sha256": "babcdac431a195ef384d6d88f282a33d538c6b80ad83abdf4c23e88bf071750d",
+      "sameunit_affected": true
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b046",
+      "edu_count": 5,
+      "edu_file_sha256": "4362a65462ea74ecba9c1bbf248c9bdad011973f9f6954d950c85e2199f5c1d6",
+      "path": "derived/edu/en/multilayer_gold/micro_b046.edus",
+      "raw_sha256": "e1e4b2bbbd353106926809999268af4472333c527af868a0d8a2f90b8375d5cb",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b047",
+      "edu_count": 5,
+      "edu_file_sha256": "90e536e8099b569b90f3222fa3ec8cfb611c7c26f197c84b9cdc814a6d498568",
+      "path": "derived/edu/en/multilayer_gold/micro_b047.edus",
+      "raw_sha256": "1e658d53d774229446ae6c6e8c4c592083bd01c01f98cc5dc4650613faefe158",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b048",
+      "edu_count": 5,
+      "edu_file_sha256": "547a9a8de5fd95f10c862b7b00f71d80c9c2c2653e72de0cdd337e1a25963b92",
+      "path": "derived/edu/en/multilayer_gold/micro_b048.edus",
+      "raw_sha256": "248cf34260b2e05ca3b530556ae3cf9c4dd676f3eed822a5236462f25425c35b",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b049",
+      "edu_count": 6,
+      "edu_file_sha256": "54bce1c3052999361ed755d40ec99b758b10259eaaf8af2b4f4924de70e21c81",
+      "path": "derived/edu/en/multilayer_gold/micro_b049.edus",
+      "raw_sha256": "b4d7eeb586139080f2fe10f3f9387b152207fa6a356e0de2a9af2a8e106f3b53",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b050",
+      "edu_count": 5,
+      "edu_file_sha256": "8deb890c42ba8e8d3ebfecc383968b99479fc57e6123c85a241d07ab1d88c7aa",
+      "path": "derived/edu/en/multilayer_gold/micro_b050.edus",
+      "raw_sha256": "e191820f913038e33e37757a922783403f91b2fec45a02b91ea09ca4a18d329a",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b051",
+      "edu_count": 6,
+      "edu_file_sha256": "0dcfc8c53696311064f1609895878f80ea3caac5c365817b70dfe8c6f35df190",
+      "path": "derived/edu/en/multilayer_gold/micro_b051.edus",
+      "raw_sha256": "15e19ebe4123ded77789cd91e3b2b23bad0152740ab664adb23b7f406dcb3c28",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b052",
+      "edu_count": 9,
+      "edu_file_sha256": "6dc3c986f6006415f4591136c7102018dfdd7f5aeb35b045cd256ecc263e6012",
+      "path": "derived/edu/en/multilayer_gold/micro_b052.edus",
+      "raw_sha256": "86686daadf2a861888909d835279e9e219d8247d699cef61c78435160fd0768f",
+      "sameunit_affected": true
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b053",
+      "edu_count": 6,
+      "edu_file_sha256": "1a0ab1240c4f6020219355f48461bbf3d7b929c071d4f08d7587664db6a704a4",
+      "path": "derived/edu/en/multilayer_gold/micro_b053.edus",
+      "raw_sha256": "af070f9b7e39d468f7ed42068cfd66f4b258ee5490f531c605d6917a4a6b2257",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b054",
+      "edu_count": 10,
+      "edu_file_sha256": "aac08e77e7934376d36bd02d733cc7245dae83c7fc9cd118c86d723d6abea1db",
+      "path": "derived/edu/en/multilayer_gold/micro_b054.edus",
+      "raw_sha256": "6254857088fbdbafc4bc4f27f005ae529346480f82b7e8721596bf00d5fb2d88",
+      "sameunit_affected": true
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b055",
+      "edu_count": 6,
+      "edu_file_sha256": "343f5c1887e47581ce5815f748c206d7a75117a749665364561fc6295ae69cc0",
+      "path": "derived/edu/en/multilayer_gold/micro_b055.edus",
+      "raw_sha256": "feb07bb1d9724c2363b7a59a1bd2981076fbaf49c45c85ce9429d340c6362f01",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b056",
+      "edu_count": 8,
+      "edu_file_sha256": "f02b0d6d8377f95062959ed043bbcbe29835ab0709c3f563b6907a62318c9dbc",
+      "path": "derived/edu/en/multilayer_gold/micro_b056.edus",
+      "raw_sha256": "2a54bed3ce68964a414fb8ecbfd2396d251d2edcb371bbf6f18244e4df8dafd3",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 4,
+      "doc_id": "micro_b057",
+      "edu_count": 9,
+      "edu_file_sha256": "9cf4eb82b5361e276d7fdd64ed5ff73ecedfeeb107328f1d09eefbcc8c6933bd",
+      "path": "derived/edu/en/multilayer_gold/micro_b057.edus",
+      "raw_sha256": "2a8c2d6f39642e25fd0286aa89f89d31d2e4c0bb2b24e053d7f289bed700b400",
+      "sameunit_affected": true
+    },
+    {
+      "adu_count": 7,
+      "doc_id": "micro_b058",
+      "edu_count": 10,
+      "edu_file_sha256": "7127c19d4b5e14c349d09575aee0f9c9eeb92b1d4b16f65f273f02f6e87623f7",
+      "path": "derived/edu/en/multilayer_gold/micro_b058.edus",
+      "raw_sha256": "61b3fb69a519d4ddd48c88cba84bd601a16e0b56b2946e711f5f03f7ee2324c1",
+      "sameunit_affected": true
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b059",
+      "edu_count": 7,
+      "edu_file_sha256": "b8cbda468231a0acd1ada071b729dc06221176b2229df2098f74f745a4564d5e",
+      "path": "derived/edu/en/multilayer_gold/micro_b059.edus",
+      "raw_sha256": "b355f246c60435ffc75439130995d4c071b2948b1cbbc97486a6b2ca011b999e",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_b060",
+      "edu_count": 5,
+      "edu_file_sha256": "5e4ac50a652814e14494d546891592f4eb45d5d9ee1b8e72e52e8c790da6f51c",
+      "path": "derived/edu/en/multilayer_gold/micro_b060.edus",
+      "raw_sha256": "1f864c41c9ebd6520f4a918355f16c2c52a612e62a9e51d56a6e7a3201dfb330",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 3,
+      "doc_id": "micro_b061",
+      "edu_count": 4,
+      "edu_file_sha256": "29d8a45bb0d80b8c454b72d1716dd3e058be5b479ea854c9d042ed3ddebd64b2",
+      "path": "derived/edu/en/multilayer_gold/micro_b061.edus",
+      "raw_sha256": "ab70cea28192044fd25acd84e1983246fd30085024d119468d40e93b6d4632a0",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b062",
+      "edu_count": 7,
+      "edu_file_sha256": "6ce440821125c81b4caa53bdd33e3caefee192fe7a0803cc9ac031e1087eb68e",
+      "path": "derived/edu/en/multilayer_gold/micro_b062.edus",
+      "raw_sha256": "a1778c6239e39232b2c0a37624bce1f580774cef93ed625cb5277ffcfd41735d",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_b064",
+      "edu_count": 7,
+      "edu_file_sha256": "71e104e9993c178fff220c39e143ce1976e4ac3090baa8aab6a640bb390969e8",
+      "path": "derived/edu/en/multilayer_gold/micro_b064.edus",
+      "raw_sha256": "c59ed57a69b56cb55047b9dbb13690eb07d5ed12a51d6aacee31ab6380111d81",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d01",
+      "edu_count": 5,
+      "edu_file_sha256": "1f9740edfad1ab33b5038632eea6f40f87c574e4b9e31e93419395a2741a391a",
+      "path": "derived/edu/en/multilayer_gold/micro_d01.edus",
+      "raw_sha256": "2f320971bd5d77438a12512cf17c444c881776b346aa95f659bac29e846c7309",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d02",
+      "edu_count": 6,
+      "edu_file_sha256": "dd1fb64d0ab4fc6ee4fe8cb16bfdf37c0b4751c36b21359e2960852ea4b8cc76",
+      "path": "derived/edu/en/multilayer_gold/micro_d02.edus",
+      "raw_sha256": "717b15a37927f63a1fb8dc627208914c0efd7aeaf0d9792114b23dd939831fc9",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d03",
+      "edu_count": 5,
+      "edu_file_sha256": "aea197cdb63dfe97bd34bf297161357bedf82dc5e8cec8e90d4f603ffa484efd",
+      "path": "derived/edu/en/multilayer_gold/micro_d03.edus",
+      "raw_sha256": "71e93aefb60c9701d7e3d4f73f1391294c1abb0c854235935e38e286d8b5a863",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d04",
+      "edu_count": 6,
+      "edu_file_sha256": "fa3b77411e9653165747c537d95aec81851a1a8112fbb6a40727402ea4d66d75",
+      "path": "derived/edu/en/multilayer_gold/micro_d04.edus",
+      "raw_sha256": "78aab83937006b19c7f57b56024dbed645c16b9a266003a06f12dc2c63fa6cb8",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d05",
+      "edu_count": 5,
+      "edu_file_sha256": "38121dda2c9538764a1faa671b52ce2de3d01a233565082e36aa553ab945543a",
+      "path": "derived/edu/en/multilayer_gold/micro_d05.edus",
+      "raw_sha256": "a3323ea8ea57dc3fcfa187eaf030b7e596a0e7e3c8dd7dbf175ed87a4aab3c3a",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d06",
+      "edu_count": 5,
+      "edu_file_sha256": "08185395dc1261de7e761ecc7ba079fc635599b25e89883f140decdca8a861d6",
+      "path": "derived/edu/en/multilayer_gold/micro_d06.edus",
+      "raw_sha256": "ee9cc62ffb7b7d5f6c8cc5a1d7fb4f73d7e1e16bb0eea2adb40f40de0272f19d",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d07",
+      "edu_count": 5,
+      "edu_file_sha256": "1df79bfe96cd015515d3353a6d3fd7218302a621d712074335d9557a29e8245a",
+      "path": "derived/edu/en/multilayer_gold/micro_d07.edus",
+      "raw_sha256": "eaf77670aabd7be9bc46d07add593a84a5695fcae22aeed70a05bdaebd38b215",
+      "sameunit_affected": true
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d08",
+      "edu_count": 5,
+      "edu_file_sha256": "0c0595a0a9e3d3efa8f6ac961d40880f40b9d9355a2d0c2f12132b358a68637f",
+      "path": "derived/edu/en/multilayer_gold/micro_d08.edus",
+      "raw_sha256": "7e2189974fc09a51fb1e8493a4cd7eaa6a76e8aac272b8a4b0c48ce948017c38",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d09",
+      "edu_count": 5,
+      "edu_file_sha256": "c914924b44a437124353471311ca53b98ca009c820782c050ee44461ad4683af",
+      "path": "derived/edu/en/multilayer_gold/micro_d09.edus",
+      "raw_sha256": "a7f4454c1b7848248d54b8633c9ebded54d50f801c7b181a9d5f016da0f8adc2",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d10",
+      "edu_count": 5,
+      "edu_file_sha256": "f06ae16afa39adfed64256f47e6bb596d090bc8059af0210b45d40ddbf3da8fb",
+      "path": "derived/edu/en/multilayer_gold/micro_d10.edus",
+      "raw_sha256": "82a34f26401e340ef88a935f3d859f22409079520efac65077151b2b98844747",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d11",
+      "edu_count": 5,
+      "edu_file_sha256": "7bee69e1e2baca19ce2ac2b10cb77990c78f319056ed273eab9fed41563d6dcb",
+      "path": "derived/edu/en/multilayer_gold/micro_d11.edus",
+      "raw_sha256": "e6e696631e4acf9fd0102fbde24cb41cfaf05b2d3057674663b78f2477711bf7",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d12",
+      "edu_count": 5,
+      "edu_file_sha256": "db4264686d53c0f8704b829c8d8912ff1f9174e7a8edc0ec5c23fbd369176d89",
+      "path": "derived/edu/en/multilayer_gold/micro_d12.edus",
+      "raw_sha256": "8dc7dd368bfd7811e1e6a2a0eb56b3135a9f9f8957078a177a72b88e56afbcbe",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d13",
+      "edu_count": 7,
+      "edu_file_sha256": "a387144a1ed4d104dd9516f73a2513c01c70aabd1e01a9abe005e6fd357e6132",
+      "path": "derived/edu/en/multilayer_gold/micro_d13.edus",
+      "raw_sha256": "16e8449718bbe06f9693807c9fa774ba1b44e51991ef7432c0f6200a693086e7",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d14",
+      "edu_count": 7,
+      "edu_file_sha256": "840ff7ce1a5ca6587dc841cf8174d7eb366fa3034d074b339e823cbe318ba333",
+      "path": "derived/edu/en/multilayer_gold/micro_d14.edus",
+      "raw_sha256": "818dea57b72dfff1fa9980e8492b662f6e36984de81aa9cf84f2e0b13a6ac82a",
+      "sameunit_affected": true
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d15",
+      "edu_count": 5,
+      "edu_file_sha256": "51fe6c0e467f12999f3bbd4243caf2f7f278c7aadc7d7faa958020c1a5925317",
+      "path": "derived/edu/en/multilayer_gold/micro_d15.edus",
+      "raw_sha256": "14b695a50d2148c1db118e297a22bb95f696267fd57c8413bc0356224176e120",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d16",
+      "edu_count": 5,
+      "edu_file_sha256": "bcb454151b51697723c6f61001d19e39a255cdd7dad56efccc676fc6f5308652",
+      "path": "derived/edu/en/multilayer_gold/micro_d16.edus",
+      "raw_sha256": "d0b9c11a8fc75a16feacf46c0d9525aebc6a6f1ab1cebf42952af424ca8ec07f",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d17",
+      "edu_count": 5,
+      "edu_file_sha256": "83fc54b5ec966abbba41d565994495ff440e06da34eb6929d6b6380cb8d58829",
+      "path": "derived/edu/en/multilayer_gold/micro_d17.edus",
+      "raw_sha256": "e87e7e70cf542739c6e6c1ec544336671c68a7183c0fc427704ea5000cf08fd6",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d18",
+      "edu_count": 5,
+      "edu_file_sha256": "e409d81f4fd0a6da29dacbe71709c8e4758f8c956b5927fb43c612dd4f9deee6",
+      "path": "derived/edu/en/multilayer_gold/micro_d18.edus",
+      "raw_sha256": "632e76fd06b701c97291ac7bb542dd28845564e3aad99fb859cfc6723bf64a44",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d19",
+      "edu_count": 5,
+      "edu_file_sha256": "16bc4188e0637a3f78e6741970efd2611c3680a13ba9ecbe87e92d0a7496cac0",
+      "path": "derived/edu/en/multilayer_gold/micro_d19.edus",
+      "raw_sha256": "a144cdc62bf88418ce8a9b65ec124a788a200e5bdc994cffd14e63322a17ecc3",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d20",
+      "edu_count": 5,
+      "edu_file_sha256": "38129ca2cad040702368adea1cc73841acaa61871aa59bcb83c90594192f01a1",
+      "path": "derived/edu/en/multilayer_gold/micro_d20.edus",
+      "raw_sha256": "6e5f0ec6526e66b1cab77c7d14690a3426c4ba7d50458ae5ed7ec97a8079040b",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d21",
+      "edu_count": 5,
+      "edu_file_sha256": "c0248eff7520bac90428bbb7ff5e1ba2f2e6b71659e003f8f7acd04dcb407af1",
+      "path": "derived/edu/en/multilayer_gold/micro_d21.edus",
+      "raw_sha256": "9c6d649f5afd7fa5100984c71a1d42f58f7cc416c4c4b1852d43326d840949c9",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d22",
+      "edu_count": 5,
+      "edu_file_sha256": "d6b894cd8a5bbefa24d6f601e4b1835f4abb6c0127e4ba7d2aff79bb3c3dfd92",
+      "path": "derived/edu/en/multilayer_gold/micro_d22.edus",
+      "raw_sha256": "f20609cea59a598fe14eadef084e50060ee0b79b5ec9598964962ee287fc91ac",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_d23",
+      "edu_count": 5,
+      "edu_file_sha256": "2d804617b498eb8b16f4f53e0d5d58d3301f0730a4041074a52e8bc30792909c",
+      "path": "derived/edu/en/multilayer_gold/micro_d23.edus",
+      "raw_sha256": "b5109521b55a4c8cff9c6f1eba5844c6367a7042ba77eea306b5eda437fda365",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_k001",
+      "edu_count": 7,
+      "edu_file_sha256": "e888a0321ccf732bbe42d24669c582264831b1281e0b9d523045cd88d2753ad8",
+      "path": "derived/edu/en/multilayer_gold/micro_k001.edus",
+      "raw_sha256": "46699e2060ec2423b27d399b6d06ec9224711c948705bae13f019c3d1c0b1fa9",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_k002",
+      "edu_count": 6,
+      "edu_file_sha256": "cd36f49e66bbfed5a152797ca491d7c88b718773e198561859b6d9d506b923f5",
+      "path": "derived/edu/en/multilayer_gold/micro_k002.edus",
+      "raw_sha256": "b6b4f3b6a411fa10b4f7a10052d7ddd3f80678d9129c7269a579b310a3657e9d",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_k003",
+      "edu_count": 5,
+      "edu_file_sha256": "a07b6a3c40ce874ec53ed52fb616846d181d1b1cea7fd831d7e97b7959c0c64e",
+      "path": "derived/edu/en/multilayer_gold/micro_k003.edus",
+      "raw_sha256": "572731ae6be07df2e86df4603cc5b51d377d0407f798c15f43c86f19c8330a85",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_k004",
+      "edu_count": 7,
+      "edu_file_sha256": "65d5eff9d618ad05a2233fc0e5a61674931b2ebbc68c8be5d9f6fe2a60dc3f96",
+      "path": "derived/edu/en/multilayer_gold/micro_k004.edus",
+      "raw_sha256": "5c32e06f01a0031350c508c462e15cb24e1c29110ac9c6d23d1620ee38cd661b",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_k006",
+      "edu_count": 8,
+      "edu_file_sha256": "fe9c9d60b27d4dec95a80ea766772e2c4f77e300ba9d70b71773ada46627f13a",
+      "path": "derived/edu/en/multilayer_gold/micro_k006.edus",
+      "raw_sha256": "d797f0260f6b513049732c8fe079516d5d6c5e88437130a285ef8c329f0609f9",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_k007",
+      "edu_count": 5,
+      "edu_file_sha256": "b9152527cabf824dd10e22a487e0016d14db70c5dc585425c7dfc0a603bc5b62",
+      "path": "derived/edu/en/multilayer_gold/micro_k007.edus",
+      "raw_sha256": "4cf2a1841315276b73701d86b21382d5ecde92c8370131535c67d986a13e9132",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 4,
+      "doc_id": "micro_k008",
+      "edu_count": 5,
+      "edu_file_sha256": "22e670facb0e45a54aa91a5d830d9703a84cc5c25623890e692f1720fba84b81",
+      "path": "derived/edu/en/multilayer_gold/micro_k008.edus",
+      "raw_sha256": "da6ec274640a817d2ba4a58d2ce8b439559e9ec4ec62adba56e12cf7abcc8440",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_k009",
+      "edu_count": 9,
+      "edu_file_sha256": "21c5a39bb5305005a8a9bd6c6d2393174171f63ca58d02be9b7f37eacb24d465",
+      "path": "derived/edu/en/multilayer_gold/micro_k009.edus",
+      "raw_sha256": "23be71d3871640332a535e9f604185c0cea8aff8369fd8b4808b37bb2af84bc7",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_k010",
+      "edu_count": 10,
+      "edu_file_sha256": "e47e9326f79d758f467029b87a4bb1322bde5eebb39ada390421f9115427b6e9",
+      "path": "derived/edu/en/multilayer_gold/micro_k010.edus",
+      "raw_sha256": "26a51939af98d2a4e8387c7f59e13a8e6f8d08f3834a683cb54af8a0aff5a292",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 10,
+      "doc_id": "micro_k011",
+      "edu_count": 13,
+      "edu_file_sha256": "f7643d14a16469e88bfbccd448a4f07013767cf9146e9997a82adc874049e26c",
+      "path": "derived/edu/en/multilayer_gold/micro_k011.edus",
+      "raw_sha256": "0e2624f1bddcb78c9e3aa5f2d1a5e3517e275bbbadc2bd2cba7a9196dbbd1df1",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_k012",
+      "edu_count": 7,
+      "edu_file_sha256": "49f165ddda98e94d7b95b6a58aee8616bfef0bbaf8b6369b7c063fa649fa49b8",
+      "path": "derived/edu/en/multilayer_gold/micro_k012.edus",
+      "raw_sha256": "aec3556494856efe0f610fb28efe55f88ab116a3264d9f5857b2bd8510846de5",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_k013",
+      "edu_count": 8,
+      "edu_file_sha256": "15a49730847bb374d93d30cdd33ce9e5584ad4681d6893e79edd519ab5827074",
+      "path": "derived/edu/en/multilayer_gold/micro_k013.edus",
+      "raw_sha256": "0a8aea8c90a625d9548bc5f2a94a7156191f7690e5cd59aa116721fbe879e8e6",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_k014",
+      "edu_count": 7,
+      "edu_file_sha256": "a0b02b030e0161801de97564cb4d36557539bf68ab6a569508ef21d391c60745",
+      "path": "derived/edu/en/multilayer_gold/micro_k014.edus",
+      "raw_sha256": "6ec1d1ce12c8d2c141717e6d55a3e40c549209a1a889733f2ec12f58f505926a",
+      "sameunit_affected": true
+    },
+    {
+      "adu_count": 4,
+      "doc_id": "micro_k015",
+      "edu_count": 4,
+      "edu_file_sha256": "8003aa0f79029ab1bf87a26ebfd53f255a0510d68e79f29f0ca447aec9456c01",
+      "path": "derived/edu/en/multilayer_gold/micro_k015.edus",
+      "raw_sha256": "79ed1ea2c15c7a114f19c7d0d95ead2e0d070f1fead05d2c5e5dc7de57acd5b7",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_k016",
+      "edu_count": 6,
+      "edu_file_sha256": "d5a12baea5d2e58fa5f6f77ba74f383801b5c1d0a21af50389f28750b7d98aac",
+      "path": "derived/edu/en/multilayer_gold/micro_k016.edus",
+      "raw_sha256": "3cd81baa3a8fe3d8ba3bd45afebd9cf10559b5afbccb4e73816b7922a9a416f8",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_k017",
+      "edu_count": 5,
+      "edu_file_sha256": "d08a3c3aec2f5451bb992531b75348d8358573fddedad3d24d7687ed3e7d70e3",
+      "path": "derived/edu/en/multilayer_gold/micro_k017.edus",
+      "raw_sha256": "668f930fcc52e6477035c4c127ee3d4e6d46008b26731489a38426f673e89b7f",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_k018",
+      "edu_count": 6,
+      "edu_file_sha256": "782fef4ebc050871f4aa764505bd26ad66982b0dd6a163006bc3082e13e3ac3c",
+      "path": "derived/edu/en/multilayer_gold/micro_k018.edus",
+      "raw_sha256": "a815f7e7db83494ccf0e1c65fee12208b28ef37fbf9c2e36f7498d1e3cd2fa17",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_k019",
+      "edu_count": 6,
+      "edu_file_sha256": "40ff78a51ea3067ec5c9c6bbdc2295ac1904bd845378394c71a11a08b7bd4c59",
+      "path": "derived/edu/en/multilayer_gold/micro_k019.edus",
+      "raw_sha256": "954272d4071a46c336cf700a81f5f93bf65091d3a1635b996b86c79aa52376c0",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_k020",
+      "edu_count": 6,
+      "edu_file_sha256": "2492af03af6e25d5d6dc5cacfaf425bbede7dfc85df31daa173192ee8e7b3a8e",
+      "path": "derived/edu/en/multilayer_gold/micro_k020.edus",
+      "raw_sha256": "b1c0b1f1ee39b7501efb175244c2c9d80b0bc58255a5b37eeb932368e6904231",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_k021",
+      "edu_count": 5,
+      "edu_file_sha256": "4b670a14a73fbfbec777f365c2211c1b1acc5d94e8180784bc65e8329452f2f0",
+      "path": "derived/edu/en/multilayer_gold/micro_k021.edus",
+      "raw_sha256": "ee145f31d7d75c0c6128a6d365be8dd0073404d705a1086f27b2cc19ee723d87",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_k022",
+      "edu_count": 7,
+      "edu_file_sha256": "dc8918c96ad15a670a87faafb6e306ec5353490d1b52a4cbd0e5238eb62f21b2",
+      "path": "derived/edu/en/multilayer_gold/micro_k022.edus",
+      "raw_sha256": "2e99ea4c58c90f2d4590d2ae1e85b2081a6c1c72f0290d478c3c2595878c99a1",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_k023",
+      "edu_count": 5,
+      "edu_file_sha256": "fc1333291723bc00b589da92a2323f96133fb0c75bb5e414d9e40490cf5c094c",
+      "path": "derived/edu/en/multilayer_gold/micro_k023.edus",
+      "raw_sha256": "d12c6f6ba9ab96362d451bb6df25f8db1b5601f82c0879d2f186814b810402dc",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 7,
+      "doc_id": "micro_k024",
+      "edu_count": 9,
+      "edu_file_sha256": "b8a24e21f5b3de03c569bc97435a1ce935440d965ab8e75055426e641d5ee243",
+      "path": "derived/edu/en/multilayer_gold/micro_k024.edus",
+      "raw_sha256": "f6255727c47359d7924545d89cb5d49d83eafc9aa9cfa9855c66648320779fbb",
+      "sameunit_affected": true
+    },
+    {
+      "adu_count": 5,
+      "doc_id": "micro_k025",
+      "edu_count": 5,
+      "edu_file_sha256": "60e5c492ded60367a16b408864a7d11b0b7f724983bda8fa460f3cb6e6b6137c",
+      "path": "derived/edu/en/multilayer_gold/micro_k025.edus",
+      "raw_sha256": "7f91855d2058282a673a8ce8b14c5c271617074758315b181dc14eb5e4584a77",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 4,
+      "doc_id": "micro_k027",
+      "edu_count": 7,
+      "edu_file_sha256": "c85f2e5f102448814e7fc29c7f1bd20b155b577016f68ebd1be8fdf100a042ca",
+      "path": "derived/edu/en/multilayer_gold/micro_k027.edus",
+      "raw_sha256": "3aa63b731de71adb95c0cbf10f64802821c59dabd8c522191f46b1b65bd76023",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 4,
+      "doc_id": "micro_k029",
+      "edu_count": 5,
+      "edu_file_sha256": "45f99c7482daf707e00a5ff631f999dea7ce66d432edacdbf2563271dc5d2320",
+      "path": "derived/edu/en/multilayer_gold/micro_k029.edus",
+      "raw_sha256": "f72222cf2be5dbde0f41610c5efb897b6d89a42022e7da2475cac4e0c9e60146",
+      "sameunit_affected": false
+    },
+    {
+      "adu_count": 6,
+      "doc_id": "micro_k031",
+      "edu_count": 6,
+      "edu_file_sha256": "62ec83d5a91e7da86ee8a360d6cfe02dd744a20724638347e36f01b4d9473706",
+      "path": "derived/edu/en/multilayer_gold/micro_k031.edus",
+      "raw_sha256": "b092e19e469d7a96f40d60fd1543667720999e952edb6ec7b7c61a0cccb2647d",
+      "sameunit_affected": false
+    }
+  ],
+  "known_source_variants": [
+    {
+      "argument_edu_id": "e7",
+      "argument_text": "he was suddenly gone",
+      "doc_id": "micro_d14",
+      "resolution": "Use the RST text; it preserves the authoritative raw text.",
+      "rst_text": "he was suddenly gone."
+    }
+  ],
+  "language": "en",
+  "policy": {
+    "primary_reference": "main 680-EDU common multilayer segmentation",
+    "reconstruction": "Join stripped EDU lines with one ASCII space.",
+    "sameunit_alternatives": "Nine affected documents are flagged; no-Same-Unit RST trees are not the primary segmentation."
+  },
+  "schema_version": 1,
+  "source": {
+    "adu_mapping_layer": "corpus/arg",
+    "commit": "ceb01da17d8c2a82cb713d8f16e290f42eee0eab",
+    "layer": "corpus/rst",
+    "repository": "https://github.com/peldszus/arg-microtexts-multilayer.git"
+  },
+  "status": "gold"
+}

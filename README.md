@@ -1,63 +1,109 @@
-An annotated corpus of argumentative microtexts
-===============================================
+# Argumentative Microtexts with EDU Refinement
 
-The arg-microtexts corpus features 112 short argumentative texts. All texts
-were originally written in German and have been professionally translated to
-English.
+This repository is a research fork of the original **Argumentative Microtext
+Corpus**. It preserves the original German texts, their professional English
+translations, and their argumentation structures, while adding a reproducible
+workflow for finer Elementary Discourse Unit (EDU) segmentation.
 
-The texts with ids b001-b064 and k001-k031 have been collected in a controlled
-text generation experiment from 23 subjects discussing various controversial
-issues from [a fixed list](topics_triggers.md).
+The project has two complementary goals:
 
-The texts with ids d01-d23 have been written by Andreas Peldszus and were
-used mainly in teaching and testing students argumentative analysis.
+1. expose the existing English gold EDU segmentation from the multilayer
+   corpus in a simple, verified format; and
+2. create high-quality German EDU segmentation through documented automatic
+   experiments followed by independent human annotation and adjudication.
 
-All texts are annotated with argumentation structures, following the scheme
-proposed in Peldszus & Stede (2013). For inter-annotator-agreement scores see
-Peldszus (2014). The (German) annotation guidelines are published in Peldszus, Warzecha, Stede (2016).
+Automatic German segmentations are proposals, not gold annotations. Existing
+Argumentative Discourse Unit (ADU) boundaries are treated as locked EDU
+boundaries; models may add finer boundaries inside ADUs.
 
+## Data sources
 
+- `corpus/de/` and `corpus/en/` contain the original corpus release.
+- `external/arg-microtexts-multilayer/` is a pinned Git submodule containing
+  the finer English RST EDU segmentation and its refined argumentation layer.
+- `derived/` contains verified, reproducible exports and later automatic or
+  adjudicated EDU layers. Every derived dataset has provenance metadata.
 
-License
--------
+Clone with the multilayer source initialized:
 
-The arg-microtexts corpus is released under a Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International License. You can find a
-human-readable summary of the licence agreement here:
+```bash
+git clone --recurse-submodules git@github.com:mkrupo/arg-microtexts.git
+```
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+For an existing clone:
 
-If you are using our corpus for research purposes, please cite the following
-paper:
+```bash
+git submodule update --init --recursive
+```
 
-Andreas Peldszus, Manfred Stede. An annotated corpus of argumentative 
-microtexts. First European Conference on Argumentation: Argumentation and
-Reasoned Action, Portugal, Lisbon, June 2015.
+## Current status
 
+The original corpus contains 112 German microtexts and aligned English
+translations with 576 coarse ADUs. The English multilayer RST resource refines
+these into 680 EDUs: 83 ADUs are split, introducing 104 internal EDU
+boundaries. Nine RST documents additionally have alternative trees without
+Same-Unit segmentation.
 
+The implementation roadmap and validation gates are documented in
+[`docs/ROADMAP.md`](docs/ROADMAP.md). The canonical boundary representation is
+defined in [`docs/DATA_FORMAT.md`](docs/DATA_FORMAT.md).
 
-See also
---------
+## Reproducible checks
 
-[arg-microtexts-multilayer](https://github.com/peldszus/arg-microtexts-multilayer) - The English version of the microtext corpus has recently been annotated with two additional levels of discourse structure (RST and SDRT) and features a more fine-grained EDU-based segmentation common to all three levels.
+The core audit and English export use only the Python standard library:
 
+```bash
+python3 tools/audit_sources.py
+python3 tools/export_english_edus.py --check
+python3 -m unittest discover -s tests
+```
 
+The committed source audit is `derived/source_audit.manifest.json`. English
+gold files are under `derived/edu/en/multilayer_gold/`, with canonical starts
+in `derived/boundaries/en_multilayer_gold.tsv`.
 
-Literature
-----------
+Model inference is deliberately separate from the source audit. It will use
+optional environments for `eduseg_de` and SeCoRel; model weights, caches, raw
+runs, and machine-local paths are not committed.
 
-* [An annotated corpus of argumentative microtexts](https://peldszus.github.io/files/eca2015-preprint.pdf)  
-  Andreas Peldszus, Manfred Stede.  
-  First European Conference on Argumentation: Argumentation and Reasoned Action, Portugal, Lisbon, June 2015.
+## Repository policy
 
-* [Argumentationsstruktur](http://nbn-resolving.de/urn:nbn:de:kobv:517-opus4-82761)  
-  Andreas Peldszus, Saskia Warzecha, Manfred Stede.  
-  In: Manfred Stede (Ed.) Handbuch Textannotation: Potsdamer Kommentarkorpus 2.0. Potsdam Cognitive Science Series, Volume 8, Universitätsverlag, Potsdam, 2016, Pages 185-208.
+- Original files under `corpus/` are preserved unless an upstream correction
+  is intentionally incorporated and documented.
+- The multilayer source is never edited in place; updates occur by changing
+  the pinned submodule commit.
+- Curated code, configurations, summaries, manifests, gold data, and released
+  automatic proposals are versioned.
+- Virtual environments, model weights, logs, caches, and scratch outputs are
+  ignored.
+- A generated EDU file is committed only after its text reconstructs the
+  corresponding raw document under the documented whitespace policy.
 
-* [Towards segment-based recognition of argumentation structure in short texts](https://aclweb.org/anthology/W/W14/W14-2112.pdf)  
-  Andreas Peldszus.  
-  In: First Workshop on Argumentation Mining, ACL, Baltimore, Maryland, June 2014.
+## Original corpus
 
-* [From Argument Diagrams to Argumentation Mining in Texts: A survey](https://peldszus.github.io/files/ijcini2013-preprint.pdf)  
-  Andreas Peldszus, Manfred Stede.  
-  In: International Journal of Cognitive Informatics and Natural Intelligence (IJCINI) Volume 7, Issue 1, 2013, Pages 1-31.
+The corpus contains 112 short argumentative texts. All texts were originally
+written in German and professionally translated into English. Texts `b001`–
+`b064` and `k001`–`k031` were collected in a controlled text-generation
+experiment from 23 participants. Texts `d01`–`d23` were written by Andreas
+Peldszus for teaching and analysis.
+
+The original argumentation annotation follows Peldszus and Stede (2013). The
+corpus is released under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International license; see
+[`LICENSE`](LICENSE).
+
+When using the original corpus, cite:
+
+> Andreas Peldszus and Manfred Stede. 2015. *An Annotated Corpus of
+> Argumentative Microtexts*. First European Conference on Argumentation.
+
+When using the English multilayer EDU annotation, also cite:
+
+> Manfred Stede, Stergos Afantenos, Andreas Peldszus, Nicholas Asher, and
+> Jérémy Perret. 2016. *Parallel Discourse Annotations on a Corpus of Short
+> Texts*. LREC 2016.
+
+Automatic German segmentation experiments using `eduseg_de` should also cite:
+
+> Steffen Frenzel, Maximilian Krupop, and Manfred Stede. 2026. *Discourse
+> Segmentation of German Text with Pretrained Language Models*. JLCL 39(1).

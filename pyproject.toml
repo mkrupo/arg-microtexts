@@ -1,0 +1,13 @@
+[project]
+name = "arg-microtexts-edu-tools"
+version = "0.1.0"
+description = "Dependency-light validation and EDU export tools for Argumentative Microtexts"
+requires-python = ">=3.10"
+license = {text = "CC-BY-NC-SA-4.0"}
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]

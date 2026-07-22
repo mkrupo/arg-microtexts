@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.local.toml
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*~
+
+# Agent- and machine-local state
+.agents/
+.codex/
+AGENTS.local.md
+
+# Models, caches, and transient experiment products
+models/
+checkpoints/
+.cache/
+work/
+runs/
+logs/
+tmp/
+
+# Keep curated experiment configs, summaries, and derived corpus files tracked.
