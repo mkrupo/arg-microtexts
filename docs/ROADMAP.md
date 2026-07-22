@@ -44,6 +44,9 @@ raw text, and align one-to-one across the German and English ADU layers.
 
 **Status: in progress.**
 
+The primary complete-document condition and its verified published proposal
+layer are complete. The per-ADU context ablation remains to be run.
+
 - Run the released German-only model on complete documents.
 - Retain raw boundary probabilities and full provenance.
 - Produce raw and ADU-constrained outputs.

@@ -1,0 +1,56 @@
+{
+  "adu_boundary_recall": 0.9935344827586207,
+  "documents": 112,
+  "gold_noninitial_adu_starts": 464,
+  "internal_boundary_proposals": 118,
+  "internal_proposals_after_terminal_punctuation": 1,
+  "internal_proposals_sentence_internal": 117,
+  "invalid_subword_boundaries": [],
+  "invalid_subword_boundary_predictions": 0,
+  "max_model_tokens": 190,
+  "missing_adu_boundaries": [
+    {
+      "adu_id": "a4",
+      "char_offset": 303,
+      "doc_id": "micro_b036",
+      "text": "so z.B. Planungsf\u00e4higkeit, Reaktionsschnelligkeit und Kombinationsf\u00e4higkeit, um nur einige zu nennen."
+    },
+    {
+      "adu_id": "a4",
+      "char_offset": 171,
+      "doc_id": "micro_d07",
+      "text": "au\u00dfer vielleicht in den Hochzeiten von Take That."
+    },
+    {
+      "adu_id": "a3",
+      "char_offset": 75,
+      "doc_id": "micro_d09",
+      "text": "wie bei deinem Bruder."
+    }
+  ],
+  "per_group": {
+    "b": {
+      "adu_recall_ppm": 996063,
+      "documents": 62,
+      "gold_adu_starts": 254,
+      "internal_proposals": 71,
+      "recovered_adu_starts": 253
+    },
+    "d": {
+      "adu_recall_ppm": 978261,
+      "documents": 23,
+      "gold_adu_starts": 92,
+      "internal_proposals": 11,
+      "recovered_adu_starts": 90
+    },
+    "k": {
+      "adu_recall_ppm": 1000000,
+      "documents": 27,
+      "gold_adu_starts": 118,
+      "internal_proposals": 36,
+      "recovered_adu_starts": 118
+    }
+  },
+  "raw_noninitial_predicted_starts": 579,
+  "recovered_noninitial_adu_starts": 461
+}

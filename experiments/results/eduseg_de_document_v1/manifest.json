@@ -1,0 +1,1049 @@
+{
+  "collection": "German EduSeg complete-document automatic proposals",
+  "counts": {
+    "adu_constrained_edus": 694,
+    "documents": 112,
+    "model_token_scores": 7233,
+    "raw_edus": 691
+  },
+  "files": [
+    {
+      "path": "derived/boundaries/de_eduseg_de_document_v1_adu_constrained.tsv",
+      "sha256": "3f2936cf22e083ace2c81479b5aac5cdc8ff63b2841fbf60b1c4fd7c51a8bb55"
+    },
+    {
+      "path": "derived/boundaries/de_eduseg_de_document_v1_raw.tsv",
+      "sha256": "074b1367ac8ec703f7acdc247f1ed951a34f9adcc4083b664867fe8b7a75814a"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b001.edus",
+      "sha256": "6b363c3914752f799ea1ae32eab65aad3ee32dfdd79323a970aa52412b8e6f47"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b002.edus",
+      "sha256": "e7b2c8c60a5467f63eb0ff3b42f63313789757f9ce96d3fb6f6b99fe152cc5d4"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b003.edus",
+      "sha256": "d09ad9fb3909b7e9b54fe00263bab7547dd238023bbea59076dc78a328ffd75e"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b004.edus",
+      "sha256": "274ffbf422b4e47a0499f59bcc70ba8ae66af156e519617eef65f7d593bf756b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b005.edus",
+      "sha256": "ae59df85dbac6a063fe1a758ee8034b1787f4a7306b59d8c798193dd8527caaf"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b006.edus",
+      "sha256": "09aab100e179bb26a293e632e69fb94646ded6db4a271a5f639d04754917114c"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b007.edus",
+      "sha256": "387eb3fb9915b0f38908a7487da919cd3addd4c3472182713fd57280b0ea07e4"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b008.edus",
+      "sha256": "2025e886a6e8318116b38aa8609344c28841ebe8d256d8d613d61fa789275559"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b009.edus",
+      "sha256": "8ec7d66f22ba5c6b0a63def63c2f2598f8a7f121902d1c9e164d1a14ccbf264a"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b010.edus",
+      "sha256": "05d531c15dd58fc36ee0b72496adedd8fe07226e5dd4a5b50b0942a275cdbbc4"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b011.edus",
+      "sha256": "a8be85555c36788a08d095f20a7b083403d929a15db8935463ba9826b2c2371d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b012.edus",
+      "sha256": "80eb53a3aa6dab3e1d2d42887667d76d5600a917024256d07e8d3cb9cf7e0c83"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b013.edus",
+      "sha256": "48f93123fe44d6db91fcecbfce5f883149e81c77f3a56a0537d13134ab52515a"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b014.edus",
+      "sha256": "f437c0ffc9c347d470a9a1c30799a1254bb0f375d253e09b91acc71e67ad14d5"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b015.edus",
+      "sha256": "7bb6c6ac446e9dbb4f10eb4fd3599f9ecf83bf2f0131573945d9d0dc04d75274"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b016.edus",
+      "sha256": "0c01570a56b169efc656f41b72a936040d409bd468dc68af4b437582dc0bb408"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b017.edus",
+      "sha256": "3c6fbc716f74505a6d2094f52473a18edc3f081ba20afa69fe97d46d0853f890"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b018.edus",
+      "sha256": "212d09b3ad59271d3c54eca6a765e3b5e93e5aa9081defc17f58b8d4d14d742e"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b019.edus",
+      "sha256": "cf86f5101583208b4f1f502046be4fc65ef626104228b781cfeb07c06e636a5e"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b020.edus",
+      "sha256": "6f6b858b68a8ece69d91eb00933d3b344c1c498a2772d8603c3affacbd58f158"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b021.edus",
+      "sha256": "54735ccb6932607f18ae71ab8e90bf48ff1fe05e41aa2badc4f0034dcb213c72"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b022.edus",
+      "sha256": "7b128abad06dd92d81bc49c391e038dffdedc596e62dcfa8d790ea58b021603a"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b023.edus",
+      "sha256": "2d5f70d1907b99c60b2b024a0f52477c8615adb7e1dae3a8587a4fb7f6229b69"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b024.edus",
+      "sha256": "ce7ed8b20bd780205a32b09c30b9879f7a9d55f9a64028fd4da8e98fdde95365"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b025.edus",
+      "sha256": "54e0cf83ca81be6454ab57e7828251b6097b18884b136f5ab50ce5a390b145de"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b026.edus",
+      "sha256": "ed9ef3dc97f6430425ab0548a2be6429d8d37faf207bef8f4d2de4f0f43a5daf"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b027.edus",
+      "sha256": "3068d682b61ba8b59e9c90fe3f06209690b6868c7fc998e324e9f11c954b5b15"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b028.edus",
+      "sha256": "8e7b8a6651e1ce9336157b645fa4690d9192f79f6ad09742439144ed6f192813"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b029.edus",
+      "sha256": "86a6f45fc133fe6ba6cc07ca87f5241a4a1bc63e10a875f641cb65879117c574"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b030.edus",
+      "sha256": "b2b6e38c30b71cbfc02c684dfc0b2831b85690689e11e573eb288edd8b2c9811"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b031.edus",
+      "sha256": "5323dabec9dd57779f1d7edfbf52ad9c2a2a545f7eb052f7467cb6319d69368d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b032.edus",
+      "sha256": "b6b1efbfbf402cb2d4093fa4e8631a4a9e6c61855d7e0e5d5408c62451a5f8b9"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b033.edus",
+      "sha256": "2cf955834b26b7bd66ebe7b0588ede005570f04ed477fa86e745563cb09d9a5e"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b034.edus",
+      "sha256": "6a8293f4f8f6ca6e43c6ebe54ddd629b18620cc7fa1ea4ab420720ef87681544"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b035.edus",
+      "sha256": "f8cc427a6852ae47e0bc6e88c13d24c3e9ad6d4c3e4de3d7e931a56b52a87068"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b036.edus",
+      "sha256": "ba2fcf62b2217e9277e8e2ee2285a0375756e12a17fb48ad3dc6ca44088f9e3d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b037.edus",
+      "sha256": "3a9eb7c3f4b630058b151a72b3ba255235492479990cc6509f5a0bf8dab96de2"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b038.edus",
+      "sha256": "dc7ea3c40f3d26cb52e796bb00b56d6ed18438749cacbeb87d8782bc13f6a7c8"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b039.edus",
+      "sha256": "58135dfc06a1287cfefea34578222066239cce16be1c2739c5c4ab410bd7dbfb"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b040.edus",
+      "sha256": "37327bf7c58be877553f72d524a80e6b41f4c385fc01e4de30b0e0673d88bc5b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b041.edus",
+      "sha256": "2d4dbeb4a93a58fa393994e783fe81ed43f774504d7835f8e5337a85fee4be3e"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b042.edus",
+      "sha256": "b9397ed215e2eaaa6e7af43dbc8b7e73ec530156718b65ea7c581e182c383342"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b044.edus",
+      "sha256": "89cfac7d73a3b6e7a20063369d5ac3bdea1f6f0728ed8039c1a999f02f3e18da"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b045.edus",
+      "sha256": "65377653a62c85bb4d10bda442f25c1cbc2af659f90affc8546e9b66024af40e"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b046.edus",
+      "sha256": "b1291384d072607ef6ee2a9cc77b608e9d5c1b1190fe16dfe8a960f49ba5064a"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b047.edus",
+      "sha256": "237fb08fc2062375d0a21350ac5541a71f45779dcc1be945bd6abbb43cbd044b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b048.edus",
+      "sha256": "a12c0853c3448eb464d28533e8aac2e5cc168ff5d3916ad05de7c55b4e886e8c"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b049.edus",
+      "sha256": "b457121150ddd9a7ba8598666a3a352ac358bffa6c9831be835739823bccb111"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b050.edus",
+      "sha256": "cc427b5d4df68f4b005c2bcc45e2c237e6788beb65d10a7268f28d2b41019c1f"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b051.edus",
+      "sha256": "73e198dd12a4eb53962842719d1f4464c658731a1f659aa11998a9816d83e863"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b052.edus",
+      "sha256": "778e44e45cd1a343c08ddfff0be391722f2a18b1181212115715942482732064"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b053.edus",
+      "sha256": "32822d5d64c2529ffaa2b2ae7a15b22319e629f552ca1d6e17aeaaab5714eeeb"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b054.edus",
+      "sha256": "cfd9f02199c357ec92c922a798403ac10c9708b2a7c6237b0621c97d14ac25a3"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b055.edus",
+      "sha256": "c9076e4c4444bf1d66fb7c0875631c5bde560c9a04754dc41e2417bad1befa83"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b056.edus",
+      "sha256": "768678f7fac67d700b963556fb9edc0e4a40491b94c4f400c7b379f05d4eb3a3"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b057.edus",
+      "sha256": "b71cbb4e2a21fddcf7a2f2d75f2f41a51232a4236fd9d372ac8a3ccb799ea8ed"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b058.edus",
+      "sha256": "8495e2f22347c8f7c778d8d7be539337b3fd914b55e05ab4af16f5351e23b459"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b059.edus",
+      "sha256": "26fa00fee8ddb1a5cdd9ff1ed07769785617a2697969128f4312ddf1a8adee16"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b060.edus",
+      "sha256": "4399eea64ccc5aac184575e32edb2a371789eef7ab323e9e7aa1f34e9f63c7c6"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b061.edus",
+      "sha256": "a43596da6db0c74040a171cdd33c8d922d5ac76679314aa782473bf417c0a887"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b062.edus",
+      "sha256": "566dbe2aae36d58d01ad4fad6de408e5342030e72fd450ecf917c38448894463"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_b064.edus",
+      "sha256": "bc80effac2ff282e5d60667182e7bff1b6aeb255903dada01270f33b98d9b3ac"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d01.edus",
+      "sha256": "e030f82cc464b4a9b1340c85cef2fbee1efb053ee775b58de0c453290b9c916b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d02.edus",
+      "sha256": "bb9dd987e3db1ab609ab4e64e1df6394b05380b77eb90c77cdb8b11576051319"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d03.edus",
+      "sha256": "724c442bd5a50f722b24720b58d98175e3c93c7e594efc5c66378eee7e99769b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d04.edus",
+      "sha256": "8175e81a692edfe4a0d3f8a1f5e441f0c24e9052b2c5aa2eda20c7334762e3be"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d05.edus",
+      "sha256": "5e351c0d82424bb4b8a611db6513bef17427ffe26e7b883eb464ddb4224718ba"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d06.edus",
+      "sha256": "28c554d7e2cb7ea4398b8c1ffcb5d3b140338e416a55ff714a302087b3448099"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d07.edus",
+      "sha256": "40ef1999ea9ae469410c92d7a06c95e53eca4ec8ae372e39f74497b5722438a6"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d08.edus",
+      "sha256": "ad93abf9ff25319122bd4a71f5ce6d2c9b70d11b4b3bb07692b85ea9b14705fd"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d09.edus",
+      "sha256": "cd69d91b9585187f9e778006ccb93e973511ab407e194c14411b61ee3b75fd10"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d10.edus",
+      "sha256": "18aa4884c3a6537815f023c666d51d3799ae4c5a503ed99f0d1b0e9911b653d1"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d11.edus",
+      "sha256": "0eceb0fec1eedc7b2532be0ee293fac8293bef9529e6c65d41c2c14c7a852afb"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d12.edus",
+      "sha256": "382e12373235771fd77fc983709e64c3a1a31859600790210c5042bf322d5790"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d13.edus",
+      "sha256": "1f17ff344a9c5040d5c19654af53f81eeedbefeff0ebc9811ed40edd1138f4ac"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d14.edus",
+      "sha256": "d6d0ddfea41969926afb6d7bf61ff8e402eb332e02a2d9fc38a0582c5ac8089d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d15.edus",
+      "sha256": "416487985657212578709a99e51cde2637c73b5a94312df3a2f73e89a148ca69"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d16.edus",
+      "sha256": "3e37e8b1c0a9dbb5a2dbae91b826ed0d30d09c2ca7f4e5a68a5dbf6acad2191d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d17.edus",
+      "sha256": "10b69db1f85ee75a6d3c01849619ca02c1ca3b5b23561dc99d7b88de2994bf9d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d18.edus",
+      "sha256": "d3fedaa7c3fd4bbc57b0ffe3b1d59afca3e1b42c90224e17dbd134bd00a19213"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d19.edus",
+      "sha256": "ca85d7f788343683ea1bbac46d8f29f7781d291ba2a212699b23e8b7967df2d5"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d20.edus",
+      "sha256": "d1723380716ac9e42412b956fa6fc59b8ad93745c248cc8c0caf87b352cdc51d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d21.edus",
+      "sha256": "5391bc91f069f58ba201a8135aa6ad808086b9074a4c27d88e679a578a2475e0"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d22.edus",
+      "sha256": "497b5ba23973761294e4755f5aeb72372abfb745ee773b90556abf919db2dfd7"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_d23.edus",
+      "sha256": "d90b4a36ed6e417e5788a172406c88842950dc58ee16aaa2ed9664b8301974ac"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k001.edus",
+      "sha256": "adac9cc1a4781f7bf80b2f87fc1b166b8c86af30e2eff264f0001bb38acad1ca"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k002.edus",
+      "sha256": "3032c3b4d1cf528056f32ebcd0f8a1fbc98a12178bc2854dd8ac7fa3914f334b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k003.edus",
+      "sha256": "446d7579fcb4a503d98b22ff59e1cb15b3a7b3102a9f7a0d0534d5a2b877392d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k004.edus",
+      "sha256": "11e7d2ad9b79025bbf961293ea9707964ccbbbe25672c125f190994acb9f7da1"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k006.edus",
+      "sha256": "93a82729457122a12c39e4f867b24be49ae1c6a66620e7bb6af28b4360801b37"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k007.edus",
+      "sha256": "f87cdf8ec4723581e1ae7f2da122383abef351b6aa22fa9f197631c48cb972ec"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k008.edus",
+      "sha256": "75b97ce3ba8c812ed8126d566be993e6936a0be9b61994987088da005b6b58c5"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k009.edus",
+      "sha256": "558a4f75800cdac9793a21538cf2ac89c749a2d81666777a9eb25fb520145145"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k010.edus",
+      "sha256": "fc60cb7b82a3e14d58e4ddb0b01acdf5e838849ef9a0b5caa6bcb0fca9fe9068"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k011.edus",
+      "sha256": "dc7cb934acde9f6fd3c8787179fa6ca65998d1d74d139ebc76725948d6d72c9b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k012.edus",
+      "sha256": "3167b8bf6808113fb8d973a6db8ccd8917c2cd6c23bcb0ee7dc05a7d99f60aa0"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k013.edus",
+      "sha256": "a7d2779ca7896ad165fa0e29739e1db5074cb8bec3be9cd4e6073b6f4b0baac1"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k014.edus",
+      "sha256": "9eeeb65a1ca61234f74f4508863f648e2d59b02eb5ce3538111892f83067d108"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k015.edus",
+      "sha256": "a9782a2ca70eea194668f0cb6ce68e1bff00ff6b21f3fd7c43a13429ebb9c5ee"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k016.edus",
+      "sha256": "54fb36be9fdc290a901c763f859b5e5e61df19a25448ddcc187ec7c68ff02164"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k017.edus",
+      "sha256": "ad9752dacd88fafb7b62cb762ef0d19ccfce20ff5d6d979acde09a8804b2c8e3"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k018.edus",
+      "sha256": "9065fe502516a9a866d3c3d91c361893e4346739894004343d71679d8ad3e19c"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k019.edus",
+      "sha256": "d9a60a16eccf5ffaa5c3504429a6060fcb83345dd0cffe2166484f0e77c33d2d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k020.edus",
+      "sha256": "e37ce479b43bba8055ecc4d0e6c0f2309826635a4cab3fa3b42cccd0492482ce"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k021.edus",
+      "sha256": "4e8d19debc7d791cf1300a596b343822dd0bef742fcf4fe030f907f4d5717acf"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k022.edus",
+      "sha256": "6ff87f54497fab331ba2663972e381f05a7467f5a6ec13d0730ae6783ee02223"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k023.edus",
+      "sha256": "0c3447a4b1e6453d852f6d0c754f8799def076935a030379162fa8a7d744e64d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k024.edus",
+      "sha256": "25e2a044dacabcbb2a614335e7fa8cf5fa92a0a151e38814fca43218ff1b585e"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k025.edus",
+      "sha256": "e82b6afd5a649db6b00a8ac1a6dfe3f30380c2a69615af810acaf158986a3698"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k027.edus",
+      "sha256": "18ddffe335181275d05adc8ff85de3269bbc1c5dbc18d0f3ad30b59883b78f4a"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k029.edus",
+      "sha256": "29a2d5dcae60d16ca68455a7d9207972ec570551d7de0a1f65e19d096829e7f8"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/adu_constrained/micro_k031.edus",
+      "sha256": "7be17bbce5de611c0134d6a2cf0c14ad12f6894a7b91f9f170a5bb95169a4b67"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b001.edus",
+      "sha256": "6b363c3914752f799ea1ae32eab65aad3ee32dfdd79323a970aa52412b8e6f47"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b002.edus",
+      "sha256": "e7b2c8c60a5467f63eb0ff3b42f63313789757f9ce96d3fb6f6b99fe152cc5d4"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b003.edus",
+      "sha256": "d09ad9fb3909b7e9b54fe00263bab7547dd238023bbea59076dc78a328ffd75e"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b004.edus",
+      "sha256": "274ffbf422b4e47a0499f59bcc70ba8ae66af156e519617eef65f7d593bf756b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b005.edus",
+      "sha256": "ae59df85dbac6a063fe1a758ee8034b1787f4a7306b59d8c798193dd8527caaf"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b006.edus",
+      "sha256": "09aab100e179bb26a293e632e69fb94646ded6db4a271a5f639d04754917114c"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b007.edus",
+      "sha256": "387eb3fb9915b0f38908a7487da919cd3addd4c3472182713fd57280b0ea07e4"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b008.edus",
+      "sha256": "2025e886a6e8318116b38aa8609344c28841ebe8d256d8d613d61fa789275559"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b009.edus",
+      "sha256": "8ec7d66f22ba5c6b0a63def63c2f2598f8a7f121902d1c9e164d1a14ccbf264a"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b010.edus",
+      "sha256": "05d531c15dd58fc36ee0b72496adedd8fe07226e5dd4a5b50b0942a275cdbbc4"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b011.edus",
+      "sha256": "a8be85555c36788a08d095f20a7b083403d929a15db8935463ba9826b2c2371d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b012.edus",
+      "sha256": "80eb53a3aa6dab3e1d2d42887667d76d5600a917024256d07e8d3cb9cf7e0c83"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b013.edus",
+      "sha256": "48f93123fe44d6db91fcecbfce5f883149e81c77f3a56a0537d13134ab52515a"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b014.edus",
+      "sha256": "f437c0ffc9c347d470a9a1c30799a1254bb0f375d253e09b91acc71e67ad14d5"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b015.edus",
+      "sha256": "7bb6c6ac446e9dbb4f10eb4fd3599f9ecf83bf2f0131573945d9d0dc04d75274"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b016.edus",
+      "sha256": "0c01570a56b169efc656f41b72a936040d409bd468dc68af4b437582dc0bb408"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b017.edus",
+      "sha256": "3c6fbc716f74505a6d2094f52473a18edc3f081ba20afa69fe97d46d0853f890"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b018.edus",
+      "sha256": "212d09b3ad59271d3c54eca6a765e3b5e93e5aa9081defc17f58b8d4d14d742e"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b019.edus",
+      "sha256": "cf86f5101583208b4f1f502046be4fc65ef626104228b781cfeb07c06e636a5e"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b020.edus",
+      "sha256": "6f6b858b68a8ece69d91eb00933d3b344c1c498a2772d8603c3affacbd58f158"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b021.edus",
+      "sha256": "54735ccb6932607f18ae71ab8e90bf48ff1fe05e41aa2badc4f0034dcb213c72"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b022.edus",
+      "sha256": "7b128abad06dd92d81bc49c391e038dffdedc596e62dcfa8d790ea58b021603a"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b023.edus",
+      "sha256": "2d5f70d1907b99c60b2b024a0f52477c8615adb7e1dae3a8587a4fb7f6229b69"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b024.edus",
+      "sha256": "ce7ed8b20bd780205a32b09c30b9879f7a9d55f9a64028fd4da8e98fdde95365"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b025.edus",
+      "sha256": "54e0cf83ca81be6454ab57e7828251b6097b18884b136f5ab50ce5a390b145de"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b026.edus",
+      "sha256": "ed9ef3dc97f6430425ab0548a2be6429d8d37faf207bef8f4d2de4f0f43a5daf"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b027.edus",
+      "sha256": "3068d682b61ba8b59e9c90fe3f06209690b6868c7fc998e324e9f11c954b5b15"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b028.edus",
+      "sha256": "8e7b8a6651e1ce9336157b645fa4690d9192f79f6ad09742439144ed6f192813"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b029.edus",
+      "sha256": "86a6f45fc133fe6ba6cc07ca87f5241a4a1bc63e10a875f641cb65879117c574"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b030.edus",
+      "sha256": "b2b6e38c30b71cbfc02c684dfc0b2831b85690689e11e573eb288edd8b2c9811"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b031.edus",
+      "sha256": "5323dabec9dd57779f1d7edfbf52ad9c2a2a545f7eb052f7467cb6319d69368d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b032.edus",
+      "sha256": "b6b1efbfbf402cb2d4093fa4e8631a4a9e6c61855d7e0e5d5408c62451a5f8b9"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b033.edus",
+      "sha256": "2cf955834b26b7bd66ebe7b0588ede005570f04ed477fa86e745563cb09d9a5e"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b034.edus",
+      "sha256": "6a8293f4f8f6ca6e43c6ebe54ddd629b18620cc7fa1ea4ab420720ef87681544"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b035.edus",
+      "sha256": "f8cc427a6852ae47e0bc6e88c13d24c3e9ad6d4c3e4de3d7e931a56b52a87068"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b036.edus",
+      "sha256": "91d9562eb5c71d2970d0ca2d3c8a93082bf4063052398d8d78a92307aec5805b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b037.edus",
+      "sha256": "3a9eb7c3f4b630058b151a72b3ba255235492479990cc6509f5a0bf8dab96de2"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b038.edus",
+      "sha256": "dc7ea3c40f3d26cb52e796bb00b56d6ed18438749cacbeb87d8782bc13f6a7c8"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b039.edus",
+      "sha256": "58135dfc06a1287cfefea34578222066239cce16be1c2739c5c4ab410bd7dbfb"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b040.edus",
+      "sha256": "37327bf7c58be877553f72d524a80e6b41f4c385fc01e4de30b0e0673d88bc5b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b041.edus",
+      "sha256": "2d4dbeb4a93a58fa393994e783fe81ed43f774504d7835f8e5337a85fee4be3e"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b042.edus",
+      "sha256": "b9397ed215e2eaaa6e7af43dbc8b7e73ec530156718b65ea7c581e182c383342"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b044.edus",
+      "sha256": "89cfac7d73a3b6e7a20063369d5ac3bdea1f6f0728ed8039c1a999f02f3e18da"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b045.edus",
+      "sha256": "65377653a62c85bb4d10bda442f25c1cbc2af659f90affc8546e9b66024af40e"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b046.edus",
+      "sha256": "b1291384d072607ef6ee2a9cc77b608e9d5c1b1190fe16dfe8a960f49ba5064a"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b047.edus",
+      "sha256": "237fb08fc2062375d0a21350ac5541a71f45779dcc1be945bd6abbb43cbd044b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b048.edus",
+      "sha256": "a12c0853c3448eb464d28533e8aac2e5cc168ff5d3916ad05de7c55b4e886e8c"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b049.edus",
+      "sha256": "b457121150ddd9a7ba8598666a3a352ac358bffa6c9831be835739823bccb111"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b050.edus",
+      "sha256": "cc427b5d4df68f4b005c2bcc45e2c237e6788beb65d10a7268f28d2b41019c1f"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b051.edus",
+      "sha256": "73e198dd12a4eb53962842719d1f4464c658731a1f659aa11998a9816d83e863"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b052.edus",
+      "sha256": "778e44e45cd1a343c08ddfff0be391722f2a18b1181212115715942482732064"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b053.edus",
+      "sha256": "32822d5d64c2529ffaa2b2ae7a15b22319e629f552ca1d6e17aeaaab5714eeeb"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b054.edus",
+      "sha256": "cfd9f02199c357ec92c922a798403ac10c9708b2a7c6237b0621c97d14ac25a3"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b055.edus",
+      "sha256": "c9076e4c4444bf1d66fb7c0875631c5bde560c9a04754dc41e2417bad1befa83"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b056.edus",
+      "sha256": "768678f7fac67d700b963556fb9edc0e4a40491b94c4f400c7b379f05d4eb3a3"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b057.edus",
+      "sha256": "b71cbb4e2a21fddcf7a2f2d75f2f41a51232a4236fd9d372ac8a3ccb799ea8ed"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b058.edus",
+      "sha256": "8495e2f22347c8f7c778d8d7be539337b3fd914b55e05ab4af16f5351e23b459"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b059.edus",
+      "sha256": "26fa00fee8ddb1a5cdd9ff1ed07769785617a2697969128f4312ddf1a8adee16"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b060.edus",
+      "sha256": "4399eea64ccc5aac184575e32edb2a371789eef7ab323e9e7aa1f34e9f63c7c6"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b061.edus",
+      "sha256": "a43596da6db0c74040a171cdd33c8d922d5ac76679314aa782473bf417c0a887"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b062.edus",
+      "sha256": "566dbe2aae36d58d01ad4fad6de408e5342030e72fd450ecf917c38448894463"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_b064.edus",
+      "sha256": "bc80effac2ff282e5d60667182e7bff1b6aeb255903dada01270f33b98d9b3ac"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d01.edus",
+      "sha256": "e030f82cc464b4a9b1340c85cef2fbee1efb053ee775b58de0c453290b9c916b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d02.edus",
+      "sha256": "bb9dd987e3db1ab609ab4e64e1df6394b05380b77eb90c77cdb8b11576051319"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d03.edus",
+      "sha256": "724c442bd5a50f722b24720b58d98175e3c93c7e594efc5c66378eee7e99769b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d04.edus",
+      "sha256": "8175e81a692edfe4a0d3f8a1f5e441f0c24e9052b2c5aa2eda20c7334762e3be"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d05.edus",
+      "sha256": "5e351c0d82424bb4b8a611db6513bef17427ffe26e7b883eb464ddb4224718ba"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d06.edus",
+      "sha256": "28c554d7e2cb7ea4398b8c1ffcb5d3b140338e416a55ff714a302087b3448099"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d07.edus",
+      "sha256": "606c93cb86273f1b7fa4d081f0c83cd78ee26ab5bc889aa30944af50e260624b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d08.edus",
+      "sha256": "ad93abf9ff25319122bd4a71f5ce6d2c9b70d11b4b3bb07692b85ea9b14705fd"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d09.edus",
+      "sha256": "845f279a47ad7653d29e992f6008703b631025175b1b49e06bfa37ec5d12a1c6"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d10.edus",
+      "sha256": "18aa4884c3a6537815f023c666d51d3799ae4c5a503ed99f0d1b0e9911b653d1"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d11.edus",
+      "sha256": "0eceb0fec1eedc7b2532be0ee293fac8293bef9529e6c65d41c2c14c7a852afb"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d12.edus",
+      "sha256": "382e12373235771fd77fc983709e64c3a1a31859600790210c5042bf322d5790"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d13.edus",
+      "sha256": "1f17ff344a9c5040d5c19654af53f81eeedbefeff0ebc9811ed40edd1138f4ac"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d14.edus",
+      "sha256": "d6d0ddfea41969926afb6d7bf61ff8e402eb332e02a2d9fc38a0582c5ac8089d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d15.edus",
+      "sha256": "416487985657212578709a99e51cde2637c73b5a94312df3a2f73e89a148ca69"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d16.edus",
+      "sha256": "3e37e8b1c0a9dbb5a2dbae91b826ed0d30d09c2ca7f4e5a68a5dbf6acad2191d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d17.edus",
+      "sha256": "10b69db1f85ee75a6d3c01849619ca02c1ca3b5b23561dc99d7b88de2994bf9d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d18.edus",
+      "sha256": "d3fedaa7c3fd4bbc57b0ffe3b1d59afca3e1b42c90224e17dbd134bd00a19213"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d19.edus",
+      "sha256": "ca85d7f788343683ea1bbac46d8f29f7781d291ba2a212699b23e8b7967df2d5"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d20.edus",
+      "sha256": "d1723380716ac9e42412b956fa6fc59b8ad93745c248cc8c0caf87b352cdc51d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d21.edus",
+      "sha256": "5391bc91f069f58ba201a8135aa6ad808086b9074a4c27d88e679a578a2475e0"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d22.edus",
+      "sha256": "497b5ba23973761294e4755f5aeb72372abfb745ee773b90556abf919db2dfd7"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_d23.edus",
+      "sha256": "d90b4a36ed6e417e5788a172406c88842950dc58ee16aaa2ed9664b8301974ac"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k001.edus",
+      "sha256": "adac9cc1a4781f7bf80b2f87fc1b166b8c86af30e2eff264f0001bb38acad1ca"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k002.edus",
+      "sha256": "3032c3b4d1cf528056f32ebcd0f8a1fbc98a12178bc2854dd8ac7fa3914f334b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k003.edus",
+      "sha256": "446d7579fcb4a503d98b22ff59e1cb15b3a7b3102a9f7a0d0534d5a2b877392d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k004.edus",
+      "sha256": "11e7d2ad9b79025bbf961293ea9707964ccbbbe25672c125f190994acb9f7da1"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k006.edus",
+      "sha256": "93a82729457122a12c39e4f867b24be49ae1c6a66620e7bb6af28b4360801b37"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k007.edus",
+      "sha256": "f87cdf8ec4723581e1ae7f2da122383abef351b6aa22fa9f197631c48cb972ec"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k008.edus",
+      "sha256": "75b97ce3ba8c812ed8126d566be993e6936a0be9b61994987088da005b6b58c5"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k009.edus",
+      "sha256": "558a4f75800cdac9793a21538cf2ac89c749a2d81666777a9eb25fb520145145"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k010.edus",
+      "sha256": "fc60cb7b82a3e14d58e4ddb0b01acdf5e838849ef9a0b5caa6bcb0fca9fe9068"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k011.edus",
+      "sha256": "dc7cb934acde9f6fd3c8787179fa6ca65998d1d74d139ebc76725948d6d72c9b"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k012.edus",
+      "sha256": "3167b8bf6808113fb8d973a6db8ccd8917c2cd6c23bcb0ee7dc05a7d99f60aa0"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k013.edus",
+      "sha256": "a7d2779ca7896ad165fa0e29739e1db5074cb8bec3be9cd4e6073b6f4b0baac1"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k014.edus",
+      "sha256": "9eeeb65a1ca61234f74f4508863f648e2d59b02eb5ce3538111892f83067d108"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k015.edus",
+      "sha256": "a9782a2ca70eea194668f0cb6ce68e1bff00ff6b21f3fd7c43a13429ebb9c5ee"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k016.edus",
+      "sha256": "54fb36be9fdc290a901c763f859b5e5e61df19a25448ddcc187ec7c68ff02164"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k017.edus",
+      "sha256": "ad9752dacd88fafb7b62cb762ef0d19ccfce20ff5d6d979acde09a8804b2c8e3"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k018.edus",
+      "sha256": "9065fe502516a9a866d3c3d91c361893e4346739894004343d71679d8ad3e19c"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k019.edus",
+      "sha256": "d9a60a16eccf5ffaa5c3504429a6060fcb83345dd0cffe2166484f0e77c33d2d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k020.edus",
+      "sha256": "e37ce479b43bba8055ecc4d0e6c0f2309826635a4cab3fa3b42cccd0492482ce"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k021.edus",
+      "sha256": "4e8d19debc7d791cf1300a596b343822dd0bef742fcf4fe030f907f4d5717acf"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k022.edus",
+      "sha256": "6ff87f54497fab331ba2663972e381f05a7467f5a6ec13d0730ae6783ee02223"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k023.edus",
+      "sha256": "0c3447a4b1e6453d852f6d0c754f8799def076935a030379162fa8a7d744e64d"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k024.edus",
+      "sha256": "25e2a044dacabcbb2a614335e7fa8cf5fa92a0a151e38814fca43218ff1b585e"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k025.edus",
+      "sha256": "e82b6afd5a649db6b00a8ac1a6dfe3f30380c2a69615af810acaf158986a3698"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k027.edus",
+      "sha256": "18ddffe335181275d05adc8ff85de3269bbc1c5dbc18d0f3ad30b59883b78f4a"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k029.edus",
+      "sha256": "29a2d5dcae60d16ca68455a7d9207972ec570551d7de0a1f65e19d096829e7f8"
+    },
+    {
+      "path": "derived/edu/de/automatic/eduseg_de_document_v1/raw/micro_k031.edus",
+      "sha256": "7be17bbce5de611c0134d6a2cf0c14ad12f6894a7b91f9f170a5bb95169a4b67"
+    },
+    {
+      "path": "derived/scores/de_eduseg_de_document_v1.tsv",
+      "sha256": "06a32a4e6ba939c152ad6a0aa425149bc366028b7eae902cc370d753e01398f8"
+    },
+    {
+      "path": "experiments/results/eduseg_de_document_v1/internal_proposals.tsv",
+      "sha256": "db4491e90de866a2052a25008c8c224c31a0e09d2dff016649b4f131ee20578f"
+    },
+    {
+      "path": "experiments/results/eduseg_de_document_v1/missed_adu_boundaries.tsv",
+      "sha256": "8ebba6fcd396e525e5fc207d2e7cd6f87bd9cdc0901de756cfe54ce71dc118b4"
+    },
+    {
+      "path": "experiments/results/eduseg_de_document_v1/run_manifest.json",
+      "sha256": "452cb2e58dd99264bfb55bc926b73b4fac96159456d58df9a721e689771fcbff"
+    },
+    {
+      "path": "experiments/results/eduseg_de_document_v1/summary.json",
+      "sha256": "938bf2c88c4253e1343411925f46783448bfe6191d141dc68d36ddf5af0a6380"
+    }
+  ],
+  "language": "de",
+  "policy": {
+    "adu_constrained": "Union of raw predictions and locked gold ADU starts.",
+    "confidence": "Uncalibrated softmax probability for the boundary label.",
+    "raw": "Unmodified valid textual boundary starts predicted by eduseg_de.",
+    "use": "Candidate German EDU segmentation for review; not human gold."
+  },
+  "publication_tool": {
+    "path": "tools/publish_eduseg_run.py",
+    "sha256": "49708fcc3af6e262fa8de664c120efafdc0713722c2f17bc80b675d006ae5146"
+  },
+  "review_tables": {
+    "internal_proposals": 118,
+    "missed_adu_boundaries": 3
+  },
+  "run_id": "eduseg_de_document_v1",
+  "schema_version": 1,
+  "source_run": {
+    "completed_at": "2026-07-22T14:51:32.521275+00:00",
+    "inference": {
+      "batch_size": 16,
+      "device": "cpu",
+      "preserve_boundary_probabilities": true,
+      "python": "3.11.15",
+      "require_text_boundary": true,
+      "torch": "2.12.1+cpu",
+      "transformers": "5.12.1",
+      "trim_trailing_document_whitespace": true
+    },
+    "model": {
+      "boundary_label_id": 1,
+      "commit": "746764ab81d62bcb9dcd4865758cc06ef2194588",
+      "inside_label_id": 0,
+      "max_length": 512,
+      "name": "eduseg_de",
+      "repository": "https://github.com/discourse-lab/eduseg_de.git",
+      "revision": "eduseg_de-v1.0",
+      "sha256": {
+        "config_json": "b27c918718266040d4e3eb65d3183695ed6769d09fad7faa522a740ed3f42313",
+        "model_safetensors": "5984f074cfce689cf6a43d37723efea91c3f2967545ff64891f6acc83be330e2",
+        "sentencepiece_bpe_model": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+        "special_tokens_map_json": "06e405a36dfe4b9604f484f6a1e619af1a7f7d09e34a8555eb0b77b66318067f",
+        "tokenizer_config_json": "ccf223ba3d5b3cc7fa6c3bf451f3bb40557a5c92b0aa33f63d17802ff1a96fd9",
+        "tokenizer_json": "3ffb37461c391f096759f4a9bbbc329da0f36952f88bab061fcf84940c022e98"
+      },
+      "verified_sha256": {
+        "config_json": "b27c918718266040d4e3eb65d3183695ed6769d09fad7faa522a740ed3f42313",
+        "model_safetensors": "5984f074cfce689cf6a43d37723efea91c3f2967545ff64891f6acc83be330e2",
+        "sentencepiece_bpe_model": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+        "special_tokens_map_json": "06e405a36dfe4b9604f484f6a1e619af1a7f7d09e34a8555eb0b77b66318067f",
+        "tokenizer_config_json": "ccf223ba3d5b3cc7fa6c3bf451f3bb40557a5c92b0aa33f63d17802ff1a96fd9",
+        "tokenizer_json": "3ffb37461c391f096759f4a9bbbc329da0f36952f88bab061fcf84940c022e98"
+      }
+    },
+    "project_commit": "215972ee4c494a3bd4b9dc89c38d7763b2270e11",
+    "run_manifest_path": "experiments/results/eduseg_de_document_v1/run_manifest.json"
+  },
+  "status": "automatic-proposal-not-gold",
+  "summary": {
+    "adu_boundary_recall": 0.9935344827586207,
+    "documents": 112,
+    "gold_noninitial_adu_starts": 464,
+    "internal_boundary_proposals": 118,
+    "internal_proposals_after_terminal_punctuation": 1,
+    "internal_proposals_sentence_internal": 117,
+    "invalid_subword_boundaries": [],
+    "invalid_subword_boundary_predictions": 0,
+    "max_model_tokens": 190,
+    "missing_adu_boundaries": [
+      {
+        "adu_id": "a4",
+        "char_offset": 303,
+        "doc_id": "micro_b036",
+        "text": "so z.B. Planungsf\u00e4higkeit, Reaktionsschnelligkeit und Kombinationsf\u00e4higkeit, um nur einige zu nennen."
+      },
+      {
+        "adu_id": "a4",
+        "char_offset": 171,
+        "doc_id": "micro_d07",
+        "text": "au\u00dfer vielleicht in den Hochzeiten von Take That."
+      },
+      {
+        "adu_id": "a3",
+        "char_offset": 75,
+        "doc_id": "micro_d09",
+        "text": "wie bei deinem Bruder."
+      }
+    ],
+    "per_group": {
+      "b": {
+        "adu_recall_ppm": 996063,
+        "documents": 62,
+        "gold_adu_starts": 254,
+        "internal_proposals": 71,
+        "recovered_adu_starts": 253
+      },
+      "d": {
+        "adu_recall_ppm": 978261,
+        "documents": 23,
+        "gold_adu_starts": 92,
+        "internal_proposals": 11,
+        "recovered_adu_starts": 90
+      },
+      "k": {
+        "adu_recall_ppm": 1000000,
+        "documents": 27,
+        "gold_adu_starts": 118,
+        "internal_proposals": 36,
+        "recovered_adu_starts": 118
+      }
+    },
+    "raw_noninitial_predicted_starts": 579,
+    "recovered_noninitial_adu_starts": 461
+  }
+}

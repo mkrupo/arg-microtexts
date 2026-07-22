@@ -59,6 +59,32 @@ can validate the published layer without model weights or the ignored run:
 python tools/publish_eduseg_run.py --check
 ```
 
+## Primary EduSeg result
+
+The published `eduseg_de_document_v1` run processed all 112 complete German
+documents with no truncation (maximum 190 of 512 model tokens) and no rejected
+subword boundary predictions. It produced:
+
+- 691 raw EDUs;
+- 461/464 recovered non-initial gold ADU starts (99.35% recall);
+- 118 candidate boundaries inside ADUs; and
+- 694 ADU-constrained EDUs after restoring the three missed locked starts.
+
+ADU recall is a conservative diagnostic of boundary detection, not overall
+EDU accuracy. Likewise, the 118 additions cannot be scored as false positives
+until German fine-grained gold annotation exists. Of these additions, 117 are
+sentence-internal and one follows terminal punctuation. The latter separates
+the two questions inside `micro_b014/a4` and is a plausible refinement of a
+coarse ADU.
+
+The project discussion example in `micro_b001/a5` illustrates the opposite
+risk: the model assigns 0.8091 boundary probability before *und Vorreiter im
+Mülltrennen werden!*, although the shared subject and modal construction make
+one EDU the current expert working analysis. This is a likely oversegmentation
+candidate, not an adjudicated gold error. The full review table preserves both
+segments, the containing ADU, offset, and score so such hypotheses can be
+checked systematically without altering the automatic layer.
+
 ## Reproducibility record
 
 Every run manifest contains:

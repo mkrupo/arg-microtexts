@@ -44,6 +44,12 @@ these into 680 EDUs: 83 ADUs are split, introducing 104 internal EDU
 boundaries. Nine RST documents additionally have alternative trees without
 Same-Unit segmentation.
 
+The first German complete-document `eduseg_de` experiment is also published as
+an explicitly automatic proposal layer. Its raw output contains 691 EDUs and
+recovers 461 of 464 non-initial ADU starts; the ADU-constrained copy contains
+694 EDUs after restoring the three locked starts. The model adds 118 candidate
+within-ADU boundaries. These counts are diagnostics, not German gold results.
+
 The implementation roadmap and validation gates are documented in
 [`docs/ROADMAP.md`](docs/ROADMAP.md). The canonical boundary representation is
 defined in [`docs/DATA_FORMAT.md`](docs/DATA_FORMAT.md).
@@ -65,6 +71,10 @@ gold files are under `derived/edu/en/multilayer_gold/`, with canonical starts
 in `derived/boundaries/en_multilayer_gold.tsv`. The locked German ADU reference
 is under `derived/adu/de/original_gold/`; its bilingual ADU mapping is
 `derived/alignments/adu_de_en.tsv`.
+
+The German automatic layer is under
+`derived/edu/de/automatic/eduseg_de_document_v1/`. Its result manifest and
+review tables are under `experiments/results/eduseg_de_document_v1/`.
 
 Model inference is deliberately separate from the source audit. It will use
 optional environments for `eduseg_de` and SeCoRel; model weights, caches, raw

@@ -21,6 +21,7 @@ from tools.export_german_adus import (
     expected_outputs as expected_german_outputs,
     write_outputs as write_german_outputs,
 )
+from tools.publish_eduseg_run import check_published as check_published_eduseg
 
 
 class CorpusPipelineTests(unittest.TestCase):
@@ -126,6 +127,9 @@ class CorpusPipelineTests(unittest.TestCase):
             document for document in self.audit.english_documents if document.doc_id == "micro_d14"
         )
         self.assertEqual(document.edus[-1].text, "he was suddenly gone.")
+
+    def test_published_eduseg_layer_is_current(self) -> None:
+        check_published_eduseg()
 
 
 if __name__ == "__main__":
