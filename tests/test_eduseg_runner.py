@@ -17,6 +17,7 @@ from tools.run_eduseg_de import (
     sha256_file,
     verify_model,
 )
+from tools.run_eduseg_de_adu_ablation import ADUInput, merge_predictions
 
 
 class EduSegRunnerTests(unittest.TestCase):
@@ -104,6 +105,22 @@ class EduSegRunnerTests(unittest.TestCase):
         )
         internal = next(row for row in rows if row["boundary_class"] == "internal_edu")
         self.assertEqual(internal["confidence"], "0.78000000")
+
+    def test_adu_ablation_maps_only_internal_starts_to_document_offsets(self) -> None:
+        document = SimpleNamespace(doc_id="micro_test")
+        audit = SimpleNamespace(german_documents=(document,))
+        item = ADUInput("micro_test/a2", "weil es stimmt", "micro_test", "a2", 20)
+        prediction = DocumentPrediction(
+            doc_id=item.doc_id,
+            text=item.raw_text,
+            scores=(CandidateScore(2, 5, 7, "▁es", 0.91, True),),
+            predicted_starts=frozenset({0, 5}),
+            token_count=6,
+            invalid_boundary_offsets=(),
+        )
+        merged = merge_predictions(audit, [item], [prediction])
+        self.assertEqual(merged[0].internal_starts, frozenset({25}))
+        self.assertEqual(merged[0].score_rows[0]["char_offset"], 25)
 
 
 if __name__ == "__main__":

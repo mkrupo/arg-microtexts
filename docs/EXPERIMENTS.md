@@ -85,6 +85,23 @@ candidate, not an adjudicated gold error. The full review table preserves both
 segments, the containing ADU, offset, and score so such hypotheses can be
 checked systematically without altering the automatic layer.
 
+## Per-ADU context ablation
+
+`experiments/configs/eduseg_de_adu_context_v1.toml` freezes the secondary
+condition in which each of the 576 gold ADUs is presented independently to the
+same model. Run it with:
+
+```bash
+python tools/run_eduseg_de_adu_ablation.py \
+  --model-dir /path/to/eduseg_de/model
+```
+
+This is not an alternative primary segmentation. Every ADU start is an
+artificial sequence start and is therefore inserted structurally; only
+strictly within-ADU predictions are compared with the complete-document run.
+The comparison reports exact character-offset overlap, context-only
+boundaries, and agreement without interpreting either condition as gold.
+
 ## Reproducibility record
 
 Every run manifest contains:
