@@ -55,12 +55,15 @@ The core audit and English export use only the Python standard library:
 ```bash
 python3 tools/audit_sources.py
 python3 tools/export_english_edus.py --check
+python3 tools/export_german_adus.py --check
 python3 -m unittest discover -s tests
 ```
 
 The committed source audit is `derived/source_audit.manifest.json`. English
 gold files are under `derived/edu/en/multilayer_gold/`, with canonical starts
-in `derived/boundaries/en_multilayer_gold.tsv`.
+in `derived/boundaries/en_multilayer_gold.tsv`. The locked German ADU reference
+is under `derived/adu/de/original_gold/`; its bilingual ADU mapping is
+`derived/alignments/adu_de_en.tsv`.
 
 Model inference is deliberately separate from the source audit. It will use
 optional environments for `eduseg_de` and SeCoRel; model weights, caches, raw

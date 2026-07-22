@@ -1,0 +1,928 @@
+{
+  "bilingual_alignment": {
+    "path": "derived/alignments/adu_de_en.tsv",
+    "sha256": "b90250464618a4d7aee3dbf5e1dd7f22e1c844f542a01645e239ff7f024a2975"
+  },
+  "boundary_inventory": {
+    "path": "derived/boundaries/de_adu_gold.tsv",
+    "sha256": "1c607445001d2aec2335f0e6b06a342ef6097d491cafd80fce5e4348e630c6d0"
+  },
+  "collection": "German original gold ADU reference",
+  "counts": {
+    "adus": 576,
+    "alignment_rows": 576,
+    "boundary_rows": 576,
+    "documents": 112
+  },
+  "documents": [
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "d66df2022fd41984ee7aa4f39e38a303abb2a43b91fb1ab9d51325ffed13fd14",
+      "adu_path": "derived/adu/de/original_gold/micro_b001.adus",
+      "doc_id": "micro_b001",
+      "raw_path": "corpus/de/micro_b001.txt",
+      "raw_sha256": "682d1b8e665f0be95290cbb1d2fa677ed61d0a3b4855a175f0d762635677855c"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "0b627a94d7d75dd6be417651aaec56729e57b8e87380e19e8480ed9fbc3badc1",
+      "adu_path": "derived/adu/de/original_gold/micro_b002.adus",
+      "doc_id": "micro_b002",
+      "raw_path": "corpus/de/micro_b002.txt",
+      "raw_sha256": "8d94df4969697e44228c3601cc01bf166d500f2704244e4b90d80e41f8cdbf87"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "0cf7f0dc9559df5c6cf62d66d7e4851dd90eab5c381cba167ea193e4088a56f1",
+      "adu_path": "derived/adu/de/original_gold/micro_b003.adus",
+      "doc_id": "micro_b003",
+      "raw_path": "corpus/de/micro_b003.txt",
+      "raw_sha256": "7e689d90c59cd1481fed2b7a20e31cff0168f9d6341a47fae5295d7f6a26cfc2"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "274ffbf422b4e47a0499f59bcc70ba8ae66af156e519617eef65f7d593bf756b",
+      "adu_path": "derived/adu/de/original_gold/micro_b004.adus",
+      "doc_id": "micro_b004",
+      "raw_path": "corpus/de/micro_b004.txt",
+      "raw_sha256": "f7be71fd5083a7ca1e4df6165225ec51d2f322d23c986fac9bf759542c8bb1cc"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "ae59df85dbac6a063fe1a758ee8034b1787f4a7306b59d8c798193dd8527caaf",
+      "adu_path": "derived/adu/de/original_gold/micro_b005.adus",
+      "doc_id": "micro_b005",
+      "raw_path": "corpus/de/micro_b005.txt",
+      "raw_sha256": "bc046c394283d17d6994d966ac23b5670e15071707ad3f9a5254957840518447"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "09aab100e179bb26a293e632e69fb94646ded6db4a271a5f639d04754917114c",
+      "adu_path": "derived/adu/de/original_gold/micro_b006.adus",
+      "doc_id": "micro_b006",
+      "raw_path": "corpus/de/micro_b006.txt",
+      "raw_sha256": "0e68692c948a256c248950708f86bdf7b758e784add855052cf5ed68d7abd06f"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "994fda0a381261a989f9b8668aaee24d3ce8fb5b2f3d73400d8dd606e18c485c",
+      "adu_path": "derived/adu/de/original_gold/micro_b007.adus",
+      "doc_id": "micro_b007",
+      "raw_path": "corpus/de/micro_b007.txt",
+      "raw_sha256": "757a0025ece2b8cb7ec42a6802224dda3dbd31e01fc90b1b78d9590cb30d8dad"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "50fec5966e516894e9bce7a47a4d7248b8e919b06714f8fa1f1d9bb11827c4a2",
+      "adu_path": "derived/adu/de/original_gold/micro_b008.adus",
+      "doc_id": "micro_b008",
+      "raw_path": "corpus/de/micro_b008.txt",
+      "raw_sha256": "ef7883fa06bb9b6bcf1d2664479619564a80319242972a67e94fa9da29a7d332"
+    },
+    {
+      "adu_count": 4,
+      "adu_file_sha256": "8ec7d66f22ba5c6b0a63def63c2f2598f8a7f121902d1c9e164d1a14ccbf264a",
+      "adu_path": "derived/adu/de/original_gold/micro_b009.adus",
+      "doc_id": "micro_b009",
+      "raw_path": "corpus/de/micro_b009.txt",
+      "raw_sha256": "d9ba928ace3b9924654296f1e372d9b751f65e71ade36f63bcde45e898859bc7"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "05d531c15dd58fc36ee0b72496adedd8fe07226e5dd4a5b50b0942a275cdbbc4",
+      "adu_path": "derived/adu/de/original_gold/micro_b010.adus",
+      "doc_id": "micro_b010",
+      "raw_path": "corpus/de/micro_b010.txt",
+      "raw_sha256": "225907c2f6263482fad3b28d7fe7a9ce45dd24d5c464732d78f7c9b6cbf2c9c6"
+    },
+    {
+      "adu_count": 3,
+      "adu_file_sha256": "6fb982dd8709ea1f110335e1ba011aafd5de717cc2519e1f9fb51b21e4d5f640",
+      "adu_path": "derived/adu/de/original_gold/micro_b011.adus",
+      "doc_id": "micro_b011",
+      "raw_path": "corpus/de/micro_b011.txt",
+      "raw_sha256": "6361189e85b2612d6ff7aab5723bad02c8dbb3fdebfd29f9450e3bcb8b62e6af"
+    },
+    {
+      "adu_count": 4,
+      "adu_file_sha256": "7f5458603ede355e1b7aec49aaba356085b88f04f8eeaa710854b01878fbfc26",
+      "adu_path": "derived/adu/de/original_gold/micro_b012.adus",
+      "doc_id": "micro_b012",
+      "raw_path": "corpus/de/micro_b012.txt",
+      "raw_sha256": "c4a2e874c3ba1eb2f0f913272a63482f57af3f329a36777f63ebe9c4555d7101"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "a1d62d62dd6a50be96402fb1bfb18884664ed531e44050e727d6e4df8e0dcd8e",
+      "adu_path": "derived/adu/de/original_gold/micro_b013.adus",
+      "doc_id": "micro_b013",
+      "raw_path": "corpus/de/micro_b013.txt",
+      "raw_sha256": "db1ecca9f9c95c2dc96e7fa6a9bb90bdec51b0c8ea2b0110e2637019a8018409"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "16a80478938a1e31f75a9428870eba58b17c195465c27d3799031066044dd308",
+      "adu_path": "derived/adu/de/original_gold/micro_b014.adus",
+      "doc_id": "micro_b014",
+      "raw_path": "corpus/de/micro_b014.txt",
+      "raw_sha256": "396defcd9dc26f2f47f3ddcec379f934833a3da304002f7e03d1e89710475620"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "ba8222993557a334ae65333feb584e4f0fa2098896b406c542e9112244fc6ad1",
+      "adu_path": "derived/adu/de/original_gold/micro_b015.adus",
+      "doc_id": "micro_b015",
+      "raw_path": "corpus/de/micro_b015.txt",
+      "raw_sha256": "ef4db5b1b79f49bfc9fff67990a68db7f0343332e5ce96c8fce45aaec8c28558"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "734c86b6c134ad053f2c63abe7b454caf9827b778321e76dee2537dafe44af82",
+      "adu_path": "derived/adu/de/original_gold/micro_b016.adus",
+      "doc_id": "micro_b016",
+      "raw_path": "corpus/de/micro_b016.txt",
+      "raw_sha256": "1a2dca4e95086cb561fbcc5c601f2dee464e2f82e3fc7d62f67c168e859b9355"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "9b87425874ae4876ad0d86b84659a0042aaa4eb50664b48f0fdd028737778ce8",
+      "adu_path": "derived/adu/de/original_gold/micro_b017.adus",
+      "doc_id": "micro_b017",
+      "raw_path": "corpus/de/micro_b017.txt",
+      "raw_sha256": "b009bcfb318c48500e2dd1610e5a35e12aa4471ad0d2a64fa9dad7f618d94f51"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "212d09b3ad59271d3c54eca6a765e3b5e93e5aa9081defc17f58b8d4d14d742e",
+      "adu_path": "derived/adu/de/original_gold/micro_b018.adus",
+      "doc_id": "micro_b018",
+      "raw_path": "corpus/de/micro_b018.txt",
+      "raw_sha256": "8ed9628c2a33950b68b3526f272565f7e9d613778d975f30385f5295bd71febe"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "4c7660d1305a81a6232b71d7b94a2e3e4b5ec69111a116d94d84a75c77ca2015",
+      "adu_path": "derived/adu/de/original_gold/micro_b019.adus",
+      "doc_id": "micro_b019",
+      "raw_path": "corpus/de/micro_b019.txt",
+      "raw_sha256": "ecd78f7d6962c1525d85bc0760ef9f4dec0286ecec9690745c1a88d177921b53"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "6f6b858b68a8ece69d91eb00933d3b344c1c498a2772d8603c3affacbd58f158",
+      "adu_path": "derived/adu/de/original_gold/micro_b020.adus",
+      "doc_id": "micro_b020",
+      "raw_path": "corpus/de/micro_b020.txt",
+      "raw_sha256": "0d22adf62f4f8b732122f7c72fc52744e48876bffaca65b32e551c68f61e43c9"
+    },
+    {
+      "adu_count": 4,
+      "adu_file_sha256": "54735ccb6932607f18ae71ab8e90bf48ff1fe05e41aa2badc4f0034dcb213c72",
+      "adu_path": "derived/adu/de/original_gold/micro_b021.adus",
+      "doc_id": "micro_b021",
+      "raw_path": "corpus/de/micro_b021.txt",
+      "raw_sha256": "44529d4b6caf11963384fcdfdb7622c6601e0a79899ac267c4a3b45d545ce21d"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "7b128abad06dd92d81bc49c391e038dffdedc596e62dcfa8d790ea58b021603a",
+      "adu_path": "derived/adu/de/original_gold/micro_b022.adus",
+      "doc_id": "micro_b022",
+      "raw_path": "corpus/de/micro_b022.txt",
+      "raw_sha256": "369493506a8cef1acdfb663195530742fda303227655ffbdb95072b999dba814"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "2d5f70d1907b99c60b2b024a0f52477c8615adb7e1dae3a8587a4fb7f6229b69",
+      "adu_path": "derived/adu/de/original_gold/micro_b023.adus",
+      "doc_id": "micro_b023",
+      "raw_path": "corpus/de/micro_b023.txt",
+      "raw_sha256": "270453e80bdea6167687e80490d172c4fb3da0e0f6db3cbf02306d2238c93353"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "514fd3ba91165dfdd22fc1019af0dd7d8f4c6bb9736b3fd6d711c0ba8d8c23d3",
+      "adu_path": "derived/adu/de/original_gold/micro_b024.adus",
+      "doc_id": "micro_b024",
+      "raw_path": "corpus/de/micro_b024.txt",
+      "raw_sha256": "16048141e3f98aa8abb1b97738bb18f6a2455322ede88c4f3537fa9d9d451549"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "54e0cf83ca81be6454ab57e7828251b6097b18884b136f5ab50ce5a390b145de",
+      "adu_path": "derived/adu/de/original_gold/micro_b025.adus",
+      "doc_id": "micro_b025",
+      "raw_path": "corpus/de/micro_b025.txt",
+      "raw_sha256": "7360e1f08097cf6e2a0cfedc257da8fc81e821470b5ae7982891a9eb81077357"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "ed9ef3dc97f6430425ab0548a2be6429d8d37faf207bef8f4d2de4f0f43a5daf",
+      "adu_path": "derived/adu/de/original_gold/micro_b026.adus",
+      "doc_id": "micro_b026",
+      "raw_path": "corpus/de/micro_b026.txt",
+      "raw_sha256": "bc499bee935beac03bfeb575ce9d767ec3d9c5bf88e13c55a3f1a5e5ced73737"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "3068d682b61ba8b59e9c90fe3f06209690b6868c7fc998e324e9f11c954b5b15",
+      "adu_path": "derived/adu/de/original_gold/micro_b027.adus",
+      "doc_id": "micro_b027",
+      "raw_path": "corpus/de/micro_b027.txt",
+      "raw_sha256": "fd6a965dce6e82a1d7d0322ae25fcaa078348a18bfe9e9053e9f77ef3668ce94"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "8e7b8a6651e1ce9336157b645fa4690d9192f79f6ad09742439144ed6f192813",
+      "adu_path": "derived/adu/de/original_gold/micro_b028.adus",
+      "doc_id": "micro_b028",
+      "raw_path": "corpus/de/micro_b028.txt",
+      "raw_sha256": "2e0158491a65af4afc3af26f271b7941ba2623e62729f4082d7dd40588737ae7"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "b9eb813cf8614fd122692116309376ae101a66ebc0265553ddde1695b15ff818",
+      "adu_path": "derived/adu/de/original_gold/micro_b029.adus",
+      "doc_id": "micro_b029",
+      "raw_path": "corpus/de/micro_b029.txt",
+      "raw_sha256": "076ad612bf279c61670b44b7981c64a0b3fd1e3ca869241dd5a4125c698739a4"
+    },
+    {
+      "adu_count": 4,
+      "adu_file_sha256": "b2b6e38c30b71cbfc02c684dfc0b2831b85690689e11e573eb288edd8b2c9811",
+      "adu_path": "derived/adu/de/original_gold/micro_b030.adus",
+      "doc_id": "micro_b030",
+      "raw_path": "corpus/de/micro_b030.txt",
+      "raw_sha256": "f38c995698a267a8f1d054ef457930a6511129d77d91708a2cdaa3ae810a0764"
+    },
+    {
+      "adu_count": 4,
+      "adu_file_sha256": "1280de8e7b5a00cb8e9bd968a67066f1be73f6074a500333243b1042779cfb51",
+      "adu_path": "derived/adu/de/original_gold/micro_b031.adus",
+      "doc_id": "micro_b031",
+      "raw_path": "corpus/de/micro_b031.txt",
+      "raw_sha256": "aa7c97cb6f597b91ce38a3ceb1e6359ffc67e8b985bff2fc4ff568f2b5dd7420"
+    },
+    {
+      "adu_count": 4,
+      "adu_file_sha256": "8f176366a28d382de442c30ed5dc2178bb0f679c6bbbd468608b6e074489ffe0",
+      "adu_path": "derived/adu/de/original_gold/micro_b032.adus",
+      "doc_id": "micro_b032",
+      "raw_path": "corpus/de/micro_b032.txt",
+      "raw_sha256": "decb174d8110b031da6d2e7387ea0e9aa01db65f7fd8bf63da0fd120318e25b6"
+    },
+    {
+      "adu_count": 3,
+      "adu_file_sha256": "2cf955834b26b7bd66ebe7b0588ede005570f04ed477fa86e745563cb09d9a5e",
+      "adu_path": "derived/adu/de/original_gold/micro_b033.adus",
+      "doc_id": "micro_b033",
+      "raw_path": "corpus/de/micro_b033.txt",
+      "raw_sha256": "fb9b3e5abe1316c9529b856851663ac37361825b2eee25896e08e7a9b839424f"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "cd496b61b1e852ddedf8e3c68daabcdff59bc7db047525078a1c3408913e4979",
+      "adu_path": "derived/adu/de/original_gold/micro_b034.adus",
+      "doc_id": "micro_b034",
+      "raw_path": "corpus/de/micro_b034.txt",
+      "raw_sha256": "d9dbfbc1af59b2cc511eee09ec3286a3992471e7e8e4473b09cdf57abbb40f2c"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "9f12fc034c57aebb3694f71f0421db5185a24e919ae3cb628fb68f758528e2a4",
+      "adu_path": "derived/adu/de/original_gold/micro_b035.adus",
+      "doc_id": "micro_b035",
+      "raw_path": "corpus/de/micro_b035.txt",
+      "raw_sha256": "596fe12f596b6f067272fbe827080ae9ea2420b8a86eae6635a8f5c2ef2f1034"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "e278e2005ddd9b0553316dacde552065e0a72122e6ac0881389de5f0217de22f",
+      "adu_path": "derived/adu/de/original_gold/micro_b036.adus",
+      "doc_id": "micro_b036",
+      "raw_path": "corpus/de/micro_b036.txt",
+      "raw_sha256": "0003b2fd0480937a68fc1e01a2bbcea3022bb05768a40d8037e9e02bbb56fb8b"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "3a9eb7c3f4b630058b151a72b3ba255235492479990cc6509f5a0bf8dab96de2",
+      "adu_path": "derived/adu/de/original_gold/micro_b037.adus",
+      "doc_id": "micro_b037",
+      "raw_path": "corpus/de/micro_b037.txt",
+      "raw_sha256": "9ef23ec398677d63c53b9c9e0595764d1af70c8d17e67818656c65690a581543"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "ab486517f227739e8c070548c2fb8d2905621b6535ec64cbf5d705fd70736175",
+      "adu_path": "derived/adu/de/original_gold/micro_b038.adus",
+      "doc_id": "micro_b038",
+      "raw_path": "corpus/de/micro_b038.txt",
+      "raw_sha256": "43880a2ee6860ee843ae7d3308f04416489132a5c23304cbd3afb1b975d9b4cc"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "c38b60ffaa906abeda0bddb250079d227c40f601c0cb4c272562e7772089f1bf",
+      "adu_path": "derived/adu/de/original_gold/micro_b039.adus",
+      "doc_id": "micro_b039",
+      "raw_path": "corpus/de/micro_b039.txt",
+      "raw_sha256": "445bc7b3b628f684bd0ae43fc4a062e613676d60c741524ba4a65a9c619b9372"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "ea2e4fff8fcaf473c56755d7c68b0b5177ab30e8a1efc04a9681ca762831bc64",
+      "adu_path": "derived/adu/de/original_gold/micro_b040.adus",
+      "doc_id": "micro_b040",
+      "raw_path": "corpus/de/micro_b040.txt",
+      "raw_sha256": "c6f4331197eac85b891fc8d3918dd50581ac407b6fe69eab45cd538f7ddcd28e"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "a2b4f775c85eccd02754567eff3704f08f9dee91cb0735217e00b08d79b23ee5",
+      "adu_path": "derived/adu/de/original_gold/micro_b041.adus",
+      "doc_id": "micro_b041",
+      "raw_path": "corpus/de/micro_b041.txt",
+      "raw_sha256": "e5fb4261c076c61255221a2600c72c33969c3e2589fb2c5b7c07b2de1b7459aa"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "92f0a2715072d470db11ba7d33477b25cbba2094c123a47aee6f28d84682c168",
+      "adu_path": "derived/adu/de/original_gold/micro_b042.adus",
+      "doc_id": "micro_b042",
+      "raw_path": "corpus/de/micro_b042.txt",
+      "raw_sha256": "4b28a12e2b5d0f0796b5208983e1220d5263ee48e1d4c0d0e634ace4649ea8d3"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "28c0e30173bb24bdab66fc2c09deb21e8141b522931bb4c6f3f94a5506b7bf5f",
+      "adu_path": "derived/adu/de/original_gold/micro_b044.adus",
+      "doc_id": "micro_b044",
+      "raw_path": "corpus/de/micro_b044.txt",
+      "raw_sha256": "3749944a9e632ce8399d0c913a25f279f320765cfccb19717dd24ae67ec69744"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "5156eb3a8637e1dbe893bef89733806428cf4114cb8fa149a3865f2a8064c4e4",
+      "adu_path": "derived/adu/de/original_gold/micro_b045.adus",
+      "doc_id": "micro_b045",
+      "raw_path": "corpus/de/micro_b045.txt",
+      "raw_sha256": "59fd115efdd2596fbc097882cf43db911a6a9fdd8ff27305c70762e04e069e5e"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "b1291384d072607ef6ee2a9cc77b608e9d5c1b1190fe16dfe8a960f49ba5064a",
+      "adu_path": "derived/adu/de/original_gold/micro_b046.adus",
+      "doc_id": "micro_b046",
+      "raw_path": "corpus/de/micro_b046.txt",
+      "raw_sha256": "1921752a3c12f204ab78017dcc2da82737d3a09c29551132721cd448ab43ff7d"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "237fb08fc2062375d0a21350ac5541a71f45779dcc1be945bd6abbb43cbd044b",
+      "adu_path": "derived/adu/de/original_gold/micro_b047.adus",
+      "doc_id": "micro_b047",
+      "raw_path": "corpus/de/micro_b047.txt",
+      "raw_sha256": "cfedfbcd6acc25bb13a67bea6bcda3ca9cd743a4233e99bffe3fec4148b0029d"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "a12c0853c3448eb464d28533e8aac2e5cc168ff5d3916ad05de7c55b4e886e8c",
+      "adu_path": "derived/adu/de/original_gold/micro_b048.adus",
+      "doc_id": "micro_b048",
+      "raw_path": "corpus/de/micro_b048.txt",
+      "raw_sha256": "c47ee0750dccb2ddc3b2278a3b4c69a37b8c197618b869f95b2b1740ee972ffb"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "4e42ea29e856abc8917e4dbd021c9eef2b307d14ea982b1ba7bc011b347581ee",
+      "adu_path": "derived/adu/de/original_gold/micro_b049.adus",
+      "doc_id": "micro_b049",
+      "raw_path": "corpus/de/micro_b049.txt",
+      "raw_sha256": "c56a9cac782f46bfc720f3fd559a666a2b5253a547df203b4fa4ddbb70a8475a"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "cc427b5d4df68f4b005c2bcc45e2c237e6788beb65d10a7268f28d2b41019c1f",
+      "adu_path": "derived/adu/de/original_gold/micro_b050.adus",
+      "doc_id": "micro_b050",
+      "raw_path": "corpus/de/micro_b050.txt",
+      "raw_sha256": "deb52a3b3a832b80391e0d99a9cd504b305de2b97f68fde3df0997087fed95d7"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "73e198dd12a4eb53962842719d1f4464c658731a1f659aa11998a9816d83e863",
+      "adu_path": "derived/adu/de/original_gold/micro_b051.adus",
+      "doc_id": "micro_b051",
+      "raw_path": "corpus/de/micro_b051.txt",
+      "raw_sha256": "55ed42ee18a8bfcb4fb7111e74e629ae01355cfc57afcff91cdb8d5d121900e5"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "778e44e45cd1a343c08ddfff0be391722f2a18b1181212115715942482732064",
+      "adu_path": "derived/adu/de/original_gold/micro_b052.adus",
+      "doc_id": "micro_b052",
+      "raw_path": "corpus/de/micro_b052.txt",
+      "raw_sha256": "e6f7feb2df8a40729f7989a5aa7f80c295f4e81b8aecf277fb3816bb6674ffc1"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "32822d5d64c2529ffaa2b2ae7a15b22319e629f552ca1d6e17aeaaab5714eeeb",
+      "adu_path": "derived/adu/de/original_gold/micro_b053.adus",
+      "doc_id": "micro_b053",
+      "raw_path": "corpus/de/micro_b053.txt",
+      "raw_sha256": "63a49aa2582ebae26151216f9f2508f5dffbe5395a745e97adb424d6dc7fe8b9"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "cf26ab7d81ad04e0226ec5313376a062bf96b9273e5356372cfe6ec3b86c6607",
+      "adu_path": "derived/adu/de/original_gold/micro_b054.adus",
+      "doc_id": "micro_b054",
+      "raw_path": "corpus/de/micro_b054.txt",
+      "raw_sha256": "2d83e8dd178d5304d17142d6d90ee61ab7b357a0a20f374dae913afbf69015e7"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "42152e4fa6e776cedb490e5525e769f25257aa16c8b6611bea7e454d98d3591e",
+      "adu_path": "derived/adu/de/original_gold/micro_b055.adus",
+      "doc_id": "micro_b055",
+      "raw_path": "corpus/de/micro_b055.txt",
+      "raw_sha256": "23f253bed1e12e072688abc6eec260ee6fd19497f0af5c45714df0cb82b71ea9"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "733072086bf19cf09c425498b6946a6a83071177a37566eed60317d5c32c6e5c",
+      "adu_path": "derived/adu/de/original_gold/micro_b056.adus",
+      "doc_id": "micro_b056",
+      "raw_path": "corpus/de/micro_b056.txt",
+      "raw_sha256": "4a402bf298e76ae8b42fa9721a3ed68b8ab01016cce4bcf28fc3c5af6b58de27"
+    },
+    {
+      "adu_count": 4,
+      "adu_file_sha256": "a446bfd9fcb9e1003d9f77972d7e2610622906dc660ffc6524a939ed33d42d60",
+      "adu_path": "derived/adu/de/original_gold/micro_b057.adus",
+      "doc_id": "micro_b057",
+      "raw_path": "corpus/de/micro_b057.txt",
+      "raw_sha256": "3dbc052dc968738f5879fb436e723ca339672bf39563604cf09c8ba3d40b69fe"
+    },
+    {
+      "adu_count": 7,
+      "adu_file_sha256": "fffccc60a510189e0d24f9b81ffd40544d84c0c8000e1f83da3fd241f7b5992a",
+      "adu_path": "derived/adu/de/original_gold/micro_b058.adus",
+      "doc_id": "micro_b058",
+      "raw_path": "corpus/de/micro_b058.txt",
+      "raw_sha256": "13b09ac90643b607d12e3001976209608cf5cc8ab7895586752bd09cb3068ec8"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "26fa00fee8ddb1a5cdd9ff1ed07769785617a2697969128f4312ddf1a8adee16",
+      "adu_path": "derived/adu/de/original_gold/micro_b059.adus",
+      "doc_id": "micro_b059",
+      "raw_path": "corpus/de/micro_b059.txt",
+      "raw_sha256": "e587aebf670b7ef0f65581ea296fda70f141a17e0bf3ce2a7ba8200403ca70c5"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "4399eea64ccc5aac184575e32edb2a371789eef7ab323e9e7aa1f34e9f63c7c6",
+      "adu_path": "derived/adu/de/original_gold/micro_b060.adus",
+      "doc_id": "micro_b060",
+      "raw_path": "corpus/de/micro_b060.txt",
+      "raw_sha256": "b2facfd92050bcad1cdec6246acc1d9b4fad0570cfeb76b033e9f57257893b2c"
+    },
+    {
+      "adu_count": 3,
+      "adu_file_sha256": "232fe490c3be23affb10544d4207f12003c283a8881ba2c8698d264c731757c7",
+      "adu_path": "derived/adu/de/original_gold/micro_b061.adus",
+      "doc_id": "micro_b061",
+      "raw_path": "corpus/de/micro_b061.txt",
+      "raw_sha256": "47eabd6dcf7cc059b203f315d908448f8182ce0091b6d3ae923a103c0186770b"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "dc63aa090c7a4838a4d9ca5edd01cf66db352fa3ae3ed08d88f9efbb2f6b4c53",
+      "adu_path": "derived/adu/de/original_gold/micro_b062.adus",
+      "doc_id": "micro_b062",
+      "raw_path": "corpus/de/micro_b062.txt",
+      "raw_sha256": "e3cc617bb9a4c6297e58cf52130e6ca62f915710de753220061dd2d73d674ade"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "bc80effac2ff282e5d60667182e7bff1b6aeb255903dada01270f33b98d9b3ac",
+      "adu_path": "derived/adu/de/original_gold/micro_b064.adus",
+      "doc_id": "micro_b064",
+      "raw_path": "corpus/de/micro_b064.txt",
+      "raw_sha256": "1539ccf6ef56092e49630cfddb093500fe4c0ee9b6f20378d65bbefcc184a939"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "e030f82cc464b4a9b1340c85cef2fbee1efb053ee775b58de0c453290b9c916b",
+      "adu_path": "derived/adu/de/original_gold/micro_d01.adus",
+      "doc_id": "micro_d01",
+      "raw_path": "corpus/de/micro_d01.txt",
+      "raw_sha256": "242f609a6362c6bdc63294185cd21c06dd93b89fc695e377af7def9b42b7dc11"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "9f3bc01c97cb2c9fd7cc4ff5b5044d580ae694ec6071a883cd673afc4e83a338",
+      "adu_path": "derived/adu/de/original_gold/micro_d02.adus",
+      "doc_id": "micro_d02",
+      "raw_path": "corpus/de/micro_d02.txt",
+      "raw_sha256": "09c85f94914583d70f71056c99938e1c1338f16ffc0f8c3937e27626ffe3bdfc"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "88e23f3ddcac0296290c2d5402e930e8c727843b95cda44561502c8af75458f0",
+      "adu_path": "derived/adu/de/original_gold/micro_d03.adus",
+      "doc_id": "micro_d03",
+      "raw_path": "corpus/de/micro_d03.txt",
+      "raw_sha256": "9daef2396fec932dd14d4c3783ed4e35947e7cec83f09415c1a6fd5e5aa5b767"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "e226f80e0fd5af128950733b390e5b6e1447c08dd4caba7caca2682fb161e707",
+      "adu_path": "derived/adu/de/original_gold/micro_d04.adus",
+      "doc_id": "micro_d04",
+      "raw_path": "corpus/de/micro_d04.txt",
+      "raw_sha256": "5e8d9091b432c0fc0152842dc8328b16b3193fbe18397584d45e38b77ef6ced2"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "5e351c0d82424bb4b8a611db6513bef17427ffe26e7b883eb464ddb4224718ba",
+      "adu_path": "derived/adu/de/original_gold/micro_d05.adus",
+      "doc_id": "micro_d05",
+      "raw_path": "corpus/de/micro_d05.txt",
+      "raw_sha256": "8c8471154148b105b14bbcb5601095e09c6b1f05ed80526b3be1d33c74bc8ef5"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "0386f3298a7661f2d52a6503e22d7ac9c4649a6b321c1b33754b3b414d88e4ae",
+      "adu_path": "derived/adu/de/original_gold/micro_d06.adus",
+      "doc_id": "micro_d06",
+      "raw_path": "corpus/de/micro_d06.txt",
+      "raw_sha256": "387fe85cf078211e594efa6022b38f2223d17439f0c658108faad164cd747273"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "40ef1999ea9ae469410c92d7a06c95e53eca4ec8ae372e39f74497b5722438a6",
+      "adu_path": "derived/adu/de/original_gold/micro_d07.adus",
+      "doc_id": "micro_d07",
+      "raw_path": "corpus/de/micro_d07.txt",
+      "raw_sha256": "33eb200cac2f1461cb2191b90c2f82a2be5ae0eb19af478e577344384176ac7d"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "b63ec61a2399ceab9a01a41b829084591d3723a5797f94090a099bb3840fc4f1",
+      "adu_path": "derived/adu/de/original_gold/micro_d08.adus",
+      "doc_id": "micro_d08",
+      "raw_path": "corpus/de/micro_d08.txt",
+      "raw_sha256": "a24e69ca926fa64be6375335882f9eca88458e0b4bc0ca3f38f81775a7226abb"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "4b03b679b8d0e110410df952a26c6c01f25a50896344bdb611bc288ffcad6068",
+      "adu_path": "derived/adu/de/original_gold/micro_d09.adus",
+      "doc_id": "micro_d09",
+      "raw_path": "corpus/de/micro_d09.txt",
+      "raw_sha256": "5e7202eaaffc5dc8602c00ee8ceb68a410c252e845f3904ed2118e86322670f1"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "18aa4884c3a6537815f023c666d51d3799ae4c5a503ed99f0d1b0e9911b653d1",
+      "adu_path": "derived/adu/de/original_gold/micro_d10.adus",
+      "doc_id": "micro_d10",
+      "raw_path": "corpus/de/micro_d10.txt",
+      "raw_sha256": "edc13c20d3b7d12eeba6a9b203218266a245e0456c9dfd2e338c5606421d138f"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "0eceb0fec1eedc7b2532be0ee293fac8293bef9529e6c65d41c2c14c7a852afb",
+      "adu_path": "derived/adu/de/original_gold/micro_d11.adus",
+      "doc_id": "micro_d11",
+      "raw_path": "corpus/de/micro_d11.txt",
+      "raw_sha256": "e35ebd882bc27129b5f0b15a1899823077c1bed286cabb41f452caeccfcc8b6e"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "382e12373235771fd77fc983709e64c3a1a31859600790210c5042bf322d5790",
+      "adu_path": "derived/adu/de/original_gold/micro_d12.adus",
+      "doc_id": "micro_d12",
+      "raw_path": "corpus/de/micro_d12.txt",
+      "raw_sha256": "1af519eca2affb98176a831aad8cc07f051c412d2637f75ac92db15e5e24350c"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "56ec2ce274ed64aac667aea8d0b6b775ae4b385eb6a6d750e1df4b5ee029f52e",
+      "adu_path": "derived/adu/de/original_gold/micro_d13.adus",
+      "doc_id": "micro_d13",
+      "raw_path": "corpus/de/micro_d13.txt",
+      "raw_sha256": "715e3cb43326ea115512c6bd1a7d30bb98719e5a04cb4594ed540b17cd493859"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "d9722ecb26915ead4e8366649c1d977204a17af6a572f113aec6b4b5e2abe021",
+      "adu_path": "derived/adu/de/original_gold/micro_d14.adus",
+      "doc_id": "micro_d14",
+      "raw_path": "corpus/de/micro_d14.txt",
+      "raw_sha256": "f44cd308b49d49987bf44db94177696f53a4b2da3d47fd4cde34344b12080ff1"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "416487985657212578709a99e51cde2637c73b5a94312df3a2f73e89a148ca69",
+      "adu_path": "derived/adu/de/original_gold/micro_d15.adus",
+      "doc_id": "micro_d15",
+      "raw_path": "corpus/de/micro_d15.txt",
+      "raw_sha256": "fa287081db3686aeb8a759abf7324f8d2d24d3e76e56ed272c686c067605fc44"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "3e37e8b1c0a9dbb5a2dbae91b826ed0d30d09c2ca7f4e5a68a5dbf6acad2191d",
+      "adu_path": "derived/adu/de/original_gold/micro_d16.adus",
+      "doc_id": "micro_d16",
+      "raw_path": "corpus/de/micro_d16.txt",
+      "raw_sha256": "92afd3fe0211be91d504d89de1e4be14f0e9e1a6f6e38afab3e496ee6a1d8f34"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "10b69db1f85ee75a6d3c01849619ca02c1ca3b5b23561dc99d7b88de2994bf9d",
+      "adu_path": "derived/adu/de/original_gold/micro_d17.adus",
+      "doc_id": "micro_d17",
+      "raw_path": "corpus/de/micro_d17.txt",
+      "raw_sha256": "769591e289b1a8b88c8085900af2f5cc38d0637a4ad400a0a039093941e42dea"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "d3fedaa7c3fd4bbc57b0ffe3b1d59afca3e1b42c90224e17dbd134bd00a19213",
+      "adu_path": "derived/adu/de/original_gold/micro_d18.adus",
+      "doc_id": "micro_d18",
+      "raw_path": "corpus/de/micro_d18.txt",
+      "raw_sha256": "c61ea423bf56de10752c6f98e54d6e40e076882e738cadc35f9bab5c19108dff"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "ca85d7f788343683ea1bbac46d8f29f7781d291ba2a212699b23e8b7967df2d5",
+      "adu_path": "derived/adu/de/original_gold/micro_d19.adus",
+      "doc_id": "micro_d19",
+      "raw_path": "corpus/de/micro_d19.txt",
+      "raw_sha256": "190e4f122d8f09c26c5e10c2319ece262e108607d4180f2d6547d101c183654b"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "d1723380716ac9e42412b956fa6fc59b8ad93745c248cc8c0caf87b352cdc51d",
+      "adu_path": "derived/adu/de/original_gold/micro_d20.adus",
+      "doc_id": "micro_d20",
+      "raw_path": "corpus/de/micro_d20.txt",
+      "raw_sha256": "af15fb2c1a3ca157f832b9510bafa57916798dbed86cc98546f181586f9b056a"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "5391bc91f069f58ba201a8135aa6ad808086b9074a4c27d88e679a578a2475e0",
+      "adu_path": "derived/adu/de/original_gold/micro_d21.adus",
+      "doc_id": "micro_d21",
+      "raw_path": "corpus/de/micro_d21.txt",
+      "raw_sha256": "31c183e45c134b20fac3a58b6633273e185bba0653ff4f01127bf109f7c77375"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "497b5ba23973761294e4755f5aeb72372abfb745ee773b90556abf919db2dfd7",
+      "adu_path": "derived/adu/de/original_gold/micro_d22.adus",
+      "doc_id": "micro_d22",
+      "raw_path": "corpus/de/micro_d22.txt",
+      "raw_sha256": "e4e1749e3a00fc3a6ffeb500885d35b92d6303d0e15837b2a5ce4155d77e23fc"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "76c2ff349005fa954bfe79a0c2f03580de65c6b3313a662802d18c1cc23f1d82",
+      "adu_path": "derived/adu/de/original_gold/micro_d23.adus",
+      "doc_id": "micro_d23",
+      "raw_path": "corpus/de/micro_d23.txt",
+      "raw_sha256": "c76b9e91ad574b73608d7ffd655472ae840cd72cabea3eddb4a711284fd10878"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "cb34402b2a0b3fbf43dbced4d6f7f16dbb5b81e80913e998173cd6c6ccbb7a56",
+      "adu_path": "derived/adu/de/original_gold/micro_k001.adus",
+      "doc_id": "micro_k001",
+      "raw_path": "corpus/de/micro_k001.txt",
+      "raw_sha256": "fa5d50025acf534920134f90b2ca8c8ed696d8824b3d0bd8dd54141ce5a444af"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "32f0d63b18b58e872c6ca02e31e55178d07498866193490df20bdcaa16635666",
+      "adu_path": "derived/adu/de/original_gold/micro_k002.adus",
+      "doc_id": "micro_k002",
+      "raw_path": "corpus/de/micro_k002.txt",
+      "raw_sha256": "4cce4d139c78c5dfb1fc2af7ab4afed06901dc606db2365d59797b09de4b4030"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "446d7579fcb4a503d98b22ff59e1cb15b3a7b3102a9f7a0d0534d5a2b877392d",
+      "adu_path": "derived/adu/de/original_gold/micro_k003.adus",
+      "doc_id": "micro_k003",
+      "raw_path": "corpus/de/micro_k003.txt",
+      "raw_sha256": "8963f9c3f083071afaa40c63d3b064aa28ae5ff7c9fe3859f6af1d588abda70d"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "4eba08528dc22b7308f38bf290de31b6b9efe93ff465da2dc554c39a816b0eef",
+      "adu_path": "derived/adu/de/original_gold/micro_k004.adus",
+      "doc_id": "micro_k004",
+      "raw_path": "corpus/de/micro_k004.txt",
+      "raw_sha256": "9c72427224b43c475238b316041b2fa3c305e70b65966be5fe52d8ea6739778b"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "03eea3e7c8bd0325654af63a89ba154b908b45163a5a6119e4c4dd78c154c75d",
+      "adu_path": "derived/adu/de/original_gold/micro_k006.adus",
+      "doc_id": "micro_k006",
+      "raw_path": "corpus/de/micro_k006.txt",
+      "raw_sha256": "18c915e3cc549c4b01785f928e704c76a40018cf2f772c6aafe00c329822ce9b"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "f87cdf8ec4723581e1ae7f2da122383abef351b6aa22fa9f197631c48cb972ec",
+      "adu_path": "derived/adu/de/original_gold/micro_k007.adus",
+      "doc_id": "micro_k007",
+      "raw_path": "corpus/de/micro_k007.txt",
+      "raw_sha256": "1d1aa74710abfcbbc6baeef31a4fed2d793f3dc7cc8699194dbdcc7243bcff25"
+    },
+    {
+      "adu_count": 4,
+      "adu_file_sha256": "21a3686b2cc429ade5a967935f5b6adf1586c644a95810c9a8abd3036719724f",
+      "adu_path": "derived/adu/de/original_gold/micro_k008.adus",
+      "doc_id": "micro_k008",
+      "raw_path": "corpus/de/micro_k008.txt",
+      "raw_sha256": "2fa350de321d42d14e77f6dd812a6d0e7c168031f72c14a61d1953c0f13152ab"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "9ab5e8b069a2b089aef40c5a72698d843934f047243ba6fa548bf13139e559dc",
+      "adu_path": "derived/adu/de/original_gold/micro_k009.adus",
+      "doc_id": "micro_k009",
+      "raw_path": "corpus/de/micro_k009.txt",
+      "raw_sha256": "e54edff6b4e80ebacc884cba4723b54175fcf3e637d27d718378262e5ea8465c"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "473fcfeacc0b78013a3cbaa47f5ebe65bac5fd2927c41756d2fb87209958005c",
+      "adu_path": "derived/adu/de/original_gold/micro_k010.adus",
+      "doc_id": "micro_k010",
+      "raw_path": "corpus/de/micro_k010.txt",
+      "raw_sha256": "cf9dd7fe2b0d7c7060474497255f9f520f4fe950abc42e37c125820929ba9530"
+    },
+    {
+      "adu_count": 10,
+      "adu_file_sha256": "f7c3c1a2744ba58d00cdac4667ac38a7b718a4b21955919e1f0609ad05bf791a",
+      "adu_path": "derived/adu/de/original_gold/micro_k011.adus",
+      "doc_id": "micro_k011",
+      "raw_path": "corpus/de/micro_k011.txt",
+      "raw_sha256": "90c96fe70a75e869d61cdd9a89778a5aaeefbf20e47ecb91784744e20db732af"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "18b854ca2973f3ca3d4f937416fd8e86f2cc32448a86a7343ccfe62632c26bd7",
+      "adu_path": "derived/adu/de/original_gold/micro_k012.adus",
+      "doc_id": "micro_k012",
+      "raw_path": "corpus/de/micro_k012.txt",
+      "raw_sha256": "ef9165a1d7bc04506fca746599f5714e99337df65fe672832383d0adf8adaf34"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "ced5dc208b519dc75375da776003faf5201808bac7b81b830e1c527b737f289a",
+      "adu_path": "derived/adu/de/original_gold/micro_k013.adus",
+      "doc_id": "micro_k013",
+      "raw_path": "corpus/de/micro_k013.txt",
+      "raw_sha256": "2230842be7da02089bf9a3ca577f5aadf0871e235d9e3e4433ca933d04016b60"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "d5a01d7cd50d26e7c1ae40d621c0fa08268704ed52fe3332cab83f448f36ed68",
+      "adu_path": "derived/adu/de/original_gold/micro_k014.adus",
+      "doc_id": "micro_k014",
+      "raw_path": "corpus/de/micro_k014.txt",
+      "raw_sha256": "5a7811a18c716323bcc67384319f72f9f48ea13c0144a8ff70a6af45683ae7ed"
+    },
+    {
+      "adu_count": 4,
+      "adu_file_sha256": "a9782a2ca70eea194668f0cb6ce68e1bff00ff6b21f3fd7c43a13429ebb9c5ee",
+      "adu_path": "derived/adu/de/original_gold/micro_k015.adus",
+      "doc_id": "micro_k015",
+      "raw_path": "corpus/de/micro_k015.txt",
+      "raw_sha256": "7cd7af2ceeaaf27cfbf8e044f8ffe14563ad24812287503894f0e24c227c5a6f"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "54fb36be9fdc290a901c763f859b5e5e61df19a25448ddcc187ec7c68ff02164",
+      "adu_path": "derived/adu/de/original_gold/micro_k016.adus",
+      "doc_id": "micro_k016",
+      "raw_path": "corpus/de/micro_k016.txt",
+      "raw_sha256": "8b891f742f38da67a6aca8224efc3a0803803e7ffc262709beccf90d2837e2fe"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "ad9752dacd88fafb7b62cb762ef0d19ccfce20ff5d6d979acde09a8804b2c8e3",
+      "adu_path": "derived/adu/de/original_gold/micro_k017.adus",
+      "doc_id": "micro_k017",
+      "raw_path": "corpus/de/micro_k017.txt",
+      "raw_sha256": "4de5e5cf54105e0d8068fd6522e08f1d4dfe8f9eb7e009901b447869e7235040"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "9065fe502516a9a866d3c3d91c361893e4346739894004343d71679d8ad3e19c",
+      "adu_path": "derived/adu/de/original_gold/micro_k018.adus",
+      "doc_id": "micro_k018",
+      "raw_path": "corpus/de/micro_k018.txt",
+      "raw_sha256": "dadc6e984b6ead6136bfa1094ce6b77ee4a756537b6e90be9f8d5bf4ec3495e0"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "d9a60a16eccf5ffaa5c3504429a6060fcb83345dd0cffe2166484f0e77c33d2d",
+      "adu_path": "derived/adu/de/original_gold/micro_k019.adus",
+      "doc_id": "micro_k019",
+      "raw_path": "corpus/de/micro_k019.txt",
+      "raw_sha256": "7305d6c6d97cb76acfc3b9ea8cf70661bf40b314f6b6602b4a2e7bc1b6b698c7"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "d4c4f363e8c75e43a4da12d70961859afd705f7ce9d10c8f354ae12409d6cc34",
+      "adu_path": "derived/adu/de/original_gold/micro_k020.adus",
+      "doc_id": "micro_k020",
+      "raw_path": "corpus/de/micro_k020.txt",
+      "raw_sha256": "7daf36aba5d404508fcef75fff8bebf08359e2c8135e19d9d0e130707ba21cb8"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "4e8d19debc7d791cf1300a596b343822dd0bef742fcf4fe030f907f4d5717acf",
+      "adu_path": "derived/adu/de/original_gold/micro_k021.adus",
+      "doc_id": "micro_k021",
+      "raw_path": "corpus/de/micro_k021.txt",
+      "raw_sha256": "29b50a9052d8ed4889ff2a15aa447c1fd2ad2e2aef9c3bf69caee184a3fa43e8"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "c80928d24f1713e2deb2ab2dd76482b1b69b443c21f4627f7abd9b4d8838ba0c",
+      "adu_path": "derived/adu/de/original_gold/micro_k022.adus",
+      "doc_id": "micro_k022",
+      "raw_path": "corpus/de/micro_k022.txt",
+      "raw_sha256": "aee8b83f738fe5a7b75e6f6bf48351fb6bfd8e76de1274120e72840e25e852b5"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "027cda4858304efc006a4e07c5683624fbf630a864a77493a5b8e4a9b6650ce7",
+      "adu_path": "derived/adu/de/original_gold/micro_k023.adus",
+      "doc_id": "micro_k023",
+      "raw_path": "corpus/de/micro_k023.txt",
+      "raw_sha256": "b4a9b917397218ec5c7175036bad5d05dfb09751dfcc59b681248718a5236cb2"
+    },
+    {
+      "adu_count": 7,
+      "adu_file_sha256": "25e2a044dacabcbb2a614335e7fa8cf5fa92a0a151e38814fca43218ff1b585e",
+      "adu_path": "derived/adu/de/original_gold/micro_k024.adus",
+      "doc_id": "micro_k024",
+      "raw_path": "corpus/de/micro_k024.txt",
+      "raw_sha256": "27cc4747777bd73461636a53de8dce6300608f94f7cd8c1f597bb28df2393760"
+    },
+    {
+      "adu_count": 5,
+      "adu_file_sha256": "e82b6afd5a649db6b00a8ac1a6dfe3f30380c2a69615af810acaf158986a3698",
+      "adu_path": "derived/adu/de/original_gold/micro_k025.adus",
+      "doc_id": "micro_k025",
+      "raw_path": "corpus/de/micro_k025.txt",
+      "raw_sha256": "f15cc806bfbbc2f00756fd98d119825e55fa5510f2fa7029daf973f269c215ea"
+    },
+    {
+      "adu_count": 4,
+      "adu_file_sha256": "c5882f007a594a80c57ffa046e2373e1af9bc4965e3757741a3868e9ecc7867d",
+      "adu_path": "derived/adu/de/original_gold/micro_k027.adus",
+      "doc_id": "micro_k027",
+      "raw_path": "corpus/de/micro_k027.txt",
+      "raw_sha256": "cbc226e5d99b1ebb4d60899508c1bde95beb78ca45686687857c2dad31314abe"
+    },
+    {
+      "adu_count": 4,
+      "adu_file_sha256": "f4ed8d11235cb86ad9e960155d809268eca01c5ecae8959f66712cd7a9f935bf",
+      "adu_path": "derived/adu/de/original_gold/micro_k029.adus",
+      "doc_id": "micro_k029",
+      "raw_path": "corpus/de/micro_k029.txt",
+      "raw_sha256": "34d1b7e2511a5295fc9c0a7f2c343e9da08d363d3a6d48b0b6c6f8822ad226c1"
+    },
+    {
+      "adu_count": 6,
+      "adu_file_sha256": "f47a41d66d53eb2e7f5eb90faaed4f18e5292a60afd0139da114a1e82525d114",
+      "adu_path": "derived/adu/de/original_gold/micro_k031.adus",
+      "doc_id": "micro_k031",
+      "raw_path": "corpus/de/micro_k031.txt",
+      "raw_sha256": "09409da6fce3e8a04121f408f73dd0fcc7fe246be4e2913f7762ef3d1c8a7485"
+    }
+  ],
+  "language": "de",
+  "policy": {
+    "bilingual_alignment": "German and professional English translations share original ADU IDs and order.",
+    "raw_input": "Original corpus/de/*.txt files are canonical complete documents.",
+    "reconstruction": "Join stripped ADU lines with one ASCII space.",
+    "unit_status": "ADU boundaries are locked gold EDU boundaries; within-ADU German EDU boundaries remain unknown."
+  },
+  "schema_version": 1,
+  "source": {
+    "corpus_tree_sha": "5eaefab81cd71f2b68f11a2cb6e3c2e15c4fabbb",
+    "path": "corpus/de"
+  },
+  "status": "gold-adu-reference"
+}

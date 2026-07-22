@@ -1247,6 +1247,10 @@
     "path": "external/arg-microtexts-multilayer",
     "url": "https://github.com/peldszus/arg-microtexts-multilayer.git"
   },
+  "original_corpus": {
+    "path": "corpus",
+    "tree_sha": "5eaefab81cd71f2b68f11a2cb6e3c2e15c4fabbb"
+  },
   "schema_version": 1,
   "totals": {
     "adus": 576,

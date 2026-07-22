@@ -23,6 +23,21 @@ EXPECTED_SAMEUNIT_DOCUMENTS = 9
 KNOWN_RST_ARGUMENT_TEXT_VARIANTS = {
     ("micro_d14", "e7"): ("he was suddenly gone", "he was suddenly gone."),
 }
+BOUNDARY_FIELDS = [
+    "doc_id",
+    "language",
+    "char_offset",
+    "token_index",
+    "adu_id",
+    "edu_id",
+    "boundary_class",
+    "source",
+    "status",
+    "confidence",
+    "model",
+    "run_id",
+    "sameunit_affected",
+]
 
 
 class AuditError(RuntimeError):
@@ -61,9 +76,19 @@ class EnglishDocument:
 
 
 @dataclass(frozen=True)
+class GermanDocument:
+    doc_id: str
+    raw_text: str
+    adus: tuple[UnitSpan, ...]
+    sameunit_affected: bool
+
+
+@dataclass(frozen=True)
 class CorpusAudit:
+    original_corpus_tree: str
     source_commit: str
     documents: tuple[DocumentRecord, ...]
+    german_documents: tuple[GermanDocument, ...]
     english_documents: tuple[EnglishDocument, ...]
 
     @property
@@ -85,6 +110,10 @@ class CorpusAudit:
     def manifest(self) -> dict[str, object]:
         return {
             "schema_version": 1,
+            "original_corpus": {
+                "path": "corpus",
+                "tree_sha": self.original_corpus_tree,
+            },
             "multilayer_source": {
                 "path": "external/arg-microtexts-multilayer",
                 "url": "https://github.com/peldszus/arg-microtexts-multilayer.git",
@@ -129,6 +158,16 @@ def source_commit() -> str:
         )
     result = subprocess.run(
         ["git", "-C", str(MULTILAYER_ROOT), "rev-parse", "HEAD"],
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    return result.stdout.strip()
+
+
+def original_corpus_tree() -> str:
+    result = subprocess.run(
+        ["git", "-C", str(REPO_ROOT), "rev-parse", "HEAD:corpus"],
         check=True,
         capture_output=True,
         text=True,
@@ -246,6 +285,7 @@ def build_audit() -> CorpusAudit:
     assert_equal(len(sameunit_ids), EXPECTED_SAMEUNIT_DOCUMENTS, "Same-Unit document count")
 
     records: list[DocumentRecord] = []
+    german_documents: list[GermanDocument] = []
     english_documents: list[EnglishDocument] = []
 
     for doc_id in sorted(de_ids):
@@ -340,6 +380,14 @@ def build_audit() -> CorpusAudit:
                 sameunit_affected=sameunit_affected,
             )
         )
+        german_documents.append(
+            GermanDocument(
+                doc_id=doc_id,
+                raw_text=de_raw,
+                adus=de_adus,
+                sameunit_affected=sameunit_affected,
+            )
+        )
         english_documents.append(
             EnglishDocument(
                 doc_id=doc_id,
@@ -351,8 +399,10 @@ def build_audit() -> CorpusAudit:
         )
 
     audit = CorpusAudit(
+        original_corpus_tree=original_corpus_tree(),
         source_commit=source_commit(),
         documents=tuple(records),
+        german_documents=tuple(german_documents),
         english_documents=tuple(english_documents),
     )
     expected_totals = {

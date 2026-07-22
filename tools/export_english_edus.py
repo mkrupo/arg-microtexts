@@ -14,6 +14,7 @@ if __package__ in {None, ""}:
     sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from tools.corpus_data import (
+    BOUNDARY_FIELDS,
     REPO_ROOT,
     AuditError,
     CorpusAudit,
@@ -26,23 +27,6 @@ from tools.corpus_data import (
 DEFAULT_EDU_DIR = REPO_ROOT / "derived" / "edu" / "en" / "multilayer_gold"
 DEFAULT_BOUNDARY_PATH = REPO_ROOT / "derived" / "boundaries" / "en_multilayer_gold.tsv"
 DEFAULT_MANIFEST_PATH = REPO_ROOT / "derived" / "edu" / "en" / "multilayer_gold.manifest.json"
-BOUNDARY_FIELDS = [
-    "doc_id",
-    "language",
-    "char_offset",
-    "token_index",
-    "adu_id",
-    "edu_id",
-    "boundary_class",
-    "source",
-    "status",
-    "confidence",
-    "model",
-    "run_id",
-    "sameunit_affected",
-]
-
-
 def edu_file_text(document) -> str:
     return "\n".join(span.text for span in document.edus) + "\n"
 

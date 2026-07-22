@@ -27,6 +27,18 @@ derived/edu/en/multilayer_gold/micro_b001.edus
 Every collection is accompanied by a manifest with source commits, extraction
 policy, counts, and SHA-256 hashes.
 
+## German ADU reference files
+
+Files under `derived/adu/de/original_gold/` contain one original German ADU per
+line and use the `.adus` suffix. They are not presented as fine German EDU
+gold. Their starts are locked boundaries that every later German EDU layer must
+preserve. The original `corpus/de/*.txt` files remain the canonical
+complete-document model inputs.
+
+`derived/alignments/adu_de_en.tsv` records the original German–English ADU
+correspondence using shared document and ADU IDs, character spans, and source
+texts.
+
 ## Boundary inventory
 
 Canonical TSV inventories use these columns:

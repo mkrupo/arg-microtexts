@@ -6,6 +6,8 @@ validation gate passes.
 
 ## M1: Repository and source foundation
 
+**Status: complete.**
+
 - Pin `arg-microtexts-multilayer` as a public submodule.
 - Establish the tracked/ignored artifact policy.
 - Document methodology, formats, experiments, and annotation plans.
@@ -15,6 +17,8 @@ validation gate passes.
 untracked dependencies.
 
 ## M2: Canonical English gold
+
+**Status: complete.**
 
 - Extract the English EDU segmentation from the main multilayer RST trees.
 - Cross-check the RST sequence against the refined argument layer to recover
@@ -26,6 +30,8 @@ untracked dependencies.
 all 576 original ADU starts remain boundaries.
 
 ## M3: Canonical German ADU reference
+
+**Status: in progress.**
 
 - Extract German raw-text character spans for all 576 ADUs.
 - Produce a shared token stream for model comparison.

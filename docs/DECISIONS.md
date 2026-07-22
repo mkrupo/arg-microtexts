@@ -28,3 +28,9 @@ adjudication are complete.
 The main multilayer segmentation is the primary English reference. The nine
 documents with alternative no-Same-Unit RST trees are flagged for sensitivity
 analysis rather than treated as a second complete corpus version.
+
+## 2026-07-22: No duplicate German model inputs
+
+The original `corpus/de/*.txt` files are the canonical complete-document
+inputs for EduSeg and SeCoRel. Derived artifacts add ADU views, boundaries, and
+alignments but do not duplicate or normalize the raw texts.
