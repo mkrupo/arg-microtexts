@@ -3,9 +3,13 @@ from __future__ import annotations
 import tempfile
 import unittest
 from pathlib import Path
+from types import SimpleNamespace
 
-from tools.corpus_data import AuditError, REPO_ROOT
+from tools.corpus_data import AuditError, REPO_ROOT, UnitSpan
 from tools.run_eduseg_de import (
+    CandidateScore,
+    DocumentPrediction,
+    boundary_rows,
     is_text_boundary,
     output_hashes,
     repository_path,
@@ -69,6 +73,37 @@ class EduSegRunnerTests(unittest.TestCase):
             )
             with self.assertRaises(AuditError):
                 repository_path(root / "external.toml")
+
+    def test_boundary_confidence_uses_strongest_piece_at_shared_offset(self) -> None:
+        text = "Er sagt, dass es stimmt."
+        document = SimpleNamespace(
+            doc_id="micro_test",
+            raw_text=text,
+            adus=(UnitSpan("e1", text, 0, len(text), "a1"),),
+            sameunit_affected=False,
+        )
+        prediction = DocumentPrediction(
+            doc_id=document.doc_id,
+            text=text,
+            scores=(
+                CandidateScore(4, 9, 10, "▁", 0.78, True),
+                CandidateScore(5, 9, 13, "dass", 0.23, False),
+            ),
+            predicted_starts=frozenset({0, 9}),
+            token_count=8,
+            invalid_boundary_offsets=(),
+        )
+        rows = boundary_rows(
+            audit=SimpleNamespace(german_documents=(document,)),
+            predictions=[prediction],
+            config={
+                "run_id": "test",
+                "model": {"name": "eduseg_de", "revision": "test"},
+            },
+            constrained=False,
+        )
+        internal = next(row for row in rows if row["boundary_class"] == "internal_edu")
+        self.assertEqual(internal["confidence"], "0.78000000")
 
 
 if __name__ == "__main__":

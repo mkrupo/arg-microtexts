@@ -37,8 +37,11 @@ Outputs include raw and ADU-constrained EDU-per-line files, parallel boundary
 inventories, raw softmax probabilities for every eligible text-start token,
 pre-gold diagnostics, and a manifest with hashes of every artifact. Softmax
 scores are uncalibrated model confidence, not empirical correctness
-probabilities. The run directory is ignored until the result has been checked
-and deliberately promoted as a released automatic layer.
+probabilities. When multiple SentencePiece tokens share a character start,
+boundary metadata uses the highest boundary probability at that position;
+the score table retains every model token and its index. The run directory is
+ignored until the result has been checked and deliberately promoted as a
+released automatic layer.
 
 ## Reproducibility record
 

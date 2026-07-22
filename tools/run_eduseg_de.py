@@ -27,6 +27,7 @@ DEFAULT_CONFIG = REPO_ROOT / "experiments" / "configs" / "eduseg_de_document_v1.
 DEFAULT_OUTPUT = REPO_ROOT / "work" / "runs" / "eduseg_de_document_v1"
 SCORE_FIELDS = [
     "doc_id",
+    "model_token_index",
     "char_offset",
     "char_end",
     "token_text",
@@ -38,6 +39,7 @@ SCORE_FIELDS = [
 
 @dataclass(frozen=True)
 class CandidateScore:
+    model_token_index: int
     start: int
     end: int
     token_text: str
@@ -231,8 +233,11 @@ def predict_documents(
             scores: list[CandidateScore] = []
             predicted_starts = {0}
             invalid: list[int] = []
-            for token_id, (start, end), label_id, probability in zip(
+            token_predictions = zip(
                 token_ids, token_offsets, token_labels, token_probabilities
+            )
+            for model_token_index, (token_id, (start, end), label_id, probability) in enumerate(
+                token_predictions
             ):
                 start = int(start)
                 end = int(end)
@@ -247,6 +252,7 @@ def predict_documents(
                     continue
                 scores.append(
                     CandidateScore(
+                        model_token_index=model_token_index,
                         start=start,
                         end=end,
                         token_text=tokenizer.convert_ids_to_tokens(int(token_id)),
@@ -290,7 +296,15 @@ def boundary_rows(
     for prediction in predictions:
         document = documents[prediction.doc_id]
         adu_starts = {adu.start for adu in document.adus}
-        score_by_start = {score.start: score for score in prediction.scores}
+        # SentencePiece can emit two model tokens with the same raw-text start
+        # (for example, a standalone whitespace marker plus a lexical piece).
+        # A textual boundary exists if either token predicts B, so retain the
+        # strongest B probability at each character start for boundary metadata.
+        score_by_start: dict[int, CandidateScore] = {}
+        for score in prediction.scores:
+            previous = score_by_start.get(score.start)
+            if previous is None or score.probability > previous.probability:
+                score_by_start[score.start] = score
         starts = set(prediction.predicted_starts)
         if constrained:
             starts |= adu_starts
@@ -339,6 +353,7 @@ def score_rows(audit, predictions: list[DocumentPrediction]) -> list[dict[str, o
             rows.append(
                 {
                     "doc_id": prediction.doc_id,
+                    "model_token_index": score.model_token_index,
                     "char_offset": score.start,
                     "char_end": score.end,
                     "token_text": score.token_text,
