@@ -43,6 +43,22 @@ the score table retains every model token and its index. The run directory is
 ignored until the result has been checked and deliberately promoted as a
 released automatic layer.
 
+After reviewing a completed run, publish the versioned automatic layer with:
+
+```bash
+python tools/publish_eduseg_run.py
+```
+
+This verifies all run hashes and text reconstructions before copying the raw
+and constrained EDU files into `derived/edu/de/automatic/`, the boundary and
+score inventories into their canonical `derived/` directories, and compact
+review tables plus provenance into `experiments/results/`. A recursive clone
+can validate the published layer without model weights or the ignored run:
+
+```bash
+python tools/publish_eduseg_run.py --check
+```
+
 ## Reproducibility record
 
 Every run manifest contains:

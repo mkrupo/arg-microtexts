@@ -56,6 +56,7 @@ The core audit and English export use only the Python standard library:
 python3 tools/audit_sources.py
 python3 tools/export_english_edus.py --check
 python3 tools/export_german_adus.py --check
+python3 tools/publish_eduseg_run.py --check
 python3 -m unittest discover -s tests
 ```
 
