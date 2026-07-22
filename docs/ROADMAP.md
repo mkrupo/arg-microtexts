@@ -31,16 +31,18 @@ all 576 original ADU starts remain boundaries.
 
 ## M3: Canonical German ADU reference
 
-**Status: in progress.**
+**Status: complete.**
 
 - Extract German raw-text character spans for all 576 ADUs.
-- Produce a shared token stream for model comparison.
+- Publish a canonical character-offset boundary inventory for model comparison.
 - Preserve document, ADU, and bilingual correspondence identifiers.
 
-**Gate:** all spans are exhaustive, ordered, non-overlapping, and aligned to
-token starts.
+**Gate:** all spans are exhaustive, ordered, non-overlapping, reconstruct the
+raw text, and align one-to-one across the German and English ADU layers.
 
 ## M4: `eduseg_de` experiments
+
+**Status: in progress.**
 
 - Run the released German-only model on complete documents.
 - Retain raw boundary probabilities and full provenance.

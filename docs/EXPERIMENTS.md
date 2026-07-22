@@ -14,6 +14,32 @@ then unioned with that raw set to create a separate constrained proposal.
 EduSeg is additionally run independently per ADU as a context-sensitivity
 ablation.
 
+## Primary EduSeg run
+
+The frozen complete-document configuration is
+`experiments/configs/eduseg_de_document_v1.toml`. The runner takes the model
+directory explicitly so weights and machine-local paths stay outside the
+repository:
+
+```bash
+python tools/run_eduseg_de.py \
+  --model-dir /path/to/eduseg_de/model \
+  --output-dir work/runs/eduseg_de_document_v1
+```
+
+The model directory must contain the exact six files hash-pinned in the
+configuration. The runner loads them offline, checks every document against
+the 512-subword limit without truncation, and maps model-token starts back to
+canonical raw-text character offsets. A predicted `B` label inside a subword
+is rejected as an invalid textual boundary and counted in the summary.
+
+Outputs include raw and ADU-constrained EDU-per-line files, parallel boundary
+inventories, raw softmax probabilities for every eligible text-start token,
+pre-gold diagnostics, and a manifest with hashes of every artifact. Softmax
+scores are uncalibrated model confidence, not empirical correctness
+probabilities. The run directory is ignored until the result has been checked
+and deliberately promoted as a released automatic layer.
+
 ## Reproducibility record
 
 Every run manifest contains:

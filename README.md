@@ -69,6 +69,22 @@ Model inference is deliberately separate from the source audit. It will use
 optional environments for `eduseg_de` and SeCoRel; model weights, caches, raw
 runs, and machine-local paths are not committed.
 
+The primary German complete-document EduSeg experiment is frozen in
+`experiments/configs/eduseg_de_document_v1.toml`. After installing PyTorch and
+Transformers in an external environment and obtaining the pinned model files,
+run it with:
+
+```bash
+python tools/run_eduseg_de.py --model-dir /path/to/eduseg_de/model
+```
+
+The runner verifies every required model file against its committed SHA-256,
+refuses truncation, and writes raw predictions, ADU-constrained proposals,
+character-level boundary scores, diagnostics, and a portable provenance
+manifest under the ignored `work/runs/` directory. See
+[`docs/EXPERIMENTS.md`](docs/EXPERIMENTS.md) before promoting outputs into a
+versioned derived layer.
+
 ## Repository policy
 
 - Original files under `corpus/` are preserved unless an upstream correction
