@@ -22,6 +22,9 @@ from tools.export_german_adus import (
     write_outputs as write_german_outputs,
 )
 from tools.publish_eduseg_run import check_published as check_published_eduseg
+from tools.publish_eduseg_adu_ablation import (
+    check_published as check_published_eduseg_adu_ablation,
+)
 
 
 class CorpusPipelineTests(unittest.TestCase):
@@ -130,6 +133,9 @@ class CorpusPipelineTests(unittest.TestCase):
 
     def test_published_eduseg_layer_is_current(self) -> None:
         check_published_eduseg()
+
+    def test_published_eduseg_adu_ablation_is_current(self) -> None:
+        check_published_eduseg_adu_ablation()
 
 
 if __name__ == "__main__":

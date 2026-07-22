@@ -109,6 +109,19 @@ python tools/publish_eduseg_adu_ablation.py
 python tools/publish_eduseg_adu_ablation.py --check
 ```
 
+The published ablation proposes 121 internal boundaries. It shares 111 with
+the 118 complete-document proposals, leaving seven document-context-only and
+ten ADU-context-only boundaries (F1 agreement 0.9289; Jaccard 0.8672). All 17
+disagreements are preserved with both condition scores and textual context in
+`experiments/results/eduseg_de_adu_context_v1/context_comparison.tsv`.
+
+The likely `micro_b001/a5` coordination oversegmentation persists in both
+conditions, although its boundary probability falls from 0.8091 with document
+context to 0.7252 in isolation. This suggests that resetting context does not
+solve that error type. Several disagreements lie close to the 0.5 decision
+threshold, but some shift more strongly; these are useful targeted cases for
+later linguistic error analysis.
+
 ## Reproducibility record
 
 Every run manifest contains:

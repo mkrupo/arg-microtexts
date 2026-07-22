@@ -63,6 +63,7 @@ python3 tools/audit_sources.py
 python3 tools/export_english_edus.py --check
 python3 tools/export_german_adus.py --check
 python3 tools/publish_eduseg_run.py --check
+python3 tools/publish_eduseg_adu_ablation.py --check
 python3 -m unittest discover -s tests
 ```
 
@@ -75,6 +76,8 @@ is under `derived/adu/de/original_gold/`; its bilingual ADU mapping is
 The German automatic layer is under
 `derived/edu/de/automatic/eduseg_de_document_v1/`. Its result manifest and
 review tables are under `experiments/results/eduseg_de_document_v1/`.
+The secondary per-ADU context ablation uses the parallel
+`eduseg_de_adu_context_v1` directories.
 
 Model inference is deliberately separate from the source audit. It will use
 optional environments for `eduseg_de` and SeCoRel; model weights, caches, raw

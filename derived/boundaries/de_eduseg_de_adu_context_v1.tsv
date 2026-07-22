@@ -1,0 +1,698 @@
+doc_id	language	char_offset	token_index	adu_id	edu_id	boundary_class	source	status	confidence	model	run_id	sameunit_affected
+micro_b001	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b001	de	69		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b001	de	119		a2	e3	internal_edu	eduseg_de	automatic	0.92958826	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b001	de	182		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b001	de	247		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b001	de	287		a4	e6	internal_edu	eduseg_de	automatic	0.98597914	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b001	de	366		a5	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b001	de	405		a5	e8	internal_edu	eduseg_de	automatic	0.72517782	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b002	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b002	de	77		a1	e2	internal_edu	eduseg_de	automatic	0.92033988	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b002	de	131		a2	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b002	de	162		a2	e4	internal_edu	eduseg_de	automatic	0.97143078	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b002	de	202		a2	e5	internal_edu	eduseg_de	automatic	0.99435931	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b002	de	284		a3	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b002	de	395		a4	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b002	de	469		a5	e8	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b002	de	519		a5	e9	internal_edu	eduseg_de	automatic	0.96407515	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b003	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b003	de	84		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b003	de	180		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b003	de	238		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b003	de	338		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b003	de	388		a5	e6	internal_edu	eduseg_de	automatic	0.97551483	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b003	de	447		a5	e7	internal_edu	eduseg_de	automatic	0.55573618	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b004	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b004	de	108		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b004	de	226		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b004	de	328		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b004	de	381		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b005	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b005	de	77		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b005	de	146		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b005	de	224		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b005	de	299		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b006	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b006	de	94		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b006	de	172		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b006	de	293		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b006	de	409		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b007	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b007	de	117		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b007	de	172		a2	e3	internal_edu	eduseg_de	automatic	0.62126732	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b007	de	220		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b007	de	304		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b007	de	410		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b008	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b008	de	33		a1	e2	internal_edu	eduseg_de	automatic	0.81673551	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b008	de	163		a1	e3	internal_edu	eduseg_de	automatic	0.89795011	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b008	de	192		a2	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b008	de	222		a3	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b008	de	287		a4	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b008	de	325		a5	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b009	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b009	de	148		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b009	de	233		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b009	de	350		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b010	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b010	de	89		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b010	de	178		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b010	de	287		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b010	de	324		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b011	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b011	de	110		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b011	de	154		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b011	de	182		a3	e4	internal_edu	eduseg_de	automatic	0.92888045	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b012	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b012	de	67		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b012	de	167		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b012	de	300		a3	e4	internal_edu	eduseg_de	automatic	0.56620091	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b012	de	344		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b012	de	440		a4	e6	internal_edu	eduseg_de	automatic	0.96911150	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b013	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b013	de	97		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b013	de	228		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b013	de	355		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b013	de	455		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b014	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b014	de	57		a1	e2	internal_edu	eduseg_de	automatic	0.62898749	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b014	de	103		a2	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b014	de	197		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b014	de	288		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b014	de	315		a4	e6	internal_edu	eduseg_de	automatic	0.99869066	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b014	de	405		a5	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b015	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b015	de	98		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b015	de	163		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b015	de	213		a3	e4	internal_edu	eduseg_de	automatic	0.96719980	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b015	de	252		a3	e5	internal_edu	eduseg_de	automatic	0.89220876	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b015	de	279		a4	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b015	de	338		a5	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b015	de	368		a5	e8	internal_edu	eduseg_de	automatic	0.98609412	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b015	de	405		a5	e9	internal_edu	eduseg_de	automatic	0.98617607	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b016	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b016	de	101		a1	e2	internal_edu	eduseg_de	automatic	0.96805465	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b016	de	131		a2	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b016	de	183		a2	e4	internal_edu	eduseg_de	automatic	0.73993629	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b016	de	215		a2	e5	internal_edu	eduseg_de	automatic	0.92473298	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b016	de	285		a3	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b016	de	399		a4	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b016	de	504		a5	e8	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b017	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b017	de	87		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b017	de	138		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b017	de	225		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b017	de	296		a4	e5	internal_edu	eduseg_de	automatic	0.88145554	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b017	de	368		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b018	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b018	de	59		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b018	de	150		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b018	de	241		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b018	de	296		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b019	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b019	de	76		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b019	de	94		a2	e3	internal_edu	eduseg_de	automatic	0.63655853	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b019	de	109		a2	e4	internal_edu	eduseg_de	automatic	0.87769216	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b019	de	166		a3	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b019	de	259		a4	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b019	de	335		a5	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b019	de	415		a6	e8	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b020	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b020	de	59		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b020	de	148		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b020	de	219		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b020	de	292		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b020	de	372		a6	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b021	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b021	de	62		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b021	de	147		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b021	de	209		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b022	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b022	de	64		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b022	de	107		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b022	de	175		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b022	de	253		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b023	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b023	de	114		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b023	de	164		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b023	de	224		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b023	de	238		a4	e5	internal_edu	eduseg_de	automatic	0.50795025	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b023	de	363		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b024	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b024	de	113		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b024	de	150		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b024	de	245		a3	e4	internal_edu	eduseg_de	automatic	0.96267736	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b024	de	286		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b024	de	345		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b025	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b025	de	51		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b025	de	89		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b025	de	191		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b025	de	248		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b025	de	297		a6	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b026	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b026	de	96		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b026	de	192		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b026	de	280		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b026	de	386		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b026	de	459		a6	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b027	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b027	de	52		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b027	de	135		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b027	de	261		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b027	de	400		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b028	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b028	de	82		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b028	de	164		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b028	de	245		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b028	de	328		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b029	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b029	de	93		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b029	de	193		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b029	de	330		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b029	de	382		a4	e5	internal_edu	eduseg_de	automatic	0.95323032	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b029	de	421		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b029	de	480		a5	e7	internal_edu	eduseg_de	automatic	0.73585993	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b030	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b030	de	66		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b030	de	194		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b030	de	273		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b031	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b031	de	66		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b031	de	165		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b031	de	227		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b031	de	296		a4	e5	internal_edu	eduseg_de	automatic	0.80656451	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b032	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b032	de	64		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b032	de	117		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b032	de	202		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b032	de	245		a4	e5	internal_edu	eduseg_de	automatic	0.92802489	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b033	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b033	de	92		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b033	de	145		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b034	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b034	de	72		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b034	de	138		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b034	de	227		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b034	de	257		a4	e5	internal_edu	eduseg_de	automatic	0.98329723	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b034	de	293		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b035	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b035	de	96		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b035	de	158		a2	e3	internal_edu	eduseg_de	automatic	0.86479443	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b035	de	186		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b035	de	257		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b035	de	363		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b035	de	468		a5	e7	internal_edu	eduseg_de	automatic	0.50916690	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b036	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b036	de	82		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b036	de	212		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b036	de	303		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b036	de	380		a4	e5	internal_edu	eduseg_de	automatic	0.87025130	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b036	de	405		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b036	de	490		a6	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b037	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b037	de	70		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b037	de	149		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b037	de	289		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b037	de	354		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b038	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b038	de	68		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b038	de	201		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b038	de	294		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b038	de	414		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b038	de	494		a6	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b038	de	573		a6	e7	internal_edu	eduseg_de	automatic	0.68731791	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b039	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b039	de	75		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b039	de	192		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b039	de	262		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b039	de	403		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b039	de	506		a6	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b040	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b040	de	84		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b040	de	175		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b040	de	269		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b040	de	405		a4	e5	internal_edu	eduseg_de	automatic	0.88926721	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b040	de	427		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b040	de	540		a6	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b040	de	576		a6	e8	internal_edu	eduseg_de	automatic	0.98059660	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b041	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b041	de	50		a1	e2	internal_edu	eduseg_de	automatic	0.99562573	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b041	de	98		a2	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b041	de	218		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b041	de	288		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b041	de	340		a4	e6	internal_edu	eduseg_de	automatic	0.95636922	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b041	de	369		a5	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b041	de	449		a6	e8	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b042	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b042	de	119		a1	e2	internal_edu	eduseg_de	automatic	0.99103397	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b042	de	157		a2	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b042	de	237		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b042	de	344		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b042	de	404		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b042	de	548		a5	e7	internal_edu	eduseg_de	automatic	0.70364100	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b042	de	602		a6	e8	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b042	de	685		a6	e9	internal_edu	eduseg_de	automatic	0.95247984	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b044	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b044	de	84		a1	e2	internal_edu	eduseg_de	automatic	0.93892676	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b044	de	120		a2	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b044	de	150		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b044	de	216		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b044	de	255		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b045	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b045	de	118		a1	e2	internal_edu	eduseg_de	automatic	0.98948330	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	true
+micro_b045	de	156		a2	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b045	de	208		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b045	de	306		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b045	de	387		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b046	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b046	de	58		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b046	de	114		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b046	de	190		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b046	de	293		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b047	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b047	de	57		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b047	de	171		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b047	de	242		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b047	de	321		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b048	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b048	de	49		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b048	de	92		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b048	de	168		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b048	de	259		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b049	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b049	de	98		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b049	de	151		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b049	de	186		a3	e4	internal_edu	eduseg_de	automatic	0.98395419	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b049	de	256		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b049	de	371		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b050	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b050	de	75		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b050	de	150		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b050	de	214		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b050	de	271		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b051	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b051	de	92		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b051	de	183		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b051	de	267		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b051	de	381		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b051	de	465		a6	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b052	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b052	de	70		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b052	de	142		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b052	de	215		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b052	de	330		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b053	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b053	de	127		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b053	de	234		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b053	de	309		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b053	de	395		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b053	de	477		a6	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b054	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b054	de	47		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b054	de	116		a2	e3	internal_edu	eduseg_de	automatic	0.84182900	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	true
+micro_b054	de	183		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b054	de	228		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b054	de	313		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b054	de	477		a6	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b054	de	560		a6	e8	internal_edu	eduseg_de	automatic	0.99559104	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	true
+micro_b055	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b055	de	29		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b055	de	123		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b055	de	156		a3	e4	internal_edu	eduseg_de	automatic	0.72793454	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b055	de	195		a3	e5	internal_edu	eduseg_de	automatic	0.95368755	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b055	de	257		a4	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b055	de	366		a4	e7	internal_edu	eduseg_de	automatic	0.98391682	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b055	de	416		a5	e8	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b055	de	501		a5	e9	internal_edu	eduseg_de	automatic	0.93083370	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b055	de	541		a6	e10	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b055	de	643		a6	e11	internal_edu	eduseg_de	automatic	0.91661668	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b056	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b056	de	60		a1	e2	internal_edu	eduseg_de	automatic	0.67076522	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b056	de	96		a2	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b056	de	157		a2	e4	internal_edu	eduseg_de	automatic	0.97666055	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b056	de	188		a2	e5	internal_edu	eduseg_de	automatic	0.95637673	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b056	de	216		a2	e6	internal_edu	eduseg_de	automatic	0.77538866	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b056	de	248		a3	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b056	de	367		a4	e8	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b056	de	481		a5	e9	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b056	de	559		a6	e10	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b057	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b057	de	100		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b057	de	168		a2	e3	internal_edu	eduseg_de	automatic	0.97349542	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	true
+micro_b057	de	224		a2	e4	internal_edu	eduseg_de	automatic	0.96920705	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	true
+micro_b057	de	280		a3	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b057	de	344		a3	e6	internal_edu	eduseg_de	automatic	0.99510682	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	true
+micro_b057	de	482		a4	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b057	de	527		a4	e8	internal_edu	eduseg_de	automatic	0.74482316	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	true
+micro_b058	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b058	de	137		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b058	de	205		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b058	de	289		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b058	de	336		a4	e5	internal_edu	eduseg_de	automatic	0.90719813	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	true
+micro_b058	de	398		a4	e6	internal_edu	eduseg_de	automatic	0.93072402	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	true
+micro_b058	de	489		a5	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b058	de	554		a6	e8	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b058	de	596		a6	e9	internal_edu	eduseg_de	automatic	0.93463814	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	true
+micro_b058	de	631		a7	e10	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_b058	de	726		a7	e11	internal_edu	eduseg_de	automatic	0.99465925	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	true
+micro_b059	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b059	de	118		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b059	de	235		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b059	de	341		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b059	de	457		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b060	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b060	de	121		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b060	de	206		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b060	de	283		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b060	de	347		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b061	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b061	de	49		a1	e2	internal_edu	eduseg_de	automatic	0.99064082	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b061	de	90		a1	e3	internal_edu	eduseg_de	automatic	0.82159901	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b061	de	112		a2	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b061	de	174		a3	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b062	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b062	de	80		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b062	de	171		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b062	de	243		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b062	de	353		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b062	de	391		a5	e6	internal_edu	eduseg_de	automatic	0.99226135	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_b062	de	444		a6	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b064	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b064	de	125		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b064	de	193		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b064	de	307		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b064	de	412		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_b064	de	522		a6	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d01	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d01	de	40		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d01	de	111		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d01	de	154		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d01	de	210		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d02	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d02	de	70		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d02	de	152		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d02	de	173		a3	e4	internal_edu	eduseg_de	automatic	0.99911100	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_d02	de	245		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d02	de	319		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d03	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d03	de	70		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d03	de	103		a2	e3	internal_edu	eduseg_de	automatic	0.84105134	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_d03	de	129		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d03	de	176		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d03	de	232		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d04	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d04	de	88		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d04	de	167		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d04	de	239		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d04	de	302		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d04	de	354		a5	e6	internal_edu	eduseg_de	automatic	0.98927617	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_d05	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d05	de	45		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d05	de	89		a2	e3	internal_edu	eduseg_de	automatic	0.53511298	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_d05	de	135		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d05	de	231		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d05	de	260		a4	e6	internal_edu	eduseg_de	automatic	0.62999749	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_d05	de	313		a5	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d06	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d06	de	61		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d06	de	97		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d06	de	136		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d06	de	196		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d07	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_d07	de	54		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_d07	de	116		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_d07	de	171		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_d07	de	221		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_d08	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d08	de	73		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d08	de	133		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d08	de	164		a3	e4	internal_edu	eduseg_de	automatic	0.98382461	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_d08	de	192		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d08	de	270		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d09	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d09	de	31		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d09	de	75		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d09	de	98		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d09	de	121		a4	e5	internal_edu	eduseg_de	automatic	0.77691549	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_d09	de	158		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d10	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d10	de	65		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d10	de	108		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d10	de	151		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d10	de	221		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d11	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d11	de	48		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d11	de	104		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d11	de	145		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d11	de	209		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d12	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d12	de	58		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d12	de	99		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d12	de	144		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d12	de	206		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d13	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d13	de	57		a1	e2	internal_edu	eduseg_de	automatic	0.99721473	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_d13	de	115		a2	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d13	de	155		a2	e4	internal_edu	eduseg_de	automatic	0.94977099	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_d13	de	188		a3	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d13	de	247		a4	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d13	de	315		a5	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d14	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_d14	de	67		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_d14	de	146		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_d14	de	220		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_d14	de	285		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_d14	de	347		a5	e6	internal_edu	eduseg_de	automatic	0.87113529	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	true
+micro_d15	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d15	de	103		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d15	de	177		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d15	de	252		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d15	de	335		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d16	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d16	de	24		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d16	de	145		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d16	de	261		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d16	de	298		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d17	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d17	de	40		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d17	de	109		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d17	de	176		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d17	de	276		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d18	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d18	de	62		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d18	de	135		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d18	de	210		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d18	de	279		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d19	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d19	de	48		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d19	de	160		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d19	de	225		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d19	de	349		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d20	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d20	de	93		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d20	de	144		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d20	de	208		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d20	de	279		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d21	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d21	de	64		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d21	de	146		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d21	de	194		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d21	de	232		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d22	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d22	de	107		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d22	de	202		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d22	de	332		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d22	de	428		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d23	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d23	de	68		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d23	de	116		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d23	de	179		a3	e4	internal_edu	eduseg_de	automatic	0.73433459	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_d23	de	220		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_d23	de	292		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k001	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k001	de	71		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k001	de	185		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k001	de	225		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k001	de	300		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k001	de	373		a6	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k001	de	458		a6	e7	internal_edu	eduseg_de	automatic	0.99889970	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k002	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k002	de	34		a1	e2	internal_edu	eduseg_de	automatic	0.88758737	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k002	de	107		a2	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k002	de	197		a2	e4	internal_edu	eduseg_de	automatic	0.92551285	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k002	de	267		a3	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k002	de	288		a3	e6	internal_edu	eduseg_de	automatic	0.57615584	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k002	de	341		a4	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k002	de	399		a4	e8	internal_edu	eduseg_de	automatic	0.69360715	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k002	de	439		a5	e9	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k003	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k003	de	98		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k003	de	256		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k003	de	341		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k003	de	510		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k004	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k004	de	99		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k004	de	150		a2	e3	internal_edu	eduseg_de	automatic	0.53595155	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k004	de	198		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k004	de	334		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k004	de	452		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k004	de	566		a5	e7	internal_edu	eduseg_de	automatic	0.94562209	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k006	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k006	de	50		a1	e2	internal_edu	eduseg_de	automatic	0.95582205	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k006	de	114		a1	e3	internal_edu	eduseg_de	automatic	0.83600420	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k006	de	130		a1	e4	internal_edu	eduseg_de	automatic	0.91877425	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k006	de	159		a2	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k006	de	297		a3	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k006	de	343		a4	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k006	de	387		a5	e8	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k007	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k007	de	105		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k007	de	171		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k007	de	237		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k007	de	288		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k008	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k008	de	83		a1	e2	internal_edu	eduseg_de	automatic	0.98451418	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k008	de	130		a2	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k008	de	198		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k008	de	300		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k009	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k009	de	62		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k009	de	88		a2	e3	internal_edu	eduseg_de	automatic	0.98503864	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k009	de	174		a2	e4	internal_edu	eduseg_de	automatic	0.64370346	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k009	de	211		a3	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k009	de	249		a3	e6	internal_edu	eduseg_de	automatic	0.87740558	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k009	de	307		a4	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k009	de	422		a4	e8	internal_edu	eduseg_de	automatic	0.59413081	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k009	de	474		a5	e9	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k009	de	533		a6	e10	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k009	de	537		a6	e11	internal_edu	eduseg_de	automatic	0.87643349	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k009	de	614		a6	e12	internal_edu	eduseg_de	automatic	0.50215846	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k010	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k010	de	146		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k010	de	223		a2	e3	internal_edu	eduseg_de	automatic	0.95406175	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k010	de	261		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k010	de	307		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k010	de	425		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k010	de	511		a5	e7	internal_edu	eduseg_de	automatic	0.96646088	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k010	de	557		a6	e8	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k011	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k011	de	75		a1	e2	internal_edu	eduseg_de	automatic	0.99606496	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k011	de	125		a2	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k011	de	150		a2	e4	internal_edu	eduseg_de	automatic	0.71775436	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k011	de	201		a3	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k011	de	300		a4	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k011	de	340		a4	e7	internal_edu	eduseg_de	automatic	0.99261671	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k011	de	388		a4	e8	internal_edu	eduseg_de	automatic	0.99625862	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k011	de	425		a5	e9	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k011	de	457		a6	e10	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k011	de	514		a7	e11	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k011	de	560		a8	e12	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k011	de	622		a9	e13	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k011	de	725		a10	e14	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k012	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k012	de	74		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k012	de	270		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k012	de	346		a3	e4	internal_edu	eduseg_de	automatic	0.97557837	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k012	de	403		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k012	de	428		a4	e6	internal_edu	eduseg_de	automatic	0.72665405	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k012	de	521		a5	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k012	de	579		a5	e8	internal_edu	eduseg_de	automatic	0.99019367	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k013	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k013	de	122		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k013	de	173		a2	e3	internal_edu	eduseg_de	automatic	0.96266145	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k013	de	205		a2	e4	internal_edu	eduseg_de	automatic	0.95949966	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k013	de	239		a2	e5	internal_edu	eduseg_de	automatic	0.80626667	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k013	de	282		a3	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k013	de	299		a3	e7	internal_edu	eduseg_de	automatic	0.63254178	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k013	de	356		a4	e8	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k013	de	451		a4	e9	internal_edu	eduseg_de	automatic	0.98845810	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k013	de	497		a4	e10	internal_edu	eduseg_de	automatic	0.78998721	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k013	de	515		a5	e11	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k014	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_k014	de	65		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_k014	de	116		a2	e3	internal_edu	eduseg_de	automatic	0.86252105	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	true
+micro_k014	de	229		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_k014	de	372		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_k014	de	519		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_k015	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k015	de	55		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k015	de	154		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k015	de	246		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k016	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k016	de	83		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k016	de	156		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k016	de	206		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k016	de	314		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k017	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k017	de	82		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k017	de	152		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k017	de	210		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k017	de	278		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k018	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k018	de	65		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k018	de	133		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k018	de	215		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k018	de	310		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k018	de	391		a6	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k019	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k019	de	85		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k019	de	167		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k019	de	257		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k019	de	378		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k019	de	511		a6	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k020	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k020	de	82		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k020	de	138		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k020	de	187		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k020	de	235		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k021	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k021	de	74		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k021	de	148		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k021	de	276		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k021	de	323		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k022	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k022	de	61		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k022	de	110		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k022	de	171		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k022	de	241		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k022	de	287		a5	e6	internal_edu	eduseg_de	automatic	0.62125903	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k022	de	398		a6	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k023	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k023	de	54		a1	e2	internal_edu	eduseg_de	automatic	0.97614586	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k023	de	105		a2	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k023	de	160		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k023	de	207		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k023	de	301		a5	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k024	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_k024	de	93		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_k024	de	162		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_k024	de	268		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_k024	de	383		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_k024	de	464		a6	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_k024	de	494		a7	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	true
+micro_k025	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k025	de	33		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k025	de	107		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k025	de	173		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k025	de	271		a4	e5	internal_edu	eduseg_de	automatic	0.62738901	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k025	de	298		a4	e6	internal_edu	eduseg_de	automatic	0.51343638	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k025	de	333		a5	e7	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k027	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k027	de	125		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k027	de	203		a2	e3	internal_edu	eduseg_de	automatic	0.96112382	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k027	de	262		a3	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k027	de	425		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k029	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k029	de	99		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k029	de	220		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k029	de	295		a3	e4	internal_edu	eduseg_de	automatic	0.90547293	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false
+micro_k029	de	332		a4	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k031	de	0		a1	e1	document_start	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k031	de	49		a2	e2	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k031	de	108		a3	e3	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k031	de	197		a4	e4	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k031	de	280		a5	e5	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k031	de	334		a6	e6	adu	structural_constraint	forced			eduseg_de_adu_context_v1	false
+micro_k031	de	395		a6	e7	internal_edu	eduseg_de	automatic	0.53612202	eduseg_de@eduseg_de-v1.0	eduseg_de_adu_context_v1	false

@@ -42,10 +42,10 @@ raw text, and align one-to-one across the German and English ADU layers.
 
 ## M4: `eduseg_de` experiments
 
-**Status: in progress.**
+**Status: complete.**
 
-The primary complete-document condition and its verified published proposal
-layer are complete. The per-ADU context ablation remains to be run.
+The primary complete-document condition and the per-ADU context ablation have
+verified published proposal layers and an exact character-offset comparison.
 
 - Run the released German-only model on complete documents.
 - Retain raw boundary probabilities and full provenance.

@@ -1,0 +1,14 @@
+{
+  "adu_context_internal_proposals": 121,
+  "adu_context_only": 10,
+  "document_context_internal_proposals": 118,
+  "document_context_only": 7,
+  "documents": 112,
+  "inference_adus": 576,
+  "internal_boundary_f1_agreement": 0.9288702928870293,
+  "internal_boundary_jaccard": 0.8671875,
+  "interpretation": "Agreement between inference contexts, not accuracy against German EDU gold.",
+  "invalid_subword_boundary_predictions": 0,
+  "max_adu_model_tokens": 52,
+  "shared_internal_proposals": 111
+}
