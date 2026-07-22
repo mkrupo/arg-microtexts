@@ -102,6 +102,13 @@ strictly within-ADU predictions are compared with the complete-document run.
 The comparison reports exact character-offset overlap, context-only
 boundaries, and agreement without interpreting either condition as gold.
 
+After checking the ignored run, publish or validate the ablation with:
+
+```bash
+python tools/publish_eduseg_adu_ablation.py
+python tools/publish_eduseg_adu_ablation.py --check
+```
+
 ## Reproducibility record
 
 Every run manifest contains:
