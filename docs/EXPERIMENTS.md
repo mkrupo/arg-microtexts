@@ -26,6 +26,13 @@ stored character spans, checks that every gold ADU and EduSeg comparison start
 is a token start, refuses model truncation, and emits raw and ADU-constrained
 segmentations plus token probabilities and an exact-offset system comparison.
 
+After reviewing the ignored run, publish or validate the versioned layer with:
+
+```bash
+python tools/publish_secorel_run.py
+python tools/publish_secorel_run.py --check
+```
+
 ## Required conditions
 
 Each model produces a raw complete-document prediction. Gold ADU starts are
