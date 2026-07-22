@@ -124,9 +124,19 @@ class EduSegRunnerTests(unittest.TestCase):
         self.assertEqual(merged[0].score_rows[0]["char_offset"], 25)
 
     def test_secorel_tokenization_preserves_offsets_and_sentence_chunks(self) -> None:
-        text = "Das gilt z.B. heute. Wirklich!"
+        text = "Das gilt z.B. heute usw. weiter. Wirklich!"
         tokens = tokenize_with_spans(text)
-        expected = ["Das", "gilt", "z.B.", "heute", ".", "Wirklich", "!"]
+        expected = [
+            "Das",
+            "gilt",
+            "z.B.",
+            "heute",
+            "usw.",
+            "weiter",
+            ".",
+            "Wirklich",
+            "!",
+        ]
         self.assertEqual([token.text for token in tokens], expected)
         self.assertEqual(
             [text[token.start : token.end] for token in tokens],
@@ -134,7 +144,7 @@ class EduSegRunnerTests(unittest.TestCase):
         )
         self.assertEqual(
             [[token.text for token in chunk] for chunk in upstream_chunks(tokens, 280)],
-            [["Das", "gilt", "z.B.", "heute", "."], ["Wirklich", "!"]],
+            [expected[:7], expected[7:]],
         )
 
 

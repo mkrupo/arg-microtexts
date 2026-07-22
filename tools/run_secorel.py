@@ -42,7 +42,7 @@ TOKEN_RE = re.compile(
     r"\.\w+|"
     r"[A-Za-zÄÖÜäöüß]\.s|"
     r"(?:[A-Za-zÄÖÜäöüß]\.)+|"
-    r"(?:bzw|etc|vgl|ca|Nr|Dr|Prof|bspw|evtl|ggf)\.|"
+    r"(?:bzw|etc|usw|vgl|ca|Nr|Dr|Prof|bspw|evtl|ggf)\.|"
     r"\d+\.|"
     r"[’']s|"
     r"\w+-(?!\w)|"
@@ -389,12 +389,25 @@ def make_summary(audit, predictions, comparisons) -> dict[str, object]:
     known = 0
     recovered = 0
     internal = 0
+    missing: list[dict[str, object]] = []
     for document, prediction in zip(audit.german_documents, predictions):
         gold = {adu.start for adu in document.adus if adu.start != 0}
         predicted = set(prediction.predicted_starts) - {0}
         known += len(gold)
         recovered += len(gold & predicted)
         internal += len(predicted - gold)
+        score_by_start = {score.token.start: score.probability for score in prediction.scores}
+        for start in sorted(gold - predicted):
+            adu = adu_for_offset(document, start)
+            missing.append(
+                {
+                    "doc_id": document.doc_id,
+                    "adu_id": adu.adu_id,
+                    "char_offset": start,
+                    "boundary_probability": score_by_start[start],
+                    "text": adu.text,
+                }
+            )
     shared = sum(
         row["eduseg_de_predicted"] == "true" and row["secorel_predicted"] == "true"
         for row in comparisons
@@ -412,6 +425,7 @@ def make_summary(audit, predictions, comparisons) -> dict[str, object]:
         "gold_noninitial_adu_starts": known,
         "recovered_noninitial_adu_starts": recovered,
         "adu_boundary_recall": recovered / known,
+        "missing_adu_boundaries": missing,
         "secorel_internal_proposals": internal,
         "eduseg_de_internal_proposals": shared + eduseg_only,
         "shared_internal_proposals": shared,
