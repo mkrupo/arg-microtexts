@@ -18,6 +18,7 @@ from tools.run_eduseg_de import (
     verify_model,
 )
 from tools.run_eduseg_de_adu_ablation import ADUInput, merge_predictions
+from tools.run_secorel import tokenize_with_spans, upstream_chunks
 
 
 class EduSegRunnerTests(unittest.TestCase):
@@ -121,6 +122,20 @@ class EduSegRunnerTests(unittest.TestCase):
         merged = merge_predictions(audit, [item], [prediction])
         self.assertEqual(merged[0].internal_starts, frozenset({25}))
         self.assertEqual(merged[0].score_rows[0]["char_offset"], 25)
+
+    def test_secorel_tokenization_preserves_offsets_and_sentence_chunks(self) -> None:
+        text = "Das gilt z.B. heute. Wirklich!"
+        tokens = tokenize_with_spans(text)
+        expected = ["Das", "gilt", "z.B.", "heute", ".", "Wirklich", "!"]
+        self.assertEqual([token.text for token in tokens], expected)
+        self.assertEqual(
+            [text[token.start : token.end] for token in tokens],
+            [token.text for token in tokens],
+        )
+        self.assertEqual(
+            [[token.text for token in chunk] for chunk in upstream_chunks(tokens, 280)],
+            [["Das", "gilt", "z.B.", "heute", "."], ["Wirklich", "!"]],
+        )
 
 
 if __name__ == "__main__":

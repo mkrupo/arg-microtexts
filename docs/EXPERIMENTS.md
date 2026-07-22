@@ -7,6 +7,25 @@ multilingual SeCoRel segmenter is a secondary comparison. The bilingual
 EduSeg model may be added later as a documented ablation; it is not silently
 substituted for the primary model.
 
+SeCoRel uses its required pre-tokenized interface. This project freezes a
+dependency-free DISRPT-like regex token stream with raw-text character spans
+and reproduces the upstream sentence-terminal/280-word chunking policy. This
+condition is named `secorel_disrpt_sentence_chunks_v1`; the chunking difference
+from EduSeg's complete-document input is part of the model interface and is
+reported rather than hidden.
+
+Run the frozen SeCoRel condition with the external submission-model directory:
+
+```bash
+python tools/run_secorel.py \
+  --model-dir /path/to/segIdent-aukbc-model
+```
+
+The runner verifies all six model files, tokenizes all 112 documents with
+stored character spans, checks that every gold ADU and EduSeg comparison start
+is a token start, refuses model truncation, and emits raw and ADU-constrained
+segmentations plus token probabilities and an exact-offset system comparison.
+
 ## Required conditions
 
 Each model produces a raw complete-document prediction. Gold ADU starts are
