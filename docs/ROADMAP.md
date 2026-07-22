@@ -57,6 +57,8 @@ the run can be reproduced from a committed configuration and model revision.
 
 ## M5: SeCoRel comparison
 
+**Status: complete.**
+
 - Run SeCoRel on the same canonical token stream.
 - Preserve raw and ADU-constrained outputs.
 - Compare ADU recall, added boundaries, model agreement, and context effects.

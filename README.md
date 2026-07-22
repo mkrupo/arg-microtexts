@@ -64,6 +64,7 @@ python3 tools/export_english_edus.py --check
 python3 tools/export_german_adus.py --check
 python3 tools/publish_eduseg_run.py --check
 python3 tools/publish_eduseg_adu_ablation.py --check
+python3 tools/publish_secorel_run.py --check
 python3 -m unittest discover -s tests
 ```
 
@@ -78,6 +79,8 @@ The German automatic layer is under
 review tables are under `experiments/results/eduseg_de_document_v1/`.
 The secondary per-ADU context ablation uses the parallel
 `eduseg_de_adu_context_v1` directories.
+The SeCoRel comparison uses `secorel_disrpt_sentence_chunks_v1` and preserves
+its separate tokenization/chunking provenance.
 
 Model inference is deliberately separate from the source audit. It will use
 optional environments for `eduseg_de` and SeCoRel; model weights, caches, raw

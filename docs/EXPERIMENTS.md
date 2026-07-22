@@ -33,6 +33,33 @@ python tools/publish_secorel_run.py
 python tools/publish_secorel_run.py --check
 ```
 
+## SeCoRel result
+
+The published SeCoRel run processed all 112 documents without truncation
+(maximum 73 of 512 model tokens per upstream-style chunk) or invalid textual
+boundaries. It produced 706 raw EDUs and 709 ADU-constrained EDUs, recovering
+461/464 non-initial ADU starts (99.35%) and proposing 133 internal boundaries.
+
+The aggregate ADU recall matches EduSeg, but the errors are not identical.
+Both miss `micro_d09/a3`; SeCoRel additionally misses `micro_b013/a5` and
+`micro_k016/a2`, while EduSeg instead misses `micro_b036/a4` and
+`micro_d07/a4`. Thus the two systems provide complementary evidence despite
+their equal aggregate diagnostic.
+
+At internal positions, 105 boundaries are shared, 13 are EduSeg-only, and 28
+are SeCoRel-only (F1 agreement 0.8367; Jaccard 0.7192). These figures measure
+system agreement, not accuracy. The full 146-position union is stored in
+`experiments/results/secorel_disrpt_sentence_chunks_v1/model_comparison.tsv`
+with both raw probabilities and textual context.
+
+Both systems strongly propose the likely coordination oversegmentation in
+`micro_b001/a5`: EduSeg assigns 0.8091 and SeCoRel 0.9628. Agreement is
+therefore useful for prioritizing review but cannot be treated as gold. During
+the dry run, the tokenization audit also caught `usw.` being split before a
+lowercase continuation, which would have caused an artificial sentence reset;
+the frozen tokenizer now treats it as an abbreviation, and the affected output
+was rerun before publication.
+
 ## Required conditions
 
 Each model produces a raw complete-document prediction. Gold ADU starts are

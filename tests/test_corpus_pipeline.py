@@ -25,6 +25,7 @@ from tools.publish_eduseg_run import check_published as check_published_eduseg
 from tools.publish_eduseg_adu_ablation import (
     check_published as check_published_eduseg_adu_ablation,
 )
+from tools.publish_secorel_run import check_published as check_published_secorel
 
 
 class CorpusPipelineTests(unittest.TestCase):
@@ -136,6 +137,9 @@ class CorpusPipelineTests(unittest.TestCase):
 
     def test_published_eduseg_adu_ablation_is_current(self) -> None:
         check_published_eduseg_adu_ablation()
+
+    def test_published_secorel_layer_is_current(self) -> None:
+        check_published_secorel()
 
 
 if __name__ == "__main__":

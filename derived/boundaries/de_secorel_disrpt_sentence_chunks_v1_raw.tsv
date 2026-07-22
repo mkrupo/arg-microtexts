@@ -1,0 +1,707 @@
+doc_id	language	char_offset	token_index	adu_id	edu_id	boundary_class	source	status	confidence	model	run_id	sameunit_affected
+micro_b001	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b001	de	69	13	a2	e2	adu	SeCoRel	automatic	0.99962962	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b001	de	119	20	a2	e3	internal_edu	SeCoRel	automatic	0.99290961	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b001	de	182	29	a3	e4	adu	SeCoRel	automatic	0.99896932	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b001	de	247	40	a4	e5	adu	SeCoRel	automatic	0.99513215	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b001	de	287	47	a4	e6	internal_edu	SeCoRel	automatic	0.98877269	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b001	de	366	59	a5	e7	adu	SeCoRel	automatic	0.99863178	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b001	de	405	65	a5	e8	internal_edu	SeCoRel	automatic	0.96277404	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b002	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b002	de	77	12	a1	e2	internal_edu	SeCoRel	automatic	0.96631014	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b002	de	131	20	a2	e3	adu	SeCoRel	automatic	0.99957663	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b002	de	162	27	a2	e4	internal_edu	SeCoRel	automatic	0.98026776	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b002	de	202	36	a2	e5	internal_edu	SeCoRel	automatic	0.99348289	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b002	de	284	48	a3	e6	adu	SeCoRel	automatic	0.99919170	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b002	de	395	64	a4	e7	adu	SeCoRel	automatic	0.99894017	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b002	de	469	76	a5	e8	adu	SeCoRel	automatic	0.99851316	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b002	de	519	85	a5	e9	internal_edu	SeCoRel	automatic	0.98992634	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b003	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b003	de	84	11	a2	e2	adu	SeCoRel	automatic	0.99643207	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b003	de	180	25	a3	e3	adu	SeCoRel	automatic	0.99889249	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b003	de	238	35	a4	e4	adu	SeCoRel	automatic	0.99893075	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b003	de	338	49	a5	e5	adu	SeCoRel	automatic	0.99871349	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b003	de	388	60	a5	e6	internal_edu	SeCoRel	automatic	0.99458802	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b003	de	447	69	a5	e7	internal_edu	SeCoRel	automatic	0.82007885	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b004	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b004	de	108	16	a2	e2	adu	SeCoRel	automatic	0.99755448	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b004	de	226	34	a3	e3	adu	SeCoRel	automatic	0.99901700	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b004	de	328	47	a4	e4	adu	SeCoRel	automatic	0.99819905	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b004	de	381	55	a5	e5	adu	SeCoRel	automatic	0.99873716	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b005	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b005	de	77	10	a2	e2	adu	SeCoRel	automatic	0.99534601	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b005	de	146	22	a3	e3	adu	SeCoRel	automatic	0.99925715	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b005	de	224	33	a4	e4	adu	SeCoRel	automatic	0.99868554	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b005	de	299	44	a5	e5	adu	SeCoRel	automatic	0.99866092	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b006	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b006	de	94	15	a2	e2	adu	SeCoRel	automatic	0.99952269	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b006	de	172	25	a3	e3	adu	SeCoRel	automatic	0.99888068	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b006	de	293	46	a4	e4	adu	SeCoRel	automatic	0.99925059	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b006	de	326	52	a4	e5	internal_edu	SeCoRel	automatic	0.87737226	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b006	de	409	66	a5	e6	adu	SeCoRel	automatic	0.99289286	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b007	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b007	de	117	19	a2	e2	adu	SeCoRel	automatic	0.99894363	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b007	de	172	26	a2	e3	internal_edu	SeCoRel	automatic	0.69296169	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b007	de	220	35	a3	e4	adu	SeCoRel	automatic	0.99938464	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b007	de	304	46	a4	e5	adu	SeCoRel	automatic	0.99818331	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b007	de	330	50	a4	e6	internal_edu	SeCoRel	automatic	0.55837679	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b007	de	410	64	a5	e7	adu	SeCoRel	automatic	0.99911588	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b008	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b008	de	33	6	a1	e2	internal_edu	SeCoRel	automatic	0.95070332	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b008	de	163	27	a1	e3	internal_edu	SeCoRel	automatic	0.98962003	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b008	de	192	33	a2	e4	adu	SeCoRel	automatic	0.99756145	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b008	de	222	40	a3	e5	adu	SeCoRel	automatic	0.99741542	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b008	de	287	51	a4	e6	adu	SeCoRel	automatic	0.99706799	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b008	de	325	58	a5	e7	adu	SeCoRel	automatic	0.99950147	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b009	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b009	de	115	18	a1	e2	internal_edu	SeCoRel	automatic	0.62428725	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b009	de	148	24	a2	e3	adu	SeCoRel	automatic	0.99887246	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b009	de	233	34	a3	e4	adu	SeCoRel	automatic	0.99952221	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b009	de	350	50	a4	e5	adu	SeCoRel	automatic	0.99875367	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b010	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b010	de	89	10	a2	e2	adu	SeCoRel	automatic	0.99825162	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b010	de	178	24	a3	e3	adu	SeCoRel	automatic	0.99879092	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b010	de	287	39	a4	e4	adu	SeCoRel	automatic	0.99467540	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b010	de	324	46	a5	e5	adu	SeCoRel	automatic	0.99771881	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b011	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b011	de	110	16	a2	e2	adu	SeCoRel	automatic	0.99930644	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b011	de	154	25	a3	e3	adu	SeCoRel	automatic	0.99554199	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b012	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b012	de	67	9	a2	e2	adu	SeCoRel	automatic	0.97987217	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b012	de	167	24	a3	e3	adu	SeCoRel	automatic	0.99924999	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b012	de	344	55	a4	e4	adu	SeCoRel	automatic	0.99968362	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b012	de	440	69	a4	e5	internal_edu	SeCoRel	automatic	0.98710632	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b013	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b013	de	97	10	a2	e2	adu	SeCoRel	automatic	0.99760252	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b013	de	228	31	a3	e3	adu	SeCoRel	automatic	0.99637789	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b013	de	355	48	a4	e4	adu	SeCoRel	automatic	0.99567324	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b013	de	453	60	a4	e5	internal_edu	SeCoRel	automatic	0.91846144	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b014	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b014	de	57	8	a1	e2	internal_edu	SeCoRel	automatic	0.51097172	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b014	de	103	19	a2	e3	adu	SeCoRel	automatic	0.99779379	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b014	de	197	36	a3	e4	adu	SeCoRel	automatic	0.99330115	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b014	de	288	48	a4	e5	adu	SeCoRel	automatic	0.98260987	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b014	de	315	54	a4	e6	internal_edu	SeCoRel	automatic	0.98602170	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b014	de	405	67	a5	e7	adu	SeCoRel	automatic	0.99862194	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b015	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b015	de	98	17	a2	e2	adu	SeCoRel	automatic	0.99968970	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b015	de	163	29	a3	e3	adu	SeCoRel	automatic	0.99851078	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b015	de	213	38	a3	e4	internal_edu	SeCoRel	automatic	0.98949617	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b015	de	252	45	a3	e5	internal_edu	SeCoRel	automatic	0.97816306	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b015	de	279	51	a4	e6	adu	SeCoRel	automatic	0.99870813	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b015	de	338	63	a5	e7	adu	SeCoRel	automatic	0.99665558	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b015	de	368	70	a5	e8	internal_edu	SeCoRel	automatic	0.98754209	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b015	de	405	77	a5	e9	internal_edu	SeCoRel	automatic	0.98582768	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b016	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b016	de	101	13	a1	e2	internal_edu	SeCoRel	automatic	0.99270684	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b016	de	131	19	a2	e3	adu	SeCoRel	automatic	0.99838686	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b016	de	183	27	a2	e4	internal_edu	SeCoRel	automatic	0.96039921	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b016	de	285	44	a3	e5	adu	SeCoRel	automatic	0.99866879	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b016	de	399	67	a4	e6	adu	SeCoRel	automatic	0.99931431	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b016	de	504	81	a5	e7	adu	SeCoRel	automatic	0.99837387	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b017	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b017	de	87	12	a2	e2	adu	SeCoRel	automatic	0.99952698	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b017	de	138	19	a3	e3	adu	SeCoRel	automatic	0.99820960	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b017	de	225	33	a4	e4	adu	SeCoRel	automatic	0.99900669	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b017	de	296	43	a4	e5	internal_edu	SeCoRel	automatic	0.95956838	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b017	de	368	56	a5	e6	adu	SeCoRel	automatic	0.99949300	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b018	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b018	de	59	10	a2	e2	adu	SeCoRel	automatic	0.99867541	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b018	de	150	21	a3	e3	adu	SeCoRel	automatic	0.99751955	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b018	de	241	33	a4	e4	adu	SeCoRel	automatic	0.99885619	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b018	de	296	41	a5	e5	adu	SeCoRel	automatic	0.99945086	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b019	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b019	de	76	12	a2	e2	adu	SeCoRel	automatic	0.99849892	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b019	de	109	19	a2	e3	internal_edu	SeCoRel	automatic	0.94102442	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b019	de	166	27	a3	e4	adu	SeCoRel	automatic	0.99919230	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b019	de	259	37	a4	e5	adu	SeCoRel	automatic	0.99762899	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b019	de	335	47	a5	e6	adu	SeCoRel	automatic	0.99886394	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b019	de	415	58	a6	e7	adu	SeCoRel	automatic	0.99682641	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b020	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b020	de	59	7	a2	e2	adu	SeCoRel	automatic	0.99923933	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b020	de	148	18	a3	e3	adu	SeCoRel	automatic	0.99799359	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b020	de	219	28	a4	e4	adu	SeCoRel	automatic	0.99739766	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b020	de	292	38	a5	e5	adu	SeCoRel	automatic	0.99852729	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b020	de	372	52	a6	e6	adu	SeCoRel	automatic	0.99493647	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b021	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b021	de	62	8	a2	e2	adu	SeCoRel	automatic	0.99779981	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b021	de	147	20	a3	e3	adu	SeCoRel	automatic	0.99637645	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b021	de	209	27	a4	e4	adu	SeCoRel	automatic	0.99419582	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b022	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b022	de	64	12	a2	e2	adu	SeCoRel	automatic	0.99949646	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b022	de	107	19	a3	e3	adu	SeCoRel	automatic	0.99662614	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b022	de	175	31	a4	e4	adu	SeCoRel	automatic	0.99553490	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b022	de	253	44	a5	e5	adu	SeCoRel	automatic	0.99946779	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b023	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b023	de	114	20	a2	e2	adu	SeCoRel	automatic	0.99708849	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b023	de	164	26	a3	e3	adu	SeCoRel	automatic	0.99867648	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b023	de	224	34	a4	e4	adu	SeCoRel	automatic	0.99819475	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b023	de	363	55	a5	e5	adu	SeCoRel	automatic	0.99807799	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b024	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b024	de	113	14	a2	e2	adu	SeCoRel	automatic	0.99920160	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b024	de	150	20	a3	e3	adu	SeCoRel	automatic	0.99925059	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b024	de	245	37	a3	e4	internal_edu	SeCoRel	automatic	0.96615767	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b024	de	286	43	a4	e5	adu	SeCoRel	automatic	0.99950325	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b024	de	345	54	a5	e6	adu	SeCoRel	automatic	0.99870205	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b025	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b025	de	51	7	a2	e2	adu	SeCoRel	automatic	0.98939532	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b025	de	89	13	a3	e3	adu	SeCoRel	automatic	0.99943393	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b025	de	191	27	a4	e4	adu	SeCoRel	automatic	0.99784768	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b025	de	248	36	a5	e5	adu	SeCoRel	automatic	0.99692506	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b025	de	297	44	a6	e6	adu	SeCoRel	automatic	0.99932158	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b026	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b026	de	96	12	a2	e2	adu	SeCoRel	automatic	0.99870610	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b026	de	192	25	a3	e3	adu	SeCoRel	automatic	0.99934882	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b026	de	280	37	a4	e4	adu	SeCoRel	automatic	0.99428129	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b026	de	386	51	a5	e5	adu	SeCoRel	automatic	0.99653995	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b026	de	459	64	a6	e6	adu	SeCoRel	automatic	0.88360804	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b027	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b027	de	52	7	a2	e2	adu	SeCoRel	automatic	0.99534935	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b027	de	135	21	a3	e3	adu	SeCoRel	automatic	0.99920940	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b027	de	261	37	a4	e4	adu	SeCoRel	automatic	0.99897015	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b027	de	400	57	a5	e5	adu	SeCoRel	automatic	0.99929929	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b028	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b028	de	82	11	a2	e2	adu	SeCoRel	automatic	0.99904615	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b028	de	164	22	a3	e3	adu	SeCoRel	automatic	0.99950981	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b028	de	245	34	a4	e4	adu	SeCoRel	automatic	0.99762183	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b028	de	328	45	a5	e5	adu	SeCoRel	automatic	0.99936384	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b029	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b029	de	93	11	a2	e2	adu	SeCoRel	automatic	0.99861956	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b029	de	113	15	a2	e3	internal_edu	SeCoRel	automatic	0.79850531	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b029	de	193	28	a3	e4	adu	SeCoRel	automatic	0.99828809	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b029	de	330	50	a4	e5	adu	SeCoRel	automatic	0.99832004	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b029	de	382	60	a4	e6	internal_edu	SeCoRel	automatic	0.97478628	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b029	de	421	66	a5	e7	adu	SeCoRel	automatic	0.99847990	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b030	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b030	de	66	9	a2	e2	adu	SeCoRel	automatic	0.99910080	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b030	de	194	28	a3	e3	adu	SeCoRel	automatic	0.99909365	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b030	de	273	40	a4	e4	adu	SeCoRel	automatic	0.99908566	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b031	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b031	de	66	10	a2	e2	adu	SeCoRel	automatic	0.99844068	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b031	de	165	28	a3	e3	adu	SeCoRel	automatic	0.99952447	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b031	de	227	38	a4	e4	adu	SeCoRel	automatic	0.99883050	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b031	de	296	49	a4	e5	internal_edu	SeCoRel	automatic	0.98689204	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b032	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b032	de	64	10	a2	e2	adu	SeCoRel	automatic	0.99868745	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b032	de	117	18	a3	e3	adu	SeCoRel	automatic	0.99917823	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b032	de	202	33	a4	e4	adu	SeCoRel	automatic	0.99523515	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b032	de	245	41	a4	e5	internal_edu	SeCoRel	automatic	0.98937374	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b033	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b033	de	92	13	a2	e2	adu	SeCoRel	automatic	0.99728739	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b033	de	145	25	a3	e3	adu	SeCoRel	automatic	0.99949443	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b034	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b034	de	72	9	a2	e2	adu	SeCoRel	automatic	0.98959726	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b034	de	138	20	a3	e3	adu	SeCoRel	automatic	0.99534398	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b034	de	227	35	a4	e4	adu	SeCoRel	automatic	0.99783450	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b034	de	257	40	a4	e5	internal_edu	SeCoRel	automatic	0.99046421	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b034	de	293	46	a5	e6	adu	SeCoRel	automatic	0.99813133	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b035	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b035	de	96	9	a2	e2	adu	SeCoRel	automatic	0.94136238	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b035	de	158	18	a2	e3	internal_edu	SeCoRel	automatic	0.94631046	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b035	de	186	24	a3	e4	adu	SeCoRel	automatic	0.99790961	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b035	de	257	35	a4	e5	adu	SeCoRel	automatic	0.99946922	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b035	de	363	50	a5	e6	adu	SeCoRel	automatic	0.99940360	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b035	de	468	64	a5	e7	internal_edu	SeCoRel	automatic	0.87857789	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b036	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b036	de	82	11	a2	e2	adu	SeCoRel	automatic	0.99944407	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b036	de	155	23	a2	e3	internal_edu	SeCoRel	automatic	0.85294968	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b036	de	212	31	a3	e4	adu	SeCoRel	automatic	0.99815410	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b036	de	303	43	a4	e5	adu	SeCoRel	automatic	0.58907497	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b036	de	380	51	a4	e6	internal_edu	SeCoRel	automatic	0.88183445	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b036	de	405	57	a5	e7	adu	SeCoRel	automatic	0.99898344	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b036	de	490	68	a6	e8	adu	SeCoRel	automatic	0.99758935	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b037	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b037	de	70	13	a2	e2	adu	SeCoRel	automatic	0.99934572	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b037	de	149	24	a3	e3	adu	SeCoRel	automatic	0.99841547	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b037	de	289	47	a4	e4	adu	SeCoRel	automatic	0.99907446	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b037	de	354	57	a5	e5	adu	SeCoRel	automatic	0.99837852	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b038	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b038	de	68	9	a2	e2	adu	SeCoRel	automatic	0.99893636	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b038	de	201	25	a3	e3	adu	SeCoRel	automatic	0.99141437	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b038	de	294	36	a4	e4	adu	SeCoRel	automatic	0.99923897	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b038	de	414	54	a5	e5	adu	SeCoRel	automatic	0.99840003	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b038	de	494	66	a6	e6	adu	SeCoRel	automatic	0.99843520	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b038	de	573	81	a6	e7	internal_edu	SeCoRel	automatic	0.88246542	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b039	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b039	de	75	13	a2	e2	adu	SeCoRel	automatic	0.99942064	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b039	de	192	27	a3	e3	adu	SeCoRel	automatic	0.99894184	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b039	de	262	39	a4	e4	adu	SeCoRel	automatic	0.99933618	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b039	de	403	66	a5	e5	adu	SeCoRel	automatic	0.99943298	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b039	de	506	84	a6	e6	adu	SeCoRel	automatic	0.99803764	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b039	de	566	92	a6	e7	internal_edu	SeCoRel	automatic	0.50283891	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b040	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b040	de	84	12	a2	e2	adu	SeCoRel	automatic	0.99610221	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b040	de	175	27	a3	e3	adu	SeCoRel	automatic	0.96749496	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b040	de	269	43	a4	e4	adu	SeCoRel	automatic	0.99952745	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b040	de	405	63	a4	e5	internal_edu	SeCoRel	automatic	0.98866397	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b040	de	427	67	a5	e6	adu	SeCoRel	automatic	0.99959332	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b040	de	456	71	a5	e7	internal_edu	SeCoRel	automatic	0.94881743	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b040	de	540	82	a6	e8	adu	SeCoRel	automatic	0.99885046	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b040	de	576	89	a6	e9	internal_edu	SeCoRel	automatic	0.99703431	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b041	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b041	de	50	6	a1	e2	internal_edu	SeCoRel	automatic	0.99202174	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b041	de	98	14	a2	e3	adu	SeCoRel	automatic	0.99874830	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b041	de	166	26	a2	e4	internal_edu	SeCoRel	automatic	0.50137717	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b041	de	218	33	a3	e5	adu	SeCoRel	automatic	0.99965107	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b041	de	288	43	a4	e6	adu	SeCoRel	automatic	0.99678922	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b041	de	340	51	a4	e7	internal_edu	SeCoRel	automatic	0.98949474	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b041	de	369	56	a5	e8	adu	SeCoRel	automatic	0.99924707	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b041	de	449	65	a6	e9	adu	SeCoRel	automatic	0.99714065	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b042	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b042	de	119	16	a1	e2	internal_edu	SeCoRel	automatic	0.98942554	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b042	de	157	22	a2	e3	adu	SeCoRel	automatic	0.99962783	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b042	de	237	35	a3	e4	adu	SeCoRel	automatic	0.99917537	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b042	de	344	53	a4	e5	adu	SeCoRel	automatic	0.99508357	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b042	de	404	61	a5	e6	adu	SeCoRel	automatic	0.99960417	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b042	de	548	82	a5	e7	internal_edu	SeCoRel	automatic	0.90877670	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b042	de	602	89	a6	e8	adu	SeCoRel	automatic	0.99920952	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b042	de	685	100	a6	e9	internal_edu	SeCoRel	automatic	0.99408454	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b044	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b044	de	84	10	a1	e2	internal_edu	SeCoRel	automatic	0.99323082	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b044	de	120	16	a2	e3	adu	SeCoRel	automatic	0.99698454	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b044	de	150	21	a3	e4	adu	SeCoRel	automatic	0.99941516	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b044	de	216	30	a4	e5	adu	SeCoRel	automatic	0.99528956	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b044	de	255	35	a5	e6	adu	SeCoRel	automatic	0.99926919	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b045	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	true
+micro_b045	de	118	19	a1	e2	internal_edu	SeCoRel	automatic	0.99670875	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b045	de	156	25	a2	e3	adu	SeCoRel	automatic	0.99946731	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b045	de	208	35	a3	e4	adu	SeCoRel	automatic	0.99730372	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b045	de	306	48	a4	e5	adu	SeCoRel	automatic	0.99940646	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b045	de	387	62	a5	e6	adu	SeCoRel	automatic	0.99686486	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b046	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b046	de	58	6	a2	e2	adu	SeCoRel	automatic	0.99768269	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b046	de	114	14	a3	e3	adu	SeCoRel	automatic	0.99891758	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b046	de	190	26	a4	e4	adu	SeCoRel	automatic	0.99956578	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b046	de	293	40	a5	e5	adu	SeCoRel	automatic	0.99930882	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b047	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b047	de	57	11	a2	e2	adu	SeCoRel	automatic	0.99933189	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b047	de	171	26	a3	e3	adu	SeCoRel	automatic	0.99907851	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b047	de	242	35	a4	e4	adu	SeCoRel	automatic	0.99215686	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b047	de	321	47	a5	e5	adu	SeCoRel	automatic	0.99928159	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b048	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b048	de	49	9	a2	e2	adu	SeCoRel	automatic	0.99549872	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b048	de	92	16	a3	e3	adu	SeCoRel	automatic	0.99281138	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b048	de	168	27	a4	e4	adu	SeCoRel	automatic	0.99906152	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b048	de	259	40	a5	e5	adu	SeCoRel	automatic	0.99920195	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b049	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b049	de	98	13	a2	e2	adu	SeCoRel	automatic	0.99584502	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b049	de	151	23	a3	e3	adu	SeCoRel	automatic	0.99906498	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b049	de	186	29	a3	e4	internal_edu	SeCoRel	automatic	0.99577749	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b049	de	256	39	a4	e5	adu	SeCoRel	automatic	0.99946541	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b049	de	371	57	a5	e6	adu	SeCoRel	automatic	0.99739456	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b050	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b050	de	75	8	a2	e2	adu	SeCoRel	automatic	0.99811089	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b050	de	150	20	a3	e3	adu	SeCoRel	automatic	0.99930894	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b050	de	214	32	a4	e4	adu	SeCoRel	automatic	0.99616075	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b050	de	271	42	a5	e5	adu	SeCoRel	automatic	0.99952281	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b051	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b051	de	92	15	a2	e2	adu	SeCoRel	automatic	0.99933523	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b051	de	183	30	a3	e3	adu	SeCoRel	automatic	0.99770761	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b051	de	267	41	a4	e4	adu	SeCoRel	automatic	0.99938917	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b051	de	381	57	a5	e5	adu	SeCoRel	automatic	0.99940324	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b051	de	465	68	a6	e6	adu	SeCoRel	automatic	0.99933511	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b052	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	true
+micro_b052	de	70	10	a2	e2	adu	SeCoRel	automatic	0.99782073	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b052	de	142	21	a3	e3	adu	SeCoRel	automatic	0.99699712	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b052	de	215	34	a4	e4	adu	SeCoRel	automatic	0.99967313	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b052	de	330	51	a5	e5	adu	SeCoRel	automatic	0.99919683	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b053	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b053	de	127	16	a2	e2	adu	SeCoRel	automatic	0.99940622	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b053	de	234	33	a3	e3	adu	SeCoRel	automatic	0.99947590	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b053	de	309	44	a4	e4	adu	SeCoRel	automatic	0.99687445	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b053	de	395	58	a5	e5	adu	SeCoRel	automatic	0.99954551	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b053	de	477	68	a6	e6	adu	SeCoRel	automatic	0.99849021	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b054	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	true
+micro_b054	de	47	7	a2	e2	adu	SeCoRel	automatic	0.99372852	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b054	de	91	14	a2	e3	internal_edu	SeCoRel	automatic	0.81967425	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b054	de	116	18	a2	e4	internal_edu	SeCoRel	automatic	0.93649322	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b054	de	145	24	a2	e5	internal_edu	SeCoRel	automatic	0.57497352	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b054	de	183	31	a3	e6	adu	SeCoRel	automatic	0.99943274	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b054	de	228	41	a4	e7	adu	SeCoRel	automatic	0.99021626	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b054	de	313	53	a5	e8	adu	SeCoRel	automatic	0.99943906	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b054	de	477	78	a6	e9	adu	SeCoRel	automatic	0.99936408	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b054	de	560	90	a6	e10	internal_edu	SeCoRel	automatic	0.99711287	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b055	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b055	de	29	6	a2	e2	adu	SeCoRel	automatic	0.98061889	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b055	de	123	24	a3	e3	adu	SeCoRel	automatic	0.99916673	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b055	de	195	38	a3	e4	internal_edu	SeCoRel	automatic	0.97101319	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b055	de	257	48	a4	e5	adu	SeCoRel	automatic	0.99848914	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b055	de	366	70	a4	e6	internal_edu	SeCoRel	automatic	0.98956233	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b055	de	416	77	a5	e7	adu	SeCoRel	automatic	0.99919146	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b055	de	501	92	a5	e8	internal_edu	SeCoRel	automatic	0.98626977	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b055	de	541	99	a6	e9	adu	SeCoRel	automatic	0.99776089	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b055	de	643	115	a6	e10	internal_edu	SeCoRel	automatic	0.94488323	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b056	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b056	de	96	17	a2	e2	adu	SeCoRel	automatic	0.99913353	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b056	de	157	27	a2	e3	internal_edu	SeCoRel	automatic	0.98722816	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b056	de	188	32	a2	e4	internal_edu	SeCoRel	automatic	0.99612302	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b056	de	216	38	a2	e5	internal_edu	SeCoRel	automatic	0.97355258	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b056	de	248	45	a3	e6	adu	SeCoRel	automatic	0.99916923	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b056	de	367	65	a4	e7	adu	SeCoRel	automatic	0.99041736	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b056	de	481	81	a5	e8	adu	SeCoRel	automatic	0.99789232	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b056	de	559	95	a6	e9	adu	SeCoRel	automatic	0.96995777	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b057	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	true
+micro_b057	de	100	21	a2	e2	adu	SeCoRel	automatic	0.99718577	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b057	de	168	37	a2	e3	internal_edu	SeCoRel	automatic	0.97562033	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b057	de	224	49	a2	e4	internal_edu	SeCoRel	automatic	0.93171972	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b057	de	260	59	a2	e5	internal_edu	SeCoRel	automatic	0.59417456	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b057	de	280	64	a3	e6	adu	SeCoRel	automatic	0.99925429	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b057	de	344	74	a3	e7	internal_edu	SeCoRel	automatic	0.99148834	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b057	de	482	92	a4	e8	adu	SeCoRel	automatic	0.99885404	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b057	de	527	99	a4	e9	internal_edu	SeCoRel	automatic	0.81314462	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b058	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	true
+micro_b058	de	137	22	a2	e2	adu	SeCoRel	automatic	0.99914098	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b058	de	205	35	a3	e3	adu	SeCoRel	automatic	0.99710304	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b058	de	289	50	a4	e4	adu	SeCoRel	automatic	0.65825599	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b058	de	336	57	a4	e5	internal_edu	SeCoRel	automatic	0.99646449	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b058	de	398	68	a4	e6	internal_edu	SeCoRel	automatic	0.99388874	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b058	de	489	85	a5	e7	adu	SeCoRel	automatic	0.99957055	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b058	de	554	96	a6	e8	adu	SeCoRel	automatic	0.99419725	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b058	de	596	103	a6	e9	internal_edu	SeCoRel	automatic	0.95073491	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b058	de	631	109	a7	e10	adu	SeCoRel	automatic	0.99929869	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b058	de	726	122	a7	e11	internal_edu	SeCoRel	automatic	0.99207896	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b058	de	782	132	a7	e12	internal_edu	SeCoRel	automatic	0.61324036	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_b059	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b059	de	118	16	a2	e2	adu	SeCoRel	automatic	0.99892813	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b059	de	235	31	a3	e3	adu	SeCoRel	automatic	0.99963868	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b059	de	341	47	a4	e4	adu	SeCoRel	automatic	0.99142671	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b059	de	457	63	a5	e5	adu	SeCoRel	automatic	0.99950039	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b060	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b060	de	121	14	a2	e2	adu	SeCoRel	automatic	0.99887186	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b060	de	206	25	a3	e3	adu	SeCoRel	automatic	0.99957234	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b060	de	283	36	a4	e4	adu	SeCoRel	automatic	0.99828100	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b060	de	347	46	a5	e5	adu	SeCoRel	automatic	0.99941897	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b061	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b061	de	49	7	a1	e2	internal_edu	SeCoRel	automatic	0.98820657	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b061	de	90	14	a1	e3	internal_edu	SeCoRel	automatic	0.68523115	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b061	de	112	18	a2	e4	adu	SeCoRel	automatic	0.99921799	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b061	de	174	27	a3	e5	adu	SeCoRel	automatic	0.99830830	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b062	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b062	de	80	15	a2	e2	adu	SeCoRel	automatic	0.99934071	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b062	de	171	30	a3	e3	adu	SeCoRel	automatic	0.99956948	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b062	de	243	42	a4	e4	adu	SeCoRel	automatic	0.99752134	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b062	de	353	57	a5	e5	adu	SeCoRel	automatic	0.99921310	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b062	de	391	62	a5	e6	internal_edu	SeCoRel	automatic	0.99255812	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b062	de	444	69	a6	e7	adu	SeCoRel	automatic	0.99882442	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b064	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_b064	de	12	3	a1	e2	internal_edu	SeCoRel	automatic	0.77553409	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b064	de	125	18	a2	e3	adu	SeCoRel	automatic	0.99765909	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b064	de	193	28	a3	e4	adu	SeCoRel	automatic	0.99940288	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b064	de	307	43	a4	e5	adu	SeCoRel	automatic	0.99961072	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b064	de	412	57	a5	e6	adu	SeCoRel	automatic	0.99862278	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_b064	de	522	72	a6	e7	adu	SeCoRel	automatic	0.99908519	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d01	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d01	de	40	7	a2	e2	adu	SeCoRel	automatic	0.99952698	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d01	de	111	19	a3	e3	adu	SeCoRel	automatic	0.99841547	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d01	de	154	28	a4	e4	adu	SeCoRel	automatic	0.99959189	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d01	de	174	32	a4	e5	internal_edu	SeCoRel	automatic	0.99608153	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d01	de	210	39	a5	e6	adu	SeCoRel	automatic	0.99615723	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d02	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d02	de	70	10	a2	e2	adu	SeCoRel	automatic	0.99916255	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d02	de	152	23	a3	e3	adu	SeCoRel	automatic	0.99778157	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d02	de	173	26	a3	e4	internal_edu	SeCoRel	automatic	0.90325832	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d02	de	245	35	a4	e5	adu	SeCoRel	automatic	0.99953973	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d02	de	319	50	a5	e6	adu	SeCoRel	automatic	0.99876010	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d03	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d03	de	70	11	a2	e2	adu	SeCoRel	automatic	0.99881339	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d03	de	103	17	a2	e3	internal_edu	SeCoRel	automatic	0.99213421	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d03	de	129	21	a3	e4	adu	SeCoRel	automatic	0.99937785	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d03	de	176	30	a4	e5	adu	SeCoRel	automatic	0.99722433	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d03	de	232	40	a5	e6	adu	SeCoRel	automatic	0.99861145	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d04	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d04	de	88	12	a2	e2	adu	SeCoRel	automatic	0.99934739	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d04	de	167	22	a3	e3	adu	SeCoRel	automatic	0.99888998	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d04	de	239	35	a4	e4	adu	SeCoRel	automatic	0.99758911	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d04	de	302	45	a5	e5	adu	SeCoRel	automatic	0.99959248	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d04	de	354	55	a5	e6	internal_edu	SeCoRel	automatic	0.99533325	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d05	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d05	de	45	7	a2	e2	adu	SeCoRel	automatic	0.99787116	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d05	de	135	24	a3	e3	adu	SeCoRel	automatic	0.99886632	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d05	de	231	41	a4	e4	adu	SeCoRel	automatic	0.99904448	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d05	de	260	45	a4	e5	internal_edu	SeCoRel	automatic	0.97480029	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d05	de	313	54	a5	e6	adu	SeCoRel	automatic	0.99948102	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d06	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d06	de	61	10	a2	e2	adu	SeCoRel	automatic	0.99922311	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d06	de	97	17	a3	e3	adu	SeCoRel	automatic	0.99823004	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d06	de	136	23	a4	e4	adu	SeCoRel	automatic	0.99936312	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d06	de	196	33	a5	e5	adu	SeCoRel	automatic	0.99859661	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d06	de	223	38	a5	e6	internal_edu	SeCoRel	automatic	0.91975003	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d07	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	true
+micro_d07	de	54	10	a2	e2	adu	SeCoRel	automatic	0.99798512	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_d07	de	116	19	a3	e3	adu	SeCoRel	automatic	0.96932834	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_d07	de	171	31	a4	e4	adu	SeCoRel	automatic	0.92834181	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_d07	de	221	40	a5	e5	adu	SeCoRel	automatic	0.99902380	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_d08	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d08	de	73	11	a2	e2	adu	SeCoRel	automatic	0.99718958	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d08	de	133	22	a3	e3	adu	SeCoRel	automatic	0.99819934	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d08	de	164	28	a3	e4	internal_edu	SeCoRel	automatic	0.99601364	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d08	de	192	33	a4	e5	adu	SeCoRel	automatic	0.99941146	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d08	de	270	45	a5	e6	adu	SeCoRel	automatic	0.99894613	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d09	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d09	de	31	5	a2	e2	adu	SeCoRel	automatic	0.99759716	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d09	de	98	18	a4	e3	adu	SeCoRel	automatic	0.99899048	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d09	de	158	30	a5	e4	adu	SeCoRel	automatic	0.99763274	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d10	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d10	de	65	9	a2	e2	adu	SeCoRel	automatic	0.99913812	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d10	de	108	14	a3	e3	adu	SeCoRel	automatic	0.99849606	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d10	de	151	20	a4	e4	adu	SeCoRel	automatic	0.99947017	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d10	de	221	32	a5	e5	adu	SeCoRel	automatic	0.99916875	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d11	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d11	de	48	9	a2	e2	adu	SeCoRel	automatic	0.99947125	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d11	de	104	16	a3	e3	adu	SeCoRel	automatic	0.99785823	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d11	de	145	24	a4	e4	adu	SeCoRel	automatic	0.99706763	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d11	de	209	35	a5	e5	adu	SeCoRel	automatic	0.99942470	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d12	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d12	de	58	10	a2	e2	adu	SeCoRel	automatic	0.99912483	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d12	de	99	18	a3	e3	adu	SeCoRel	automatic	0.99586713	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d12	de	144	25	a4	e4	adu	SeCoRel	automatic	0.99673837	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d12	de	206	35	a5	e5	adu	SeCoRel	automatic	0.99901295	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d13	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d13	de	57	10	a1	e2	internal_edu	SeCoRel	automatic	0.99688751	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d13	de	115	17	a2	e3	adu	SeCoRel	automatic	0.99973422	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d13	de	155	25	a2	e4	internal_edu	SeCoRel	automatic	0.97190374	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d13	de	188	31	a3	e5	adu	SeCoRel	automatic	0.99747831	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d13	de	247	40	a4	e6	adu	SeCoRel	automatic	0.99927682	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d13	de	268	44	a4	e7	internal_edu	SeCoRel	automatic	0.93909723	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d13	de	315	51	a5	e8	adu	SeCoRel	automatic	0.99930680	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d14	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	true
+micro_d14	de	12	3	a1	e2	internal_edu	SeCoRel	automatic	0.80290282	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_d14	de	67	14	a2	e3	adu	SeCoRel	automatic	0.99948138	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_d14	de	146	29	a3	e4	adu	SeCoRel	automatic	0.99886072	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_d14	de	220	42	a4	e5	adu	SeCoRel	automatic	0.99915254	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_d14	de	263	48	a4	e6	internal_edu	SeCoRel	automatic	0.70636624	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_d14	de	285	53	a5	e7	adu	SeCoRel	automatic	0.99903214	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_d14	de	347	64	a5	e8	internal_edu	SeCoRel	automatic	0.98384225	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_d15	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d15	de	103	18	a2	e2	adu	SeCoRel	automatic	0.99898964	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d15	de	177	28	a3	e3	adu	SeCoRel	automatic	0.99951744	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d15	de	252	37	a4	e4	adu	SeCoRel	automatic	0.99647313	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d15	de	335	47	a5	e5	adu	SeCoRel	automatic	0.99934036	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d16	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d16	de	24	3	a2	e2	adu	SeCoRel	automatic	0.99637812	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d16	de	145	17	a3	e3	adu	SeCoRel	automatic	0.99936587	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d16	de	261	32	a4	e4	adu	SeCoRel	automatic	0.99847382	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d16	de	298	38	a5	e5	adu	SeCoRel	automatic	0.99562305	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d17	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d17	de	40	5	a2	e2	adu	SeCoRel	automatic	0.99925393	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d17	de	109	12	a3	e3	adu	SeCoRel	automatic	0.99916911	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d17	de	176	21	a4	e4	adu	SeCoRel	automatic	0.99931490	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d17	de	276	35	a5	e5	adu	SeCoRel	automatic	0.99704945	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d18	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d18	de	62	9	a2	e2	adu	SeCoRel	automatic	0.99923885	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d18	de	135	21	a3	e3	adu	SeCoRel	automatic	0.99957711	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d18	de	210	32	a4	e4	adu	SeCoRel	automatic	0.99805993	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d18	de	279	43	a5	e5	adu	SeCoRel	automatic	0.99938905	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d19	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d19	de	48	9	a2	e2	adu	SeCoRel	automatic	0.99914193	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d19	de	160	27	a3	e3	adu	SeCoRel	automatic	0.99900633	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d19	de	225	36	a4	e4	adu	SeCoRel	automatic	0.99901962	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d19	de	349	57	a5	e5	adu	SeCoRel	automatic	0.99847811	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d20	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d20	de	93	15	a2	e2	adu	SeCoRel	automatic	0.99936873	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d20	de	144	24	a3	e3	adu	SeCoRel	automatic	0.99882466	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d20	de	208	33	a4	e4	adu	SeCoRel	automatic	0.99851757	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d20	de	279	46	a5	e5	adu	SeCoRel	automatic	0.99921715	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d21	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d21	de	64	7	a2	e2	adu	SeCoRel	automatic	0.99956590	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d21	de	146	19	a3	e3	adu	SeCoRel	automatic	0.99705589	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d21	de	194	27	a4	e4	adu	SeCoRel	automatic	0.98603803	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d21	de	232	34	a5	e5	adu	SeCoRel	automatic	0.99776387	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d22	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d22	de	107	15	a2	e2	adu	SeCoRel	automatic	0.99823064	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d22	de	202	29	a3	e3	adu	SeCoRel	automatic	0.99958748	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d22	de	332	47	a4	e4	adu	SeCoRel	automatic	0.99953115	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d22	de	428	63	a5	e5	adu	SeCoRel	automatic	0.99911696	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d23	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_d23	de	68	11	a2	e2	adu	SeCoRel	automatic	0.99504918	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d23	de	116	20	a3	e3	adu	SeCoRel	automatic	0.99902463	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d23	de	179	30	a3	e4	internal_edu	SeCoRel	automatic	0.92015642	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d23	de	220	37	a4	e5	adu	SeCoRel	automatic	0.99961144	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_d23	de	292	46	a5	e6	adu	SeCoRel	automatic	0.99889576	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k001	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k001	de	71	11	a2	e2	adu	SeCoRel	automatic	0.99877852	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k001	de	185	26	a3	e3	adu	SeCoRel	automatic	0.99860567	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k001	de	225	32	a4	e4	adu	SeCoRel	automatic	0.99723887	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k001	de	300	42	a5	e5	adu	SeCoRel	automatic	0.99939275	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k001	de	373	49	a6	e6	adu	SeCoRel	automatic	0.99922156	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k001	de	458	62	a6	e7	internal_edu	SeCoRel	automatic	0.99431592	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k002	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k002	de	34	6	a1	e2	internal_edu	SeCoRel	automatic	0.75905502	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k002	de	107	15	a2	e3	adu	SeCoRel	automatic	0.99808037	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k002	de	197	28	a2	e4	internal_edu	SeCoRel	automatic	0.98727024	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k002	de	267	37	a3	e5	adu	SeCoRel	automatic	0.99862230	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k002	de	341	49	a4	e6	adu	SeCoRel	automatic	0.99933296	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k002	de	399	57	a4	e7	internal_edu	SeCoRel	automatic	0.98544139	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k002	de	439	64	a5	e8	adu	SeCoRel	automatic	0.99746370	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k003	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k003	de	98	16	a2	e2	adu	SeCoRel	automatic	0.99794668	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k003	de	256	39	a3	e3	adu	SeCoRel	automatic	0.99941444	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k003	de	341	51	a4	e4	adu	SeCoRel	automatic	0.98576111	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k003	de	510	72	a5	e5	adu	SeCoRel	automatic	0.99865377	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k004	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k004	de	99	13	a2	e2	adu	SeCoRel	automatic	0.99719775	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k004	de	198	30	a3	e3	adu	SeCoRel	automatic	0.99895728	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k004	de	334	48	a4	e4	adu	SeCoRel	automatic	0.99853754	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k004	de	452	64	a5	e5	adu	SeCoRel	automatic	0.99944395	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k004	de	566	80	a5	e6	internal_edu	SeCoRel	automatic	0.99253678	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k006	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k006	de	50	7	a1	e2	internal_edu	SeCoRel	automatic	0.99626201	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k006	de	114	14	a1	e3	internal_edu	SeCoRel	automatic	0.92058277	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k006	de	130	16	a1	e4	internal_edu	SeCoRel	automatic	0.97120631	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k006	de	159	21	a2	e5	adu	SeCoRel	automatic	0.99950814	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k006	de	228	31	a2	e6	internal_edu	SeCoRel	automatic	0.95034468	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k006	de	297	41	a3	e7	adu	SeCoRel	automatic	0.99910909	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k006	de	343	49	a4	e8	adu	SeCoRel	automatic	0.99926263	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k006	de	387	56	a5	e9	adu	SeCoRel	automatic	0.99792874	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k007	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k007	de	105	16	a2	e2	adu	SeCoRel	automatic	0.99935013	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k007	de	171	26	a3	e3	adu	SeCoRel	automatic	0.99956435	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k007	de	237	36	a4	e4	adu	SeCoRel	automatic	0.99708706	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k007	de	288	46	a5	e5	adu	SeCoRel	automatic	0.99921691	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k008	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k008	de	83	12	a1	e2	internal_edu	SeCoRel	automatic	0.99595547	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k008	de	130	19	a2	e3	adu	SeCoRel	automatic	0.98993403	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k008	de	198	28	a3	e4	adu	SeCoRel	automatic	0.99956566	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k008	de	300	43	a4	e5	adu	SeCoRel	automatic	0.99937361	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k009	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k009	de	62	9	a2	e2	adu	SeCoRel	automatic	0.99838388	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k009	de	88	14	a2	e3	internal_edu	SeCoRel	automatic	0.99459100	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k009	de	174	30	a2	e4	internal_edu	SeCoRel	automatic	0.92813259	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k009	de	211	37	a3	e5	adu	SeCoRel	automatic	0.99951732	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k009	de	249	42	a3	e6	internal_edu	SeCoRel	automatic	0.99187297	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k009	de	307	51	a4	e7	adu	SeCoRel	automatic	0.99593723	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k009	de	420	69	a4	e8	internal_edu	SeCoRel	automatic	0.80221826	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k009	de	474	79	a5	e9	adu	SeCoRel	automatic	0.96717012	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k009	de	533	89	a6	e10	adu	SeCoRel	automatic	0.99829286	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k009	de	614	106	a6	e11	internal_edu	SeCoRel	automatic	0.95838559	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k009	de	662	115	a6	e12	internal_edu	SeCoRel	automatic	0.90882021	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k010	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k010	de	146	30	a2	e2	adu	SeCoRel	automatic	0.99758613	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k010	de	223	41	a2	e3	internal_edu	SeCoRel	automatic	0.99411547	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k010	de	261	48	a3	e4	adu	SeCoRel	automatic	0.99729198	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k010	de	307	56	a4	e5	adu	SeCoRel	automatic	0.99839348	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k010	de	425	74	a5	e6	adu	SeCoRel	automatic	0.99847001	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k010	de	450	79	a5	e7	internal_edu	SeCoRel	automatic	0.54964370	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k010	de	511	89	a5	e8	internal_edu	SeCoRel	automatic	0.98589140	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k010	de	557	97	a6	e9	adu	SeCoRel	automatic	0.99855083	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k011	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k011	de	75	11	a1	e2	internal_edu	SeCoRel	automatic	0.99252146	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k011	de	125	21	a2	e3	adu	SeCoRel	automatic	0.99482191	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k011	de	150	25	a2	e4	internal_edu	SeCoRel	automatic	0.68298697	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k011	de	201	40	a3	e5	adu	SeCoRel	automatic	0.99921274	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k011	de	300	59	a4	e6	adu	SeCoRel	automatic	0.99897575	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k011	de	340	65	a4	e7	internal_edu	SeCoRel	automatic	0.99670213	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k011	de	388	74	a4	e8	internal_edu	SeCoRel	automatic	0.98869288	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k011	de	425	79	a5	e9	adu	SeCoRel	automatic	0.99947661	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k011	de	457	85	a6	e10	adu	SeCoRel	automatic	0.99712855	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k011	de	514	95	a7	e11	adu	SeCoRel	automatic	0.99917489	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k011	de	560	103	a8	e12	adu	SeCoRel	automatic	0.99759597	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k011	de	622	111	a9	e13	adu	SeCoRel	automatic	0.99750322	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k011	de	725	127	a10	e14	adu	SeCoRel	automatic	0.99652326	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k012	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k012	de	74	9	a2	e2	adu	SeCoRel	automatic	0.99910873	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k012	de	270	40	a3	e3	adu	SeCoRel	automatic	0.99941301	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k012	de	346	50	a3	e4	internal_edu	SeCoRel	automatic	0.99693584	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k012	de	403	62	a4	e5	adu	SeCoRel	automatic	0.99894398	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k012	de	428	67	a4	e6	internal_edu	SeCoRel	automatic	0.81616741	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k012	de	521	78	a5	e7	adu	SeCoRel	automatic	0.99874145	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k012	de	579	86	a5	e8	internal_edu	SeCoRel	automatic	0.98128617	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k013	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k013	de	122	20	a2	e2	adu	SeCoRel	automatic	0.99913990	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k013	de	173	30	a2	e3	internal_edu	SeCoRel	automatic	0.81292313	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k013	de	239	43	a2	e4	internal_edu	SeCoRel	automatic	0.91991657	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k013	de	282	50	a3	e5	adu	SeCoRel	automatic	0.99962270	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k013	de	299	55	a3	e6	internal_edu	SeCoRel	automatic	0.69165748	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k013	de	356	65	a4	e7	adu	SeCoRel	automatic	0.99850154	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k013	de	451	82	a4	e8	internal_edu	SeCoRel	automatic	0.99657393	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k013	de	497	89	a4	e9	internal_edu	SeCoRel	automatic	0.93901986	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k013	de	515	93	a5	e10	adu	SeCoRel	automatic	0.99858803	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k013	de	572	101	a5	e11	internal_edu	SeCoRel	automatic	0.56780398	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k014	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	true
+micro_k014	de	65	8	a2	e2	adu	SeCoRel	automatic	0.99847585	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_k014	de	116	16	a2	e3	internal_edu	SeCoRel	automatic	0.82397455	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_k014	de	229	29	a3	e4	adu	SeCoRel	automatic	0.99705267	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_k014	de	372	47	a4	e5	adu	SeCoRel	automatic	0.99941540	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_k014	de	519	67	a5	e6	adu	SeCoRel	automatic	0.99836057	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_k015	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k015	de	55	11	a2	e2	adu	SeCoRel	automatic	0.99762040	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k015	de	154	23	a3	e3	adu	SeCoRel	automatic	0.99658561	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k015	de	246	36	a4	e4	adu	SeCoRel	automatic	0.99934763	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k016	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k016	de	156	24	a3	e2	adu	SeCoRel	automatic	0.99970657	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k016	de	206	32	a4	e3	adu	SeCoRel	automatic	0.99860281	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k016	de	314	47	a5	e4	adu	SeCoRel	automatic	0.99461609	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k017	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k017	de	82	13	a2	e2	adu	SeCoRel	automatic	0.99693644	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k017	de	152	21	a3	e3	adu	SeCoRel	automatic	0.99514186	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k017	de	210	30	a4	e4	adu	SeCoRel	automatic	0.99951923	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k017	de	278	40	a5	e5	adu	SeCoRel	automatic	0.99886072	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k018	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k018	de	65	11	a2	e2	adu	SeCoRel	automatic	0.99935454	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k018	de	133	20	a3	e3	adu	SeCoRel	automatic	0.99377209	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k018	de	215	35	a4	e4	adu	SeCoRel	automatic	0.99960881	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k018	de	310	55	a5	e5	adu	SeCoRel	automatic	0.99894220	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k018	de	391	67	a6	e6	adu	SeCoRel	automatic	0.99958545	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k019	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k019	de	85	14	a2	e2	adu	SeCoRel	automatic	0.99763477	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k019	de	167	30	a3	e3	adu	SeCoRel	automatic	0.99876249	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k019	de	257	42	a4	e4	adu	SeCoRel	automatic	0.99840897	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k019	de	378	56	a5	e5	adu	SeCoRel	automatic	0.99910814	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k019	de	511	77	a6	e6	adu	SeCoRel	automatic	0.98314244	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k020	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k020	de	82	13	a2	e2	adu	SeCoRel	automatic	0.99943417	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k020	de	138	23	a3	e3	adu	SeCoRel	automatic	0.97806132	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k020	de	187	34	a4	e4	adu	SeCoRel	automatic	0.99912649	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k020	de	219	39	a4	e5	internal_edu	SeCoRel	automatic	0.83669078	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k020	de	235	43	a5	e6	adu	SeCoRel	automatic	0.99946576	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k021	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k021	de	74	10	a2	e2	adu	SeCoRel	automatic	0.99796730	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k021	de	148	22	a3	e3	adu	SeCoRel	automatic	0.99948907	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k021	de	276	40	a4	e4	adu	SeCoRel	automatic	0.99859160	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k021	de	323	48	a5	e5	adu	SeCoRel	automatic	0.99943084	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k022	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k022	de	61	13	a2	e2	adu	SeCoRel	automatic	0.99951291	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k022	de	110	24	a3	e3	adu	SeCoRel	automatic	0.99757200	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k022	de	171	36	a4	e4	adu	SeCoRel	automatic	0.99955744	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k022	de	241	48	a5	e5	adu	SeCoRel	automatic	0.99765128	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k022	de	287	56	a5	e6	internal_edu	SeCoRel	automatic	0.91606843	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k022	de	398	73	a6	e7	adu	SeCoRel	automatic	0.99949920	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k023	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k023	de	20	4	a1	e2	internal_edu	SeCoRel	automatic	0.84452671	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k023	de	54	10	a1	e3	internal_edu	SeCoRel	automatic	0.97357857	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k023	de	105	18	a2	e4	adu	SeCoRel	automatic	0.99955195	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k023	de	160	28	a3	e5	adu	SeCoRel	automatic	0.73393500	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k023	de	207	36	a4	e6	adu	SeCoRel	automatic	0.99862647	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k023	de	301	51	a5	e7	adu	SeCoRel	automatic	0.99758017	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k024	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	true
+micro_k024	de	93	11	a2	e2	adu	SeCoRel	automatic	0.99806529	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_k024	de	162	22	a3	e3	adu	SeCoRel	automatic	0.99943751	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_k024	de	268	39	a4	e4	adu	SeCoRel	automatic	0.99959832	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_k024	de	383	58	a5	e5	adu	SeCoRel	automatic	0.99942589	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_k024	de	464	72	a6	e6	adu	SeCoRel	automatic	0.99788195	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_k024	de	494	78	a7	e7	adu	SeCoRel	automatic	0.99931777	SeCoRel	secorel_disrpt_sentence_chunks_v1	true
+micro_k025	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k025	de	33	6	a2	e2	adu	SeCoRel	automatic	0.99727744	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k025	de	107	20	a3	e3	adu	SeCoRel	automatic	0.99953318	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k025	de	173	29	a4	e4	adu	SeCoRel	automatic	0.99771416	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k025	de	271	47	a4	e5	internal_edu	SeCoRel	automatic	0.69600886	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k025	de	298	53	a4	e6	internal_edu	SeCoRel	automatic	0.85441428	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k025	de	333	61	a5	e7	adu	SeCoRel	automatic	0.99908471	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k027	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k027	de	125	19	a2	e2	adu	SeCoRel	automatic	0.99943072	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k027	de	203	32	a2	e3	internal_edu	SeCoRel	automatic	0.99374652	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k027	de	262	41	a3	e4	adu	SeCoRel	automatic	0.99933904	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k027	de	341	54	a3	e5	internal_edu	SeCoRel	automatic	0.95822126	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k027	de	395	63	a3	e6	internal_edu	SeCoRel	automatic	0.85329878	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k027	de	425	69	a4	e7	adu	SeCoRel	automatic	0.99905390	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k029	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k029	de	99	19	a2	e2	adu	SeCoRel	automatic	0.99933261	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k029	de	220	37	a3	e3	adu	SeCoRel	automatic	0.99825090	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k029	de	295	48	a3	e4	internal_edu	SeCoRel	automatic	0.95334774	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k029	de	332	53	a4	e5	adu	SeCoRel	automatic	0.99948680	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k031	de	0	0	a1	e1	document_start	structural_constraint	forced			secorel_disrpt_sentence_chunks_v1	false
+micro_k031	de	49	8	a2	e2	adu	SeCoRel	automatic	0.99683893	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k031	de	108	18	a3	e3	adu	SeCoRel	automatic	0.99959880	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k031	de	197	28	a4	e4	adu	SeCoRel	automatic	0.99928719	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k031	de	280	41	a5	e5	adu	SeCoRel	automatic	0.99935836	SeCoRel	secorel_disrpt_sentence_chunks_v1	false
+micro_k031	de	334	51	a6	e6	adu	SeCoRel	automatic	0.99799597	SeCoRel	secorel_disrpt_sentence_chunks_v1	false

@@ -1,0 +1,40 @@
+{
+  "adu_boundary_recall": 0.9935344827586207,
+  "documents": 112,
+  "eduseg_de_internal_proposals": 118,
+  "eduseg_de_only": 13,
+  "gold_noninitial_adu_starts": 464,
+  "internal_boundary_f1_agreement": 0.8366533864541833,
+  "internal_boundary_jaccard": 0.7191780821917808,
+  "interpretation": "System agreement and ADU recall, not German EDU accuracy.",
+  "invalid_token_boundaries": [],
+  "invalid_token_boundary_predictions": 0,
+  "max_model_tokens_per_chunk": 73,
+  "missing_adu_boundaries": [
+    {
+      "adu_id": "a5",
+      "boundary_probability": 0.03194953501224518,
+      "char_offset": 455,
+      "doc_id": "micro_b013",
+      "text": "und wer wird deren breitere Expertise in Frage stellen wollen?"
+    },
+    {
+      "adu_id": "a3",
+      "boundary_probability": 0.019867151975631714,
+      "char_offset": 75,
+      "doc_id": "micro_d09",
+      "text": "wie bei deinem Bruder."
+    },
+    {
+      "adu_id": "a2",
+      "boundary_probability": 0.02195684425532818,
+      "char_offset": 83,
+      "doc_id": "micro_k016",
+      "text": "sollte sich die EU nicht in das dortige politische Geschehen einmischen."
+    }
+  ],
+  "recovered_noninitial_adu_starts": 461,
+  "secorel_internal_proposals": 133,
+  "secorel_only": 28,
+  "shared_internal_proposals": 105
+}
