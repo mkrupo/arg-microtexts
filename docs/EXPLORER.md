@@ -70,12 +70,14 @@ python3 -m unittest tests.test_edu_explorer_data
 No model weights, inference environment, runtime database, or machine-local
 paths are needed by the website.
 
-## Local website
+## Running the local website
 
 The interface is implemented with React and vinext. Node.js 22 or newer is
 required:
 
 ```bash
+nvm install
+nvm use
 npm install
 npm run data:check
 npm run check
@@ -83,9 +85,13 @@ npm run build
 npm run dev
 ```
 
+For ordinary exploration, only `nvm use`, `npm install`, and `npm run dev` are
+needed. Open the URL printed by the development server, normally
+`http://localhost:3000`.
+
 Generated build directories and dependency installations are ignored. Website
-source, the package lock, the deterministic browser dataset, and the Sites
-project identifier are versioned.
+source, the package lock, and the deterministic browser dataset are versioned.
+The project does not publish or require a hosted deployment.
 
 ## Interpretation boundary
 

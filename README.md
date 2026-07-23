@@ -87,13 +87,13 @@ Model inference is deliberately separate from the source audit. It will use
 optional environments for `eduseg_de` and SeCoRel; model weights, caches, raw
 runs, and machine-local paths are not committed.
 
-## Interactive result explorer
+## Local interactive result explorer
 
-The repository includes a small website for reading the aggregate findings and
-inspecting exact model boundaries inside every source text. It combines the
-German ADUs, all three published German prediction conditions, their raw
-scores at displayed positions, and aligned English RST gold EDUs. The browser
-dataset is a deterministic derived artifact:
+The repository includes a locally served website for reading the aggregate
+findings and inspecting exact model boundaries inside every source text. It
+combines the German ADUs, all three published German prediction conditions,
+their raw scores at displayed positions, and aligned English RST gold EDUs.
+The browser dataset is a deterministic derived artifact:
 
 ```bash
 python3 tools/build_edu_explorer_data.py
@@ -103,9 +103,18 @@ python3 tools/build_edu_explorer_data.py --check
 For local website development:
 
 ```bash
+nvm install
+nvm use
 npm install
 npm run dev
 ```
+
+Then open the local URL printed by vinext (normally
+`http://localhost:3000`). Node.js 22 or newer is required; `.nvmrc` records
+that version for `nvm`.
+
+The explorer is not hosted by this project. Anyone who clones the repository
+can build or serve it locally from the committed source and browser dataset.
 
 The interface labels automatic German boundaries as proposals throughout.
 It does not turn system agreement or English translation alignment into German
