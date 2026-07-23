@@ -65,6 +65,7 @@ python3 tools/export_german_adus.py --check
 python3 tools/publish_eduseg_run.py --check
 python3 tools/publish_eduseg_adu_ablation.py --check
 python3 tools/publish_secorel_run.py --check
+python3 tools/build_edu_explorer_data.py --check
 python3 -m unittest discover -s tests
 ```
 
@@ -85,6 +86,31 @@ its separate tokenization/chunking provenance.
 Model inference is deliberately separate from the source audit. It will use
 optional environments for `eduseg_de` and SeCoRel; model weights, caches, raw
 runs, and machine-local paths are not committed.
+
+## Interactive result explorer
+
+The repository includes a small website for reading the aggregate findings and
+inspecting exact model boundaries inside every source text. It combines the
+German ADUs, all three published German prediction conditions, their raw
+scores at displayed positions, and aligned English RST gold EDUs. The browser
+dataset is a deterministic derived artifact:
+
+```bash
+python3 tools/build_edu_explorer_data.py
+python3 tools/build_edu_explorer_data.py --check
+```
+
+For local website development:
+
+```bash
+npm install
+npm run dev
+```
+
+The interface labels automatic German boundaries as proposals throughout.
+It does not turn system agreement or English translation alignment into German
+gold evidence. See [`docs/EXPLORER.md`](docs/EXPLORER.md) for the visual
+encoding, review filters, provenance, and interpretation limits.
 
 The primary German complete-document EduSeg experiment is frozen in
 `experiments/configs/eduseg_de_document_v1.toml`. After installing PyTorch and

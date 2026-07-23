@@ -9,6 +9,13 @@ htmlcov/
 .venv/
 venv/
 
+# Website build products
+node_modules/
+.next/
+.vinext/
+.vite/
+dist/
+
 # Local configuration and credentials
 .env
 .env.*
